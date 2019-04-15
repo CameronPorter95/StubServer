@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": {
+    "id": "133132",
+    "customer_number": "88486298",
+    "given_names": "Paul Cameron Thomas",
+    "last_name": "KinzettO",
+    "email_address": "paul.kinzett4009@gmail.com",
+    "country_name": "New Zealand",
+    "country_code": "nz",
+    "gender": "Male",
+    "occupation": "Developer",
+    "default_currency_code": "NZD",
+    "free_payments": "1",
+    "contact_phone": "02056606006",
+    "house_number": "510",
+    "street_name": "Great South Road",
+    "suburb": null,
+    "city": "Papakura",
+    "postcode": "AA12 3BL",
+    "profile_completed": "2017-04-05 12:34:05"
+  }
+}

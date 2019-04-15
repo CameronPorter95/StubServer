@@ -1,0 +1,74 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": {
+    "id": "3139219",
+    "payment_number": "3226901",
+    "exchange_rate": "35.41850",
+    "send_currency": "NZD",
+    "payout_currency": "PHP",
+    "send_amount": "5.00",
+    "payout_amount": "177.09",
+    "total_amount": "11.00",
+    "fee_amount": "6.00",
+    "status": "Awaiting Payment",
+    "created": "2019-02-27 03:51:40",
+    "reason": "Im making a property payment",
+    "customer": {
+      "id": "209769",
+      "name": "Cameron James Porter",
+      "first_name": "Cameron James",
+      "last_name": "Porter",
+      "number": "89513870",
+      "email": "cameron.porter@orbitremit.com",
+      "date_of_birth": "1995-02-28",
+      "address1": "45B Bodmin Terrace",
+      "address2": null,
+      "address3": null,
+      "city": "Porirua",
+      "postcode": "5026"
+    },
+    "recipient": {
+      "uuid": "5beb3b3f-26d0-4db9-acd1-2a1ac0a8c878",
+      "type": "bank_account",
+      "name": "Courtney Smith",
+      "country_code": "ph",
+      "country_name": "Philippines",
+      "details": {
+        "account_number": "123456789",
+        "bank_name": "Asia United Bank Corporation"
+      },
+      "display_details": {
+        "bank": "Asia United Bank Corporation",
+        "account_number": "123456789"
+      },
+      "extra_details": {
+        "address1": "",
+        "address2": null,
+        "address3": null,
+        "city": "",
+        "postcode": null,
+        "email_address": "bsb@snith.com",
+        "phone_number": null,
+        "first_name": null,
+        "last_name": null,
+        "company_type": null,
+        "company_activity": null
+      }
+    },
+    "identity_documents": [{
+      "type": "DRIVERS_LICENCE",
+      "document_number": "DO785915"
+    }],
+    "deposit_account": {
+      "account_name": "OrbitRemit",
+      "account_number": "15-3971-0063331-10"
+    },
+    "progress": [],
+    "status_display": {
+      "description": "Thank you. Transfer 3226901 has been created and is Awaiting Payment to arrive into our bank account.",
+      "action_text": "WILL BE PAID TO",
+      "header_text": "Transfer Created"
+    }
+  }
+}

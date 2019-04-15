@@ -1,0 +1,60 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": {
+    "id": "11",
+    "payment_number": "87693",
+    "exchange_rate": "1.07660",
+    "send_currency": "AUD",
+    "payout_currency": "NZD",
+    "send_amount": "1500.00",
+    "payout_amount": "1614.90",
+    "total_amount": "1504.00",
+    "fee_amount": "4.00",
+    "status": "Awaiting Payment",
+    "created": "2017-04-04 14:35:39",
+    "reason": "Test",
+    "customer": {
+      "id": "133125",
+      "name": "Paul Cameron Thomas Kinzett",
+      "first_name": "Paul Cameron Thomas",
+      "last_name": "Kinzett",
+      "number": "88364195",
+      "email": "paul.kinzett0143@gmail.com"
+    },
+    "recipient": {
+      "uuid": "58e27038-1590-4569-9cc1-0058ac120004",
+      "type": "Bank Deposit",
+      "name": "Paul Kinzett",
+      "country_code": "nz",
+      "country_name": "New Zealand",
+      "details": {
+        "bank": "ANZ Bank",
+        "account_number": "01-0519-0125295-100"
+      }
+    },
+    "deposit_account": {
+      "bank_name": "GC Mutual Bank",
+      "account_name": "OrbitRemit",
+      "bsb": "802355",
+      "account_number": "300037754"
+    },
+    "progress": [
+                 {
+                 "action": "created",
+                 "created": "2018-01-21 06:35:15",
+                 "user": ""
+                 },
+                 {
+                 "action": "released",
+                 "created": "2016-02-26 19:55:10",
+                 "user": ""
+                 }
+               ],
+    "status_display": {
+      "description": "Transfer  has been <font color ='#b94a4b'><strong>Void</strong></font>.",
+      "action_text": " <s>Will be paid to </s> ",
+      "header_text": "Transfer Voided"
+    }
+  }
+}

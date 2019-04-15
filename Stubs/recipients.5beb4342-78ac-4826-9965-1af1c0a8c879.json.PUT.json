@@ -1,0 +1,22 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": {
+    "id": "5beb4342-78ac-4826-9965-1af1c0a8c879",
+    "type": "bank_account",
+    "name": "Kyle Porter",
+    "country": {
+      "name": "Philippines",
+      "country_code": "ph",
+      "currency_code": "PHP"
+    },
+    "reason": "Im sending money to myself",
+    "details": {
+      "bank_id": "227",
+      "bank_name": "ANZ Manila",
+      "account_number": "123456789",
+      "account_type": "personal",
+      "email_address": "jyle@porter.con"
+    }
+  }
+}

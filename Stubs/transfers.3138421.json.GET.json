@@ -1,0 +1,82 @@
+{
+    "status": "success",
+    "code": 200,
+    "data": {
+        "id": "2383216",
+        "payment_number": "2470898",
+        "exchange_rate": "39.33620",
+        "send_currency": "NZD",
+        "payout_currency": "PHP",
+        "send_amount": "1000.00",
+        "payout_amount": "39336.20",
+        "total_amount": "1006.00",
+        "fee_amount": "6.00",
+        "status": "Awaiting Payment",
+        "created": "2019-03-12 02:12:11",
+        "reason": "Im supporting family or friends",
+        "customer": {
+            "id": "910860",
+            "name": "Cameron James Porter",
+            "first_name": "Cameron",
+            "last_name": "James Porter",
+            "number": "88584791",
+            "email": "cameron.porter@orbitremit.com",
+            "date_of_birth": "1995-02-28",
+            "address1": "45B Bodmin Terrace",
+            "address2": null,
+            "address3": null,
+            "city": "Porirua",
+            "postcode": "5026"
+        },
+        "recipient": {
+            "uuid": "5c75c288-91cc-41ae-bae2-0013ac130014",
+            "type": "bank_account",
+            "name": "Laura Porter",
+            "country_code": "ph",
+            "country_name": "Philippines",
+            "details": {
+                "account_number": "1334567891",
+                "bank_name": "BPI Direct Savings Bank"
+            },
+            "display_details": {
+                "bank": "BPI Direct Savings Bank",
+                "account_number": "1334567891"
+            },
+            "extra_details": {
+                "address1": "16 picton ave",
+                "address2": "Newtown",
+                "address3": null,
+                "city": "Wellington",
+                "postcode": "6021",
+                "email_address": "lauraporter92.13@gmail.com",
+                "phone_number": null,
+                "first_name": "Laura",
+                "last_name": "Porter",
+                "company_type": null,
+                "company_activity": null
+            }
+        },
+        "identity_documents": [
+            []
+        ],
+        "deposit_account": {
+            "account_name": "OrbitRemit",
+            "account_number": "15-3971-0063331-10"
+        },
+        "progress": [{
+                "action": "settlement",
+                "created": "2019-03-28 04:34:01",
+                "user": "Shane Morgan"
+            },
+            {
+                "action": "created",
+                "created": "2019-03-12 15:50:24",
+                "user": ""
+            }],
+        "status_display": {
+            "description": "Thank you. Transfer 2470898 has been created and is Awaiting Payment to arrive into our bank account.",
+            "action_text": "WILL BE PAID TO",
+            "header_text": "Transfer Created"
+        }
+    }
+}

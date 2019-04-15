@@ -1,0 +1,11 @@
+{
+  "status": "error",
+  "code": 400,
+  "data": {
+    "message": "duplicate: p**********@gmail.com",
+    "attributes": {
+      "email_address": " p**********@gmail.com",
+      "status": "duplicate"
+    }
+  }
+}

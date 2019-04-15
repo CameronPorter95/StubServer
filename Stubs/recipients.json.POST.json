@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": {
+    "id": "58e4e9aa-7f3c-42e0-91f4-0094ac120004",
+    "type": "bank_account",
+    "name": "Paul Kinzett",
+    "country": {
+      "name": "New Zealand",
+      "country_code": "nz",
+      "currency_code": "NZD"
+    },
+    "details": {
+      "account_number": "01-0519-0125295-000",
+      "email_address": "paul.kinzett@orbitremit.com"
+    }
+  }
+}

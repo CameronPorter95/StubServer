@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": {
+    "type": "funding_method_polis",
+    "id": "3331",
+    "attributes": {
+      "created_at": "2018-09-12 23:44:17",
+      "updated_at": "2018-09-12 23:44:17",
+      "status": "pending",
+      "url": "https://txn.apac.paywithpoli.com/?Token=VsjTIru10%2fqpjyUodWq0RtCG42ANHr2k",
+      "provider_reference": "996149962255"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": [{
+    "title": "Money Transfer Made Simple",
+    "message": "At OrbitRemit, we work harder to save you time, money, and provide peace of mind."
+  }, {
+    "title": "You Could Save Up To 85%",
+    "message": "Lets make your global money transfers count for more with our great exchange rates and low flat fees"
+  }, {
+    "title": "Trusted Around The World",
+    "message": "5\/5 rating with over 14,000 independent reviews from very happy customers."
+  }]
+}

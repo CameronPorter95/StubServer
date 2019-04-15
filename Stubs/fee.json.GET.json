@@ -1,0 +1,11 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": {
+    "payout_currency": "PHP",
+    "recipient_type": "bank_account",
+    "send_amount": "1000.00",
+    "send_currency": "NZD",
+    "fee": "6.00"
+  }
+}

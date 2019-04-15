@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": [{
+    "id": "2186",
+    "customer_id": "126473",
+    "corridor": "7",
+    "max": "46.50000",
+    "min": "46.50000",
+    "last_sent": "2018-08-19 00:45:41",
+    "send_currency": "NZD",
+    "recipient_currency": "INR"
+  }, {
+    "id": "2187",
+    "customer_id": "126473",
+    "corridor": "7",
+    "max": "46.50000",
+    "min": "46.50000",
+    "last_sent": "2018-08-19 00:45:51",
+    "send_currency": "NZD",
+    "recipient_currency": "INR"
+  }]
+}

@@ -1,0 +1,125 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": [{
+    "id": 2,
+    "currency_code": "AUD",
+    "name": "Australian Dollar",
+    "iso_code": "au"
+  }, {
+    "id": 14,
+    "currency_code": "BDT",
+    "name": "Bangladeshi Taka",
+    "iso_code": "bd"
+  }, {
+    "id": 3,
+    "currency_code": "GBP",
+    "name": "British Pound Sterling",
+    "iso_code": "uk"
+  }, {
+    "id": 6,
+    "currency_code": "CNY",
+    "name": "Chinese Yuan",
+    "iso_code": "cn"
+  }, {
+    "id": 17,
+    "currency_code": "DKK",
+    "name": "Danish Krone",
+    "iso_code": "dk"
+  }, {
+    "id": 15,
+    "currency_code": "EUR",
+    "name": "Euro",
+    "iso_code": "eu"
+  }, {
+    "id": 12,
+    "currency_code": "FJD",
+    "name": "Fijian Dollar",
+    "iso_code": "fj"
+  }, {
+    "id": 9,
+    "currency_code": "HKD",
+    "name": "Hong Kong Dollar",
+    "iso_code": "hk"
+  }, {
+    "id": 8,
+    "currency_code": "INR",
+    "name": "Indian Rupee",
+    "iso_code": "in"
+  }, {
+    "id": 11,
+    "currency_code": "IDR",
+    "name": "Indonesian Rupiah",
+    "iso_code": "id"
+  }, {
+    "id": 7,
+    "currency_code": "MYR",
+    "name": "Malaysian Ringgit",
+    "iso_code": "my"
+  }, {
+    "id": 13,
+    "currency_code": "NPR",
+    "name": "Nepalese Rupee",
+    "iso_code": "np"
+  }, {
+    "id": 1,
+    "currency_code": "NZD",
+    "name": "New Zealand Dollar",
+    "iso_code": "nz"
+  }, {
+    "id": 19,
+    "currency_code": "NOK",
+    "name": "Norwegian Krone",
+    "iso_code": "no"
+  }, {
+    "id": 4,
+    "currency_code": "PHP",
+    "name": "Philippine Peso",
+    "iso_code": "ph"
+  }, {
+    "id": 16,
+    "currency_code": "PLN",
+    "name": "Polish Zloty",
+    "iso_code": "pl"
+  }, {
+    "id": 24,
+    "currency_code": "SGD",
+    "name": "Singapore Dollar",
+    "iso_code": "sg"
+  }, {
+    "id": 28,
+    "currency_code": "ZAR",
+    "name": "South African Rand",
+    "iso_code": "za"
+  }, {
+    "id": 10,
+    "currency_code": "LKR",
+    "name": "Sri Lankan Rupee",
+    "iso_code": "lk"
+  }, {
+    "id": 18,
+    "currency_code": "SEK",
+    "name": "Swedish Krone",
+    "iso_code": "se"
+  }, {
+    "id": 29,
+    "currency_code": "THB",
+    "name": "Thai Baht",
+    "iso_code": "th"
+  }, {
+    "id": 30,
+    "currency_code": "AED",
+    "name": "United Arab Emirates",
+    "iso_code": "ae"
+  }, {
+    "id": 25,
+    "currency_code": "USD",
+    "name": "United States Dollar",
+    "iso_code": "us"
+  }, {
+    "id": 5,
+    "currency_code": "VND",
+    "name": "Vietnamese Dong",
+    "iso_code": "vn"
+  }]
+}

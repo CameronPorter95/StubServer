@@ -1,0 +1,10 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": {
+    "Im supporting family or friends": "I'm supporting family or friends",
+    "Im sending money to myself": "I'm sending money to myself",
+    "Im purchasing goods or services": "I'm purchasing goods or services",
+    "Im making a property payment": "I'm making a property payment"
+  }
+}

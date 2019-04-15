@@ -1,0 +1,29 @@
+{
+"data": [{
+      "type": "messages",
+      "id": "1",
+      "attributes": {
+        "content": "This is some markdown with a link [Click here](https://support.orbitremit.com/hc/en-us/articles/360013681793)",
+        "created": "2018-02-05 16:03:15",
+        "expiry": "2018-02-09 16:03:15",
+        "filter_type": "payout_currency",
+        "filter_value": [
+          "INR"
+        ]
+      }
+    },
+    {
+      "type": "messages",
+      "id": "5",
+      "attributes": {
+        "content": "Lorem Ipsum is simply dummy text",
+        "created": "2018-02-08 15:37:59",
+        "expiry": "2018-02-10 16:03:15",
+        "filter_type": "payout_currency",
+        "filter_value": [
+          "INR"
+        ]
+      }
+    }
+  ]
+}

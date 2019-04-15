@@ -1,0 +1,31 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": [
+           {
+           "id": 2384,
+           "branch_code": "ALLA0212435",
+           "branch_name": "A.p.m.c"
+           },
+           {
+           "id": 286,
+           "branch_code": "ALLA0210165",
+           "branch_name": "Abohar"
+           },
+           {
+           "id": 2056,
+           "branch_code": "ALLA0212091",
+           "branch_name": "Abu Road"
+           },
+           {
+           "id": 1874,
+           "branch_code": "ALLA0211849",
+           "branch_name": "Achalpur (Karmakhera)"
+           },
+           {
+           "id": 1495,
+           "branch_code": "ALLA0211443",
+           "branch_name": "Achalpur Chaudhary"
+           }
+           ]
+}

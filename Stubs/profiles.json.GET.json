@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": {
+    "id": "209769",
+    "customer_number": "89513870",
+    "first_name": "Cameron James",
+    "last_name": "Porter",
+    "email_address": "cameron.porter@orbitremit.com",
+    "country_name": "New Zealand",
+    "country_code": "nz",
+    "gender": "",
+    "occupation": "Software Developer",
+    "default_currency_code": "NZD",
+    "free_payments": "2",
+    "contact_phone": "077274002666",
+    "house_number": "45B",
+    "street_name": "Bodmin Terrace",
+    "suburb": null,
+    "city": "Porirua",
+    "postcode": "5026",
+    "profile_completed": "2018-05-01 21:23:25",
+    "identity_verified": 1,
+    "address_verified": 1,
+    "electronic_verified": 1,
+    "date_of_birth_day": "28",
+    "date_of_birth_month": "02",
+    "date_of_birth_year": "1995"
+  }
+}

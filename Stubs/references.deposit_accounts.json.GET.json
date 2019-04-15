@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": {
+    "nz": {
+      "bank_name": "TSB Bank",
+      "account_name": "OrbitRemit",
+      "account_number": "15-3971-0063331-10"
+    },
+    "au": {
+      "bank_name": "GC Mutual Bank",
+      "account_name": "OrbitRemit",
+      "bsb": "802355",
+      "account_number": "300037754"
+    },
+    "uk": {
+      "bank_name": "Metro Bank",
+      "account_name": "OrbitRemit",
+      "sort_code": "23-05-80",
+      "account_number": "12733194"
+    }
+  }
+}
