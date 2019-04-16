@@ -24,8 +24,8 @@ final class StubsMiddleware: Middleware {
         let method = request.http.method
         let path = request.http.url.path.dropFirst().replacingOccurrences(of: "/", with: ".")
         let query = request.http.url.query
-        let queryfilePath = "\(projectDir)/Sources/App/Stubs/\(path)?\(query ?? "").\(method).json"
-        let straightfilePath = "\(projectDir)/Sources/App/Stubs/\(path).\(method).json"
+        let queryfilePath = "\(projectDir)/Stubs/\(path)?\(query ?? "").\(method).json"
+        let straightfilePath = "\(projectDir)/Stubs/\(path).\(method).json"
         
         var isDir: ObjCBool = false
         if FileManager.default.fileExists(atPath: queryfilePath, isDirectory: &isDir) {
