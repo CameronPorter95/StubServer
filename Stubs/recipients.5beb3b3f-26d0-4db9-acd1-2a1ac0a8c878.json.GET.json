@@ -1,0 +1,22 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": {
+    "id": "5beb3b3f-26d0-4db9-acd1-2a1ac0a8c878",
+    "type": "bank_account",
+    "name": "Courtney Smith",
+    "country": {
+      "name": "Philippines",
+      "country_code": "ph",
+      "currency_code": "PHP"
+    },
+    "reason": "Im making a property payment",
+    "details": {
+      "bank_id": "21",
+      "bank_name": "Asia United Bank Corporation",
+      "account_number": "123456789",
+      "account_type": "personal",
+      "email_address": "bsb@snith.com"
+    }
+  }
+}
