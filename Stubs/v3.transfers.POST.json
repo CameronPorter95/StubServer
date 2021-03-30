@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "code": 200,
+    "data": {
+    "type": "transfers",
+    "id": "4126225",
+    "attributes": {
+      
+      
+      "fee_amount": "6.00",
+      "reason": "Im supporting family or friends",
+      "recipient": "{\"id\":\"123abc-aeec-4c25-a804-00140a1001ac\",\"type\":\"bank_account\",\"name\":\"an\",\"country\":{\"name\":\"Philippines\",\"country_code\":\"ph\",\"currency_code\":\"PHP\"},\"reason\":\"I'm supporting family or friends\",\"details\":{\"bank_id\":\"78\",\"bank_name\":\"Bataan Development Bank\",\"account_number\":\"11111111111\",\"address1\":\"24 F. Carlos\",\"address2\":\"Quezon City\",\"address3\":\"Metro Manila\",\"city\":\"Quezon City\",\"postcode\":\"1106\",\"country\":\"Philippines\",\"email_address\":\"email@email.com\"}}",
+      "side": 1,
+      "recipient_id": "123abc-aeec-4c25-a804-00140a1001ac",
+      "feeString": "6.00 NZD",
+      "send_currency": "NZD",
+      "payout_currency": "PHP",
+      "send_amount": "1000.00",
+      "base_currency": "NZD",
+      "payout_amount": "32102.40",
+      "rate": "32.10240",
+      "estimate_id": "eb075fe8-6eef-43d0-a601-0fad34f66f2b",
+      "customer_id": "346425",
+      "source_trading_account_id": "60",
+      "payout_trading_account_id": "57",
+      "created_at": "2020-08-18 07:50:00"
+    }
+  }
+}

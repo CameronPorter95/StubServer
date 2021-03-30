@@ -70,10 +70,10 @@
             "valuePath": "$.data[*].id",
             "namePath": "$.data[*].bank_name"
           },
-          "branch_code": {
+          "branch_name": {
             "type": "string",
             "title": "Branch Code",
-            "lookupPath": "$.details.branch_code",
+            "lookupPath": "$.details.branch_name",
             "keyboard": "numberPad",
             "isEnabled": "true"
           },

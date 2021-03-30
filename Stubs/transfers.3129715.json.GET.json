@@ -1,0 +1,99 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": {
+    "id": "3129715",
+    "payment_number": "4214443",
+    "exchange_rate": "2.93480",
+    "send_currency": "AUD",
+    "payout_currency": "INR",
+    "send_amount": "1000.00",
+    "payout_amount": "2934.80",
+    "total_amount": "1000.00",
+    "fee_amount": "0.00",
+    "status": "Awaiting Payment",
+    "created": "2021-03-30 02:52:27",
+    "reason": "Im making a property payment",
+    "type": null,
+    "customer": {
+      "id": "346425",
+      "name": "James B",
+      "first_name": "James",
+      "last_name": "B",
+      "number": "87150399",
+      "email": "james.b@orbitremit.com",
+      "date_of_birth": "1994-08-28",
+      "contact_phone": "+64221111111",
+      "address1": "781 Great South Road",
+      "address2": "Penrose",
+      "address3": "Auckland",
+      "city": "Auckland",
+      "postcode": "1061",
+      "country": "New Zealand",
+      "company": {
+        "legal_name": "Nec Diam Incorporated",
+        "trading_name": "Tempor Incorporated",
+        "company_number": "637085",
+        "deleted": null
+      }
+    },
+    "recipient": {
+      "id": "346552",
+      "uuid": "5f6a697e-3ae8-4f17-85fd-00150a2c0187",
+      "type": "bank_account",
+      "name": "India Recipient",
+      "country_code": "in",
+      "country_name": "India",
+      "details": {
+        "account_number": "111111111111111",
+        "branch_code": "ICIC0006561",
+        "bank_code": "IN1005",
+        "bank_name": "Westpac Banking Corporation",
+        "phone_number": ""
+      },
+      "display_details": {
+        "bank": "Westpac Banking Corporation",
+        "account_number": "111111111111111",
+        "ifsc_code": "ICIC0006561"
+      },
+      "extra_details": {
+        "address1": "14 Sikar Road",
+        "address2": "Murlipura",
+        "address3": "Rajasthan",
+        "city": "Jaipur",
+        "postcode": "302039",
+        "email_address": null,
+        "first_name": null,
+        "last_name": null,
+        "company_type": null,
+        "company_activity": null
+      }
+    },
+    "payout_trading_account": {
+      "id": "36",
+      "name": "Kotak Nostro Account",
+      "short_name": "ININRKTAK",
+      "currency_code": "INR"
+    },
+    "identity_documents": [],
+    "bank_line_type": null,
+    "payment_supplement": [],
+    "deposit_account": {
+      "account_name": "OrbitRemit",
+      "bsb": "123456",
+      "account_number": "300012345"
+    },
+    "progress": [
+      {
+        "action": "created",
+        "created": "2021-03-30 02:52:27",
+        "user": ""
+      }
+    ],
+    "status_display": {
+      "description": "Thank you. Transfer 4214443 has been created and is Awaiting Payment to arrive into our bank account.",
+      "action_text": "WILL BE PAID TO",
+      "header_text": "Transfer Created"
+    }
+  }
+}

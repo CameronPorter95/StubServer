@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": {
+    "send_currency": "NZD",
+    "payout_currency": "NPR",
+    "send_amount": "1000.00",
+    "recipient_type": "bank_account",
+    "recipient_uuid": "5edeb474-5500-4bb7-9dc4-00130a100056",
+    "fee": "6.00"
+  }
+}

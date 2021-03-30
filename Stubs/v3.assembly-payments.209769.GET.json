@@ -1,0 +1,32 @@
+{
+    "data": {
+      "type": "users",
+      "id": "123456",
+      "attributes": {
+        "customer-number": 89513870,
+        "asm-npp-crn": "1234567890",
+        "created-at": "2020-10-14T23:07:31+00:00",
+        "updated-at": "2020-10-14T23:07:31+00:00"
+      },
+      "relationships": {
+        "asm-user": {
+          "data": {
+            "type": "asm-users",
+            "id": "123456"
+          }
+        },
+        "asm-wallet": {
+          "data": {
+            "type": "asm-wallets",
+            "id": "some-numbers-12345-and-letters-8883921"
+          }
+        }
+      },
+      "links": {
+        "self": "http:\/\/assembly-payments-service.default.svc.cluster.local\/users\/123456"
+      },
+      "meta": {
+        "pay-id": "payment@orbitremit.com"
+      }
+    }
+  }

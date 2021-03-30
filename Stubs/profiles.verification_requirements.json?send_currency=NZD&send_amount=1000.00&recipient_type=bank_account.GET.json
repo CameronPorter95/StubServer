@@ -2,6 +2,7 @@
   "status": "success",
   "code": 200,
   "data": {
-    "options": ["bank_transfer_fixed"]
+    "required": false,
+    "requirements": []
   }
 }

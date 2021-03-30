@@ -103,13 +103,12 @@
       "currency_code": "NPR"
     },
     "details": {
-      "bank_id": "906",
-      "bank_name": "BANK OF KATHMANDU LTD",
+      "bank_id": "21",
+      "bank_name": "Asia United Bank Corporation",
       "account_number": "123456789",
-      "branch_code": "NP150022",
+      "branch_code": "2384",
       "account_type": "personal",
-      "email_address": "lak@bolland.com",
-      "branch_name": "Baglung Branch Kalikapath\r"
+      "email_address": "lak@bolland.com"
     }
   }, {
     "id": "5beb2f92-920c-4a5c-ae50-1b12c0a8c879",

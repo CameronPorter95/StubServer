@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "type": "transfers",
+            "id": "16",
+            "attributes": {
+                "tranferId": 12414568,
+                "createdAt": "2021-03-29T23:37:55.000000Z"
+            },
+            "relationships": {
+                "methods": {
+                    "data": [
+                        {
+                            "type": "methods",
+                            "id": "1"
+                        },
+                        {
+                            "type": "methods",
+                            "id": "2"
+                        }
+                    ],
+                    "links": {
+                        "self": "/transfers/16/relationships/methods",
+                        "related": "/transfers/16/methods"
+                    }
+                }
+            },
+            "links": {
+                "self": "/transfers/16"
+            }
+        },
+        {
+            "type": "transfers",
+            "id": "17",
+            "attributes": {
+                "tranferId": 4126760,
+                "createdAt": "2021-03-30T02:20:45.000000Z"
+            },
+            "relationships": {
+                "methods": {
+                    "data": [
+                        {
+                            "type": "methods",
+                            "id": "1"
+                        }
+                    ],
+                    "links": {
+                        "self": "/transfers/17/relationships/methods",
+                        "related": "/transfers/17/methods"
+                    }
+                }
+            },
+            "links": {
+                "self": "/transfers/17"
+            }
+        },
+        {
+            "type": "transfers",
+            "id": "18",
+            "attributes": {
+                "tranferId": 4126761,
+                "createdAt": "2021-03-30T20:00:55.000000Z"
+            },
+            "relationships": {
+                "methods": {
+                    "data": [
+                        {
+                            "type": "methods",
+                            "id": "1"
+                        },
+                        {
+                            "type": "methods",
+                            "id": "2"
+                        }
+                    ],
+                    "links": {
+                        "self": "/transfers/18/relationships/methods",
+                        "related": "/transfers/18/methods"
+                    }
+                }
+            },
+            "links": {
+                "self": "/transfers/18"
+            }
+        }
+    ],
+    "included": [
+        {
+            "type": "methods",
+            "id": "1",
+            "attributes": {
+                "methodName": "bank_deposit"
+            }
+        },
+        {
+            "type": "methods",
+            "id": "2",
+            "attributes": {
+                "methodName": "poli"
+            }
+        }
+    ]
+}

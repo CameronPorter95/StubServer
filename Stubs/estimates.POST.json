@@ -1,16 +1,18 @@
 {
+    "status": "success",
+    "code": 200,
     "data": {
         "type": "estimates",
         "id": "029aff44-eec8-4694-9fb6-3738483d3020",
         "attributes": {
-            "send_currency": "AUD",
-            "payout_currency": "PHP",
-            "send_amount": "1000.00",
-            "created_at": "2020-08-03 01:21:20",
-            "expires_at": "2029-08-03 01:31:20",
-            "base_currency": "AUD",
-            "payout_amount": "117184.20",
-            "rate": "117.18420"
+          "send_currency": "NZD",
+          "payout_currency": "PHP",
+          "send_amount": "1000.00",
+          "created_at": "2020-08-17 21:51:12",
+          "expires_at": "2029-08-17 22:01:12",
+          "base_currency": "NZD",
+          "payout_amount": "32102.40",
+          "rate": "32.10240"
         }
     }
 }
