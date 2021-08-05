@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "NewStubServer",
+    name: "StubServer",
     platforms: [
        .macOS(.v10_15)
     ],

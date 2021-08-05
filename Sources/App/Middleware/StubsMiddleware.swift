@@ -5,79 +5,48 @@
 //  Created by Cam on 04/08/21.
 //
 
-// import Vapor
-// import Foundation
-
-// struct RouteError: Error {
-//   let message: String
-// }
-
-// final class StubsMiddleware: Middleware {
-//   public func respond(to request: Request, chainingTo next: Responder) throws -> EventLoopFuture<Response> {
-//     let projectDir = DirectoryConfig.detect().workDir
-//     let method = request.http.method
-//     let path = request.http.url.path.dropFirst().replacingOccurrences(of: "/", with: ".")
-//     let query = request.http.url.query
-//     let straightfilePath = URL(fileURLWithPath: projectDir)
-//       .appendingPathComponent("Stubs", isDirectory: true)
-//       .appendingPathComponent("\(path).\(method).json", isDirectory: false).path
-    
-//     let queryfilePath = URL(fileURLWithPath: projectDir)
-//       .appendingPathComponent("Stubs", isDirectory: true)
-//       .appendingPathComponent("\(path)?\(query ?? "").\(method).json", isDirectory: false).path
-    
-//     var isDir: ObjCBool = false
-//     if FileManager.default.fileExists(atPath: queryfilePath, isDirectory: &isDir) {
-//       print(queryfilePath)
-//       return try request.streamFile(at: queryfilePath)
-//     } else {
-//       if FileManager.default.fileExists(atPath: straightfilePath, isDirectory: &isDir) {
-//         print(straightfilePath)
-//         return try request.streamFile(at: straightfilePath)
-//       } else {
-//         print("couldn't find any files")
-//         return try next.respond(to: request)
-//       }
-//     }
-//   }
-// }
-
-// extension StubsMiddleware: ServiceType {
-//   static func makeService(for worker: Container) throws -> Self {
-//     return .init()
-//   }
-// }
-
 import Vapor
 
-struct StubsMiddleware: Middleware {
+public final class StubsMiddleware: Middleware {
+    
+  /// The public directory.
+  /// - note: Must end with a slash.
+  private let stubsDirectory: String
 
-  func respond(to request: Request, chainingTo next: Responder) -> EventLoopFuture<Response> {
-    // let projectDir = DirectoryConfig.detect().workDir
-    // let method = request.http.method
-    // let path = request.http.url.path.dropFirst().replacingOccurrences(of: "/", with: ".")
-    // let query = request.http.url.query
-    // let straightfilePath = URL(fileURLWithPath: projectDir)
-    //   .appendingPathComponent("Stubs", isDirectory: true)
-    //   .appendingPathComponent("\(path).\(method).json", isDirectory: false).path
+  /// Creates a new `FileMiddleware`.
+  public init(publicDirectory: String) {
+    self.stubsDirectory = (publicDirectory.hasSuffix("/") ? publicDirectory : publicDirectory + "/").appending("Stubs/")
+  }
+
+  public func respond(to request: Request, chainingTo next: Responder) -> EventLoopFuture<Response> {
+    let method = request.method
+    let path = request.url.path.dropFirst().replacingOccurrences(of: "/", with: ".")
+    let query = request.url.query
+    let straightfilePath = URL(fileURLWithPath: stubsDirectory)
+      .appendingPathComponent("\(path).\(method).json", isDirectory: false).path
     
-    // let queryfilePath = URL(fileURLWithPath: projectDir)
-    //   .appendingPathComponent("Stubs", isDirectory: true)
-    //   .appendingPathComponent("\(path)?\(query ?? "").\(method).json", isDirectory: false).path
+    let queryfilePath = URL(fileURLWithPath: stubsDirectory)
+      .appendingPathComponent("\(path)?\(query ?? "").\(method).json", isDirectory: false).path
     
-    // var isDir: ObjCBool = false
-    // if FileManager.default.fileExists(atPath: queryfilePath, isDirectory: &isDir) {
-    //   print(queryfilePath)
-    //   return try request.streamFile(at: queryfilePath)
-    // } else {
-    //   if FileManager.default.fileExists(atPath: straightfilePath, isDirectory: &isDir) {
-    //     print(straightfilePath)
-    //     return try request.streamFile(at: straightfilePath)
-    //   } else {
-    //     print("couldn't find any files")
-    //     return try next.respond(to: request)
-    //   }
-    // }
-    return next.respond(to: request)
+    var isDir: ObjCBool = false
+    if FileManager.default.fileExists(atPath: queryfilePath, isDirectory: &isDir) {
+      log(request: request, message: queryfilePath)
+      let res = request.fileio.streamFile(at: queryfilePath)
+      return request.eventLoop.makeSucceededFuture(res)
+    } else {
+      if FileManager.default.fileExists(atPath: straightfilePath, isDirectory: &isDir) {
+        log(request: request, message: straightfilePath)
+        let res = request.fileio.streamFile(at: straightfilePath)
+        return request.eventLoop.makeSucceededFuture(res)
+      } else {
+        log(request: request, message: "couldn't find any files")
+        return next.respond(to: request)
+      }
+    }
+  }
+  
+  func log(request: Request, message: String, level: Logger.Level = .info) {
+    let log = Logger.Message.init(stringLiteral: message)
+    request.logger.log(level: level, log)
   }
 }
