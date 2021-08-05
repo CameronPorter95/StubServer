@@ -1,5 +1,5 @@
 # StubServer
-Vapor based server used for stubbing http responses. Useful for testing.
+To enable quick local testing and automated UI testing that doesn't rely on a production server, you can use StubServer project locally that serves prepared static responses. The stub server uses Vapor and is written in Swift. Stub server dependencies are managed with Swift Package Manager.
 
 Before running make sure you have Docker installed
 
