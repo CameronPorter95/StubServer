@@ -1,5 +1,9 @@
 # StubServer
-To enable quick local testing and automated UI testing that doesn't rely on a production server, you can use StubServer project locally that serves prepared static responses. The stub server uses Vapor and is written in Swift. Stub server dependencies are managed with Swift Package Manager.
+To enable quick local testing and automated UI testing that doesn't rely on a
+production server, you can use StubServer project locally that serves
+prepared static responses. The stub server uses [Vapor](http://vapor.codes) and is written
+in Swift. Stub server dependencies are managed with 
+[Swift Package Manager](https://docs.vapor.codes/3.0/getting-started/spm/).
 
 Before running make sure you have Docker installed
 
