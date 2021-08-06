@@ -1,7 +1,7 @@
 {
-  "status": "success",
-  "code": 200,
+  "status": "error",
+  "code": 400,
   "data": {
-    "free_payments": 5
+    "message": "Invalid code, promotion not found"
   }
 }

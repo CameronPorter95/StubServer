@@ -1,0 +1,519 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta name="theme-color" content="#00B5CC"/><link rel="stylesheet" data-href="https://fonts.googleapis.com/css?family=Lato:300,400,500,700&amp;display=swap"/><link rel="icon" href="/images/favicon.png"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /><meta charSet="utf-8"/><link rel="stylesheet" type="text/css" href="https://cdn-prod.securiti.ai/consent/cookie-consent.css"/><script type="text/javascript" src="https://cdn-prod.securiti.ai/consent/auto_blocking/f62075d5-a7c8-4759-a203-e222fee907f3/07db62bf-b123-4622-8046-e0296763e48d.js"></script><meta name="viewport" content="minimum-scale=1, initial-scale=1, width=device-width, shrink-to-fit=no"/><meta name="description" content="Send money overseas fast with OrbitRemit™. Safe &amp; secure online money transfers with great exchange rates from Australia, NZ &amp; UK."/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:site" content="@orbitremit"/><meta name="twitter:creator" content="@orbitremit"/><meta property="og:url" content="http://www.orbitremit.com"/><meta property="og:type" content="website"/><meta property="og:title" content="Send money overseas fast with OrbitRemit™"/><meta property="og:description" content="Send money overseas fast with OrbitRemit™. Safe &amp; secure online money transfers with great exchange rates from Australia, NZ &amp; UK."/><meta property="og:image" content="https://www.orbitremit.com/images/logo.orbitremit-social.jpg"/><meta property="og:image:alt" content="OrbitRemit Logo"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="1200"/><meta property="og:locale" content="en_NZ"/><meta property="og:site_name" content="OrbitRemit"/><script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "url": "http://www.orbitremit.com",
+    "logo": "https://www.orbitremit.com/images/logo.orbitremit-social.jpg"
+  }</script><script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "OrbitRemit Limited",
+    "url": "http://www.orbitremit.com",
+    "sameAs": [
+      "http://www.facebook.com/orbitremit","http://www.twitter.com/orbitremit"
+     ]
+  }</script><title>Our agreements with you | OrbitRemit</title><meta name="robots" content="noindex,follow"/><meta name="googlebot" content="noindex,follow"/><meta name="next-head-count" content="23"/><noscript data-n-css=""></noscript><script defer="" nomodule="" src="/_next/static/chunks/polyfills-b69b38e0e606287ba003.js"></script><script src="/_next/static/chunks/webpack-1e3cca4407e69664ec0c.js" defer=""></script><script src="/_next/static/chunks/framework-336caa3f6419768205fe.js" defer=""></script><script src="/_next/static/chunks/main-08708831c35d70c3a4f6.js" defer=""></script><script src="/_next/static/chunks/pages/_app-b4e5ee0f83039f14a727.js" defer=""></script><script src="/_next/static/chunks/7500-09b9dbf3ed3db2ec9aa2.js" defer=""></script><script src="/_next/static/chunks/8829-e510e607d6b989b7c121.js" defer=""></script><script src="/_next/static/chunks/6951-b845a687e50ba3fb8eb9.js" defer=""></script><script src="/_next/static/chunks/pages/legal-ccb7f96cf70209b5a448.js" defer=""></script><script src="/_next/static/L-SbJamGIfTkiBRO7vRdG/_buildManifest.js" defer=""></script><script src="/_next/static/L-SbJamGIfTkiBRO7vRdG/_ssgManifest.js" defer=""></script><style id="jss-server-side">html {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+strong, b {
+  font-weight: 700;
+}
+body {
+  color: rgba(0, 0, 0, 0.87);
+  margin: 0;
+  font-size: 0.875rem;
+  font-family: "Lato";
+  font-weight: 400;
+  line-height: 1.43;
+  background-color: #fafafa;
+}
+@media print {
+  body {
+    background-color: #fff;
+  }
+}
+body::backdrop {
+  background-color: #fafafa;
+}
+
+.jss26 {
+  padding-bottom: 8px;
+}
+.jss27 {
+  padding-bottom: 8px;
+}
+.jss28 {
+  padding-bottom: 24px;
+}
+.MuiTypography-root {
+  margin: 0;
+}
+.MuiTypography-body2 {
+  font-size: 0.875rem;
+  font-family: "Lato";
+  font-weight: 400;
+  line-height: 1.43;
+}
+.MuiTypography-body1 {
+  font-size: 0.9rem;
+  font-family: "Lato";
+  font-weight: 400;
+  line-height: 1.5;
+}
+.MuiTypography-caption {
+  font-size: 0.75rem;
+  font-family: "Lato";
+  font-weight: 400;
+  line-height: 1.66;
+}
+.MuiTypography-button {
+  font-size: 0.875rem;
+  font-family: "Lato";
+  font-weight: 500;
+  line-height: 1.75;
+  text-transform: uppercase;
+}
+.MuiTypography-h1 {
+  font-size: 6rem;
+  font-family: "Lato";
+  font-weight: 300;
+  line-height: 1.167;
+}
+.MuiTypography-h2 {
+  font-size: 3.75rem;
+  font-family: "Lato";
+  font-weight: 300;
+  line-height: 1.2;
+}
+.MuiTypography-h3 {
+  font-size: 2.4rem;
+  font-family: "Lato";
+  font-weight: 300;
+  line-height: 1.167;
+}
+.MuiTypography-h4 {
+  font-size: 2.125rem;
+  font-family: "Lato";
+  font-weight: 400;
+  line-height: 1.235;
+}
+.MuiTypography-h5 {
+  font-size: 1.5rem;
+  font-family: "Lato";
+  font-weight: 400;
+  line-height: 1.334;
+}
+.MuiTypography-h6 {
+  font-size: 1.25rem;
+  font-family: "Lato";
+  font-weight: 500;
+  line-height: 1.6;
+}
+.MuiTypography-subtitle1 {
+  font-size: 1rem;
+  font-family: "Lato";
+  font-weight: 400;
+  line-height: 1.75;
+}
+.MuiTypography-subtitle2 {
+  font-size: 0.875rem;
+  font-family: "Lato";
+  font-weight: 500;
+  line-height: 1.57;
+}
+.MuiTypography-overline {
+  font-size: 0.75rem;
+  font-family: "Lato";
+  font-weight: 400;
+  line-height: 2.66;
+  text-transform: uppercase;
+}
+.MuiTypography-srOnly {
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+}
+.MuiTypography-alignLeft {
+  text-align: left;
+}
+.MuiTypography-alignCenter {
+  text-align: center;
+}
+.MuiTypography-alignRight {
+  text-align: right;
+}
+.MuiTypography-alignJustify {
+  text-align: justify;
+}
+.MuiTypography-noWrap {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.MuiTypography-gutterBottom {
+  margin-bottom: 0.35em;
+}
+.MuiTypography-paragraph {
+  margin-bottom: 16px;
+}
+.MuiTypography-colorInherit {
+  color: inherit;
+}
+.MuiTypography-colorPrimary {
+  color: #00B5CC;
+}
+.MuiTypography-colorSecondary {
+  color: #0094A0;
+}
+.MuiTypography-colorTextPrimary {
+  color: rgba(0, 0, 0, 0.87);
+}
+.MuiTypography-colorTextSecondary {
+  color: #414042;
+}
+.MuiTypography-colorError {
+  color: #f44336;
+}
+.MuiTypography-displayInline {
+  display: inline;
+}
+.MuiTypography-displayBlock {
+  display: block;
+}
+.MuiBreadcrumbs-ol {
+  margin: 0;
+  display: flex;
+  padding: 0;
+  flex-wrap: wrap;
+  list-style: none;
+  align-items: center;
+}
+.MuiBreadcrumbs-separator {
+  display: flex;
+  margin-left: 8px;
+  user-select: none;
+  margin-right: 8px;
+}
+.MuiContainer-root {
+  width: 100%;
+  display: block;
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+@media (min-width:600px) {
+  .MuiContainer-root {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+  .MuiContainer-disableGutters {
+    padding-left: 0;
+    padding-right: 0;
+  }
+@media (min-width:600px) {
+  .MuiContainer-fixed {
+    max-width: 600px;
+  }
+}
+@media (min-width:960px) {
+  .MuiContainer-fixed {
+    max-width: 960px;
+  }
+}
+@media (min-width:1280px) {
+  .MuiContainer-fixed {
+    max-width: 1280px;
+  }
+}
+@media (min-width:1920px) {
+  .MuiContainer-fixed {
+    max-width: 1920px;
+  }
+}
+@media (min-width:0px) {
+  .MuiContainer-maxWidthXs {
+    max-width: 444px;
+  }
+}
+@media (min-width:600px) {
+  .MuiContainer-maxWidthSm {
+    max-width: 600px;
+  }
+}
+@media (min-width:960px) {
+  .MuiContainer-maxWidthMd {
+    max-width: 960px;
+  }
+}
+@media (min-width:1280px) {
+  .MuiContainer-maxWidthLg {
+    max-width: 1280px;
+  }
+}
+@media (min-width:1920px) {
+  .MuiContainer-maxWidthXl {
+    max-width: 1920px;
+  }
+}
+@media (min-width:0px) and (max-width:599.95px) {
+  .jss9 {
+    display: none;
+  }
+}
+@media (min-width:0px) {
+  .jss10 {
+    display: none;
+  }
+}
+@media (max-width:599.95px) {
+  .jss11 {
+    display: none;
+  }
+}
+@media (min-width:600px) and (max-width:959.95px) {
+  .jss12 {
+    display: none;
+  }
+}
+@media (min-width:600px) {
+  .jss13 {
+    display: none;
+  }
+}
+@media (max-width:959.95px) {
+  .jss14 {
+    display: none;
+  }
+}
+@media (min-width:960px) and (max-width:1279.95px) {
+  .jss15 {
+    display: none;
+  }
+}
+@media (min-width:960px) {
+  .jss16 {
+    display: none;
+  }
+}
+@media (max-width:1279.95px) {
+  .jss17 {
+    display: none;
+  }
+}
+@media (min-width:1280px) and (max-width:1919.95px) {
+  .jss18 {
+    display: none;
+  }
+}
+@media (min-width:1280px) {
+  .jss19 {
+    display: none;
+  }
+}
+@media (max-width:1919.95px) {
+  .jss20 {
+    display: none;
+  }
+}
+@media (min-width:1920px) {
+  .jss21 {
+    display: none;
+  }
+}
+@media (min-width:1920px) {
+  .jss22 {
+    display: none;
+  }
+}
+@media (min-width:0px) {
+  .jss23 {
+    display: none;
+  }
+}
+  .MuiLink-underlineNone {
+    text-decoration: none;
+  }
+  .MuiLink-underlineHover {
+    text-decoration: none;
+  }
+  .MuiLink-underlineHover:hover {
+    text-decoration: underline;
+  }
+  .MuiLink-underlineAlways {
+    text-decoration: underline;
+  }
+  .MuiLink-button {
+    border: 0;
+    cursor: pointer;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    position: relative;
+    user-select: none;
+    border-radius: 0;
+    vertical-align: middle;
+    -moz-appearance: none;
+    background-color: transparent;
+    -webkit-appearance: none;
+    -webkit-tap-highlight-color: transparent;
+  }
+  .MuiLink-button::-moz-focus-inner {
+    border-style: none;
+  }
+  .MuiLink-button.Mui-focusVisible {
+    outline: auto;
+  }
+  .MuiList-root {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    list-style: none;
+  }
+  .MuiList-padding {
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+  .MuiList-subheader {
+    padding-top: 0;
+  }
+  .MuiListItem-root {
+    width: 100%;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    text-align: left;
+    align-items: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    justify-content: flex-start;
+    text-decoration: none;
+  }
+  .MuiListItem-root.Mui-focusVisible {
+    background-color: rgba(0, 0, 0, 0.08);
+  }
+  .MuiListItem-root.Mui-selected, .MuiListItem-root.Mui-selected:hover {
+    background-color: rgba(0, 0, 0, 0.08);
+  }
+  .MuiListItem-root.Mui-disabled {
+    opacity: 0.5;
+  }
+  .MuiListItem-container {
+    position: relative;
+  }
+  .MuiListItem-dense {
+    padding-top: 4px;
+    padding-bottom: 4px;
+  }
+  .MuiListItem-alignItemsFlexStart {
+    align-items: flex-start;
+  }
+  .MuiListItem-divider {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+    background-clip: padding-box;
+  }
+  .MuiListItem-gutters {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .MuiListItem-button {
+    transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  }
+  .MuiListItem-button:hover {
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.04);
+  }
+@media (hover: none) {
+  .MuiListItem-button:hover {
+    background-color: transparent;
+  }
+}
+  .MuiListItem-secondaryAction {
+    padding-right: 48px;
+  }
+  .jss24 {
+    color: #FFF;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 300;
+  }
+  .jss25 {
+    color: #FFF;
+    font-size: 0.8rem;
+    font-weight: 300;
+    line-height: 1rem;
+    margin-bottom: 10px;
+  }
+@media (min-width:600px) {
+  .jss25 {
+    font-size: 0.7rem;
+    line-height: 1.25rem;
+    margin-bottom: 0;
+  }
+}
+  .jss3 {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+  .jss4 {
+    padding: 20px 0;
+  }
+  .jss5 {
+    margin: 15px 0;
+    font-size: 1.4rem;
+    font-weight: 500;
+  }
+  .jss6 {
+    font-size: 1rem;
+    font-weight: 300;
+    line-height: 25px;
+    counter-reset: item;
+  }
+  .jss6 ol {
+    margin: 16px;
+    padding: 0;
+    box-sizing: content-box;
+  }
+  .jss6 li {
+    display: list-item;
+    list-style-position: outside;
+  }
+  .jss6 p {
+    margin: 16px 0 0;
+    font-size: 1rem;
+    font-weight: 300;
+    line-height: 25px;
+  }
+  .jss6 li > ol {
+    list-style: lower-alpha;
+  }
+  .jss7 {
+    margin-top: auto;
+    background-color: #404042;
+  }
+  .jss8 {
+    padding: 40px 0;
+  }
+  .jss8 p {
+    padding: 10px 0;
+    text-align: left;
+  }
+  .jss1 {
+    font-size: 0.9rem;
+    font-weight: 400;
+    line-height: 1.43;
+    margin-bottom: 30px;
+  }
+  .jss2 {
+    font-size: 1rem;
+  }</style><style data-href="https://fonts.googleapis.com/css?family=Lato:300,400,500,700&display=swap">@font-face{font-family:'Lato';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/lato/v17/S6u9w4BMUTPHh7USSwiPHw.woff) format('woff')}@font-face{font-family:'Lato';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/lato/v17/S6uyw4BMUTPHjx4wWA.woff) format('woff')}@font-face{font-family:'Lato';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/lato/v17/S6u9w4BMUTPHh6UVSwiPHw.woff) format('woff')}@font-face{font-family:'Lato';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/lato/v17/S6u9w4BMUTPHh7USSwaPGQ3q5d0N7w.woff2) format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Lato';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/lato/v17/S6u9w4BMUTPHh7USSwiPGQ3q5d0.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Lato';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/lato/v17/S6uyw4BMUTPHjxAwXiWtFCfQ7A.woff2) format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Lato';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/lato/v17/S6uyw4BMUTPHjx4wXiWtFCc.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Lato';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/lato/v17/S6u9w4BMUTPHh6UVSwaPGQ3q5d0N7w.woff2) format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Lato';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/lato/v17/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}</style></head><body><div id="__next"><div class="jss3"><div class="MuiContainer-root MuiContainer-maxWidthLg"><div class="jss4"><a class="MuiTypography-root MuiLink-root MuiLink-underlineHover MuiTypography-colorPrimary" href="/"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" height="60px" viewBox="40 25 260 80"><title>OrbitRemit</title><path fill="#00B5CC" d="M279.8,81c1.2-0.3,2.2-0.9,3.1-1.6l-2.2-3.4c-0.1-0.2-0.3-0.4-0.4-0.5c-0.1-0.1-0.3-0.1-0.5-0.1c-0.2,0-0.3,0-0.4,0.1c-0.1,0.1-0.2,0.1-0.4,0.2c-0.1,0.1-0.3,0.1-0.5,0.2c-0.2,0.1-0.4,0.1-0.7,0.1c-0.5,0-0.9-0.2-1.2-0.5c-0.3-0.4-0.4-0.8-0.4-1.4V62.2h6v-4.9h-6v-7h-3.8c-0.9,0-1.4,0.4-1.6,1.1l-1.4,5.8l-3.8,0.7v2.8c0,0.5,0.1,0.8,0.4,1c0.3,0.2,0.6,0.4,1,0.4h2v12.3c0,1.1,0.2,2,0.5,2.9c0.3,0.9,0.8,1.6,1.4,2.2c0.6,0.6,1.3,1.1,2.2,1.4c0.9,0.3,1.9,0.5,3,0.5C277.4,81.5,278.6,81.3,279.8,81 M262.4,49.1c-0.2-0.5-0.6-1-1-1.3c-0.4-0.4-0.9-0.7-1.4-0.9c-0.5-0.2-1.1-0.3-1.7-0.3c-0.6,0-1.1,0.1-1.7,0.3c-0.5,0.2-1,0.5-1.4,0.9c-0.4,0.4-0.7,0.8-0.9,1.3c-0.2,0.5-0.3,1.1-0.3,1.6c0,0.6,0.1,1.1,0.3,1.6c0.2,0.5,0.5,0.9,0.9,1.3c0.4,0.4,0.8,0.7,1.4,0.9c0.5,0.2,1.1,0.3,1.7,0.3c0.6,0,1.2-0.1,1.7-0.3c0.5-0.2,1-0.5,1.4-0.9c0.4-0.4,0.7-0.8,1-1.3c0.2-0.5,0.3-1,0.3-1.6C262.8,50.1,262.6,49.6,262.4,49.1 M254.8,81.1h7.2V57.2h-7.2V81.1z M221.8,81.1V63.8c0.5-0.5,1.1-0.9,1.6-1.2c0.6-0.3,1.2-0.4,1.8-0.4c1.1,0,1.9,0.3,2.4,0.8c0.5,0.6,0.8,1.5,0.8,2.9v15.2h7.2V65.9c0-1.2,0.3-2.1,1-2.8c0.6-0.6,1.5-1,2.4-1c2.1,0,3.2,1.2,3.2,3.7v15.2h7.2V65.9c0-1.4-0.2-2.7-0.6-3.8c-0.4-1.1-0.9-2.1-1.6-2.9c-0.7-0.8-1.6-1.4-2.7-1.8c-1.1-0.4-2.3-0.6-3.7-0.6c-0.7,0-1.5,0.1-2.2,0.2c-0.8,0.2-1.5,0.4-2.1,0.7c-0.7,0.3-1.3,0.7-1.9,1.3c-0.6,0.5-1.1,1.2-1.5,1.9c-0.5-1.2-1.2-2.2-2.2-3c-1-0.7-2.2-1.1-3.6-1.1c-0.7,0-1.3,0.1-1.9,0.2c-0.6,0.1-1.1,0.3-1.6,0.6c-0.5,0.3-1,0.6-1.4,0.9c-0.4,0.3-0.9,0.7-1.3,1.1l-0.4-1.3c-0.3-0.8-0.9-1.2-1.8-1.2h-4.5v23.9H221.8z M201.8,62.2c0.5,0.3,1,0.6,1.3,1c0.3,0.4,0.6,0.9,0.7,1.4c0.1,0.5,0.2,1.1,0.2,1.7h-9c0.2-1.5,0.8-2.6,1.5-3.4c0.8-0.8,1.9-1.2,3.2-1.2C200.6,61.8,201.3,61.9,201.8,62.2 M194.7,57.8c-1.5,0.6-2.7,1.5-3.7,2.6c-1,1.1-1.8,2.3-2.4,3.8c-0.6,1.4-0.8,2.9-0.8,4.5c0,2.1,0.3,4,1,5.6c0.6,1.6,1.5,2.9,2.6,4c1.1,1.1,2.4,1.9,3.9,2.4c1.5,0.5,3.1,0.8,4.8,0.8c0.8,0,1.7-0.1,2.6-0.2c0.9-0.1,1.8-0.3,2.7-0.6c0.9-0.3,1.8-0.7,2.7-1.2c0.9-0.5,1.7-1.2,2.4-2.1l-2.1-2.6c-0.3-0.4-0.7-0.6-1.3-0.6c-0.4,0-0.8,0.1-1.2,0.3c-0.4,0.2-0.8,0.4-1.3,0.7c-0.5,0.2-1,0.5-1.6,0.7s-1.3,0.3-2.2,0.3c-1.6,0-2.8-0.4-3.8-1.3c-1-0.9-1.6-2.3-1.8-4.3h13.9c0.3,0,0.6,0,0.8-0.1c0.2-0.1,0.4-0.2,0.5-0.4c0.1-0.2,0.2-0.5,0.3-0.8c0-0.3,0.1-0.8,0.1-1.3c0-1.7-0.3-3.3-0.8-4.6c-0.5-1.4-1.3-2.5-2.2-3.4c-1-0.9-2.1-1.6-3.4-2.1c-1.3-0.5-2.8-0.7-4.4-0.7C197.8,56.9,196.2,57.2,194.7,57.8 M168.3,53.4h3.2c2,0,3.5,0.4,4.5,1.2c1,0.8,1.5,2,1.5,3.5c0,0.7-0.1,1.4-0.3,2.1c-0.2,0.6-0.6,1.2-1,1.7c-0.5,0.5-1.1,0.8-1.8,1.1c-0.8,0.3-1.7,0.4-2.7,0.4h-3.2V53.4z M170.3,68.7c0.6,0,1.1,0.1,1.4,0.3c0.3,0.2,0.6,0.5,0.9,0.9l5.6,9.7c0.6,1,1.5,1.5,2.8,1.5h7.1L181,69.4c-0.4-0.5-0.8-1-1.2-1.4c-0.4-0.4-0.9-0.7-1.5-1c1.1-0.4,2.1-0.9,2.9-1.6c0.8-0.6,1.6-1.4,2.1-2.2c0.6-0.8,1-1.7,1.3-2.7c0.3-1,0.4-2,0.4-3.1c0-1.4-0.2-2.7-0.7-4c-0.5-1.2-1.3-2.3-2.4-3.2c-1.1-0.9-2.5-1.6-4.2-2.1c-1.7-0.5-3.8-0.7-6.3-0.7h-11v33.5h7.9V68.7H170.3z"></path><path fill="#404042" d="M153.5,81c1.2-0.3,2.2-0.9,3.1-1.6l-2.2-3.4c-0.1-0.2-0.3-0.4-0.4-0.5c-0.1-0.1-0.3-0.1-0.5-0.1c-0.2,0-0.3,0-0.4,0.1c-0.1,0.1-0.2,0.1-0.4,0.2c-0.1,0.1-0.3,0.1-0.5,0.2c-0.2,0.1-0.4,0.1-0.7,0.1c-0.5,0-0.9-0.2-1.2-0.5c-0.3-0.4-0.4-0.8-0.4-1.4V62.2h6v-4.9h-6v-7h-3.8c-0.9,0-1.4,0.4-1.6,1.1l-1.4,5.8l-3.8,0.7v2.8c0,0.5,0.1,0.8,0.4,1c0.3,0.2,0.6,0.4,1,0.4h2v12.3c0,1.1,0.2,2,0.5,2.9c0.3,0.9,0.8,1.6,1.4,2.2c0.6,0.6,1.3,1.1,2.2,1.4c0.9,0.3,1.9,0.5,3,0.5C151.2,81.5,152.4,81.3,153.5,81 M136.2,49.1c-0.2-0.5-0.6-1-1-1.3c-0.4-0.4-0.9-0.7-1.4-0.9c-0.5-0.2-1.1-0.3-1.7-0.3c-0.6,0-1.1,0.1-1.7,0.3c-0.5,0.2-1,0.5-1.4,0.9c-0.4,0.4-0.7,0.8-0.9,1.3c-0.2,0.5-0.3,1.1-0.3,1.6c0,0.6,0.1,1.1,0.3,1.6c0.2,0.5,0.5,0.9,0.9,1.3c0.4,0.4,0.8,0.7,1.4,0.9c0.5,0.2,1.1,0.3,1.7,0.3c0.6,0,1.2-0.1,1.7-0.3c0.5-0.2,1-0.5,1.4-0.9c0.4-0.4,0.7-0.8,1-1.3c0.2-0.5,0.3-1,0.3-1.6C136.5,50.1,136.4,49.6,136.2,49.1 M128.6,81.1h7.2V57.2h-7.2V81.1z M114.4,62.6c0.5,0.2,1,0.6,1.3,1.2c0.3,0.5,0.6,1.2,0.8,2c0.2,0.8,0.3,1.9,0.3,3.1c0,1.4-0.1,2.5-0.3,3.5c-0.2,0.9-0.6,1.7-1,2.3c-0.4,0.6-0.9,1-1.5,1.2c-0.6,0.3-1.2,0.4-1.9,0.4c-0.7,0-1.3-0.1-1.9-0.4c-0.6-0.2-1.2-0.7-1.8-1.3V64.5c0.6-0.7,1.3-1.3,1.9-1.7c0.7-0.4,1.4-0.6,2.3-0.6C113.3,62.2,113.9,62.3,114.4,62.6 M106,81.1c0.5,0,0.8-0.1,1.1-0.3s0.5-0.5,0.6-1l0.3-1.2c0.4,0.4,0.8,0.8,1.2,1.2c0.4,0.4,0.8,0.7,1.3,0.9c0.5,0.3,1,0.4,1.6,0.6c0.6,0.1,1.2,0.2,2,0.2c1.5,0,2.9-0.3,4.2-0.9c1.3-0.6,2.3-1.5,3.2-2.6c0.9-1.1,1.6-2.5,2.1-4.1c0.5-1.6,0.7-3.3,0.7-5.3c0-1.8-0.2-3.4-0.6-4.8c-0.4-1.4-1-2.7-1.8-3.7c-0.8-1-1.7-1.8-2.9-2.4c-1.1-0.6-2.4-0.8-3.7-0.8c-1.4,0-2.6,0.3-3.7,0.8c-1.1,0.5-2.1,1.2-3,2.1V46.6h-7.2v34.5H106z M90.2,81.1V66.6c0.4-1,1-1.8,1.6-2.3c0.6-0.6,1.5-0.8,2.5-0.8c0.2,0,0.4,0,0.6,0c0.2,0,0.4,0,0.7,0.1c0.2,0,0.4,0,0.6,0.1c0.2,0,0.4,0,0.5,0c0.3,0,0.6-0.1,0.7-0.2c0.2-0.1,0.3-0.4,0.4-0.7l0.5-5.2c-0.7-0.5-1.6-0.8-2.7-0.8c-1.3,0-2.4,0.4-3.3,1.1c-1,0.7-1.8,1.8-2.6,3.1l-0.3-2c-0.1-0.3-0.1-0.6-0.2-0.8c-0.1-0.2-0.2-0.4-0.4-0.5c-0.2-0.1-0.4-0.2-0.6-0.3c-0.2-0.1-0.5-0.1-0.9-0.1H83v23.9H90.2z M70.4,68.8c-0.4,1.3-1.1,2.5-1.9,3.4c-0.8,0.9-1.8,1.6-3,2.1c-1.2,0.5-2.5,0.7-4,0.7c-1.5,0-2.9-0.2-4.1-0.7c-1.2-0.5-2.2-1.2-3-2.1c-0.8-0.9-1.4-2-1.9-3.4c-0.4-1.3-0.7-2.8-0.7-4.5c0-1.7,0.2-3.1,0.7-4.5c0.4-1.3,1.1-2.5,1.9-3.4c0.8-0.9,1.8-1.6,3-2.1c1.2-0.5,2.5-0.7,4.1-0.7c1.5,0,2.8,0.2,4,0.7c1.2,0.5,2.2,1.2,3,2.1c0.8,0.9,1.4,2,1.9,3.4c0.4,1.3,0.7,2.8,0.7,4.5C71,66,70.8,67.5,70.4,68.8 M77.8,57.6c-0.8-2.1-2-3.9-3.6-5.4c-1.5-1.5-3.4-2.7-5.5-3.6c-2.2-0.9-4.6-1.3-7.2-1.3c-2.6,0-5,0.4-7.2,1.3c-2.2,0.9-4,2.1-5.6,3.6c-1.5,1.5-2.7,3.3-3.6,5.4c-0.8,2.1-1.3,4.3-1.3,6.8c0,2.4,0.4,4.7,1.3,6.8c0.8,2.1,2,3.9,3.6,5.4c1.5,1.5,3.4,2.8,5.6,3.6s4.6,1.3,7.2,1.3c2.6,0,5-0.4,7.2-1.3c2.2-0.9,4-2.1,5.5-3.6c1.5-1.5,2.7-3.4,3.6-5.4c0.8-2.1,1.3-4.3,1.3-6.8C79.1,61.9,78.7,59.7,77.8,57.6"></path><path fill="#C1D52F" d="M294,27.6l-3.4,0l-12.2,0c0,0-1.2,0-1.2,3V31c0,0,0,3,3,3l7.3,0l0,7.3c0,0,0,3,3,3h0.3c0,0,3,0,3-1.4V27.6z"></path><path fill="#404042" d="M201,100.9c0,0.1,0.1,0.2,0.2,0.3c0.1,0.1,0.2,0.2,0.3,0.2c0.1,0,0.2,0.1,0.4,0.1c0.1,0,0.3,0,0.4-0.1c0.1,0,0.2-0.1,0.3-0.2c0.1-0.1,0.2-0.2,0.2-0.3c0.1-0.1,0.1-0.2,0.1-0.4c0-0.1,0-0.3-0.1-0.4c-0.1-0.1-0.1-0.2-0.2-0.3c-0.1-0.1-0.2-0.2-0.3-0.2c-0.1-0.1-0.2-0.1-0.4-0.1c-0.1,0-0.3,0-0.4,0.1c-0.1,0.1-0.2,0.1-0.3,0.2c-0.1,0.1-0.1,0.2-0.2,0.3c0,0.1-0.1,0.2-0.1,0.4C200.9,100.7,200.9,100.8,201,100.9 M197.3,101.4v-4.8c0.1-0.3,0.2-0.5,0.3-0.7s0.2-0.4,0.4-0.5c0.1-0.1,0.3-0.2,0.5-0.3c0.2-0.1,0.4-0.1,0.7-0.1c0.2,0,0.3,0,0.5,0c0.1,0,0.2,0,0.3,0c0.1,0,0.2-0.1,0.2-0.2l0.1-1c-0.1-0.1-0.2-0.1-0.4-0.2c-0.1,0-0.3-0.1-0.5-0.1c-0.5,0-0.9,0.1-1.3,0.4c-0.4,0.3-0.7,0.7-0.9,1.2l-0.1-1.2c0-0.1-0.1-0.2-0.1-0.3c-0.1-0.1-0.2-0.1-0.3-0.1h-0.8v7.7H197.3z M191.6,94.7c0.2,0.1,0.4,0.2,0.6,0.4c0.2,0.2,0.3,0.4,0.4,0.7c0.1,0.3,0.1,0.5,0.1,0.9h-4.2c0.1-0.7,0.3-1.2,0.7-1.6c0.4-0.4,0.9-0.6,1.5-0.6C191.1,94.6,191.4,94.6,191.6,94.7 M189.2,93.9c-0.4,0.2-0.8,0.5-1.1,0.8c-0.3,0.3-0.5,0.7-0.7,1.2c-0.2,0.5-0.2,1-0.2,1.5c0,0.7,0.1,1.2,0.3,1.8c0.2,0.5,0.4,0.9,0.8,1.3c0.3,0.3,0.7,0.6,1.2,0.8c0.4,0.2,0.9,0.3,1.5,0.3c0.3,0,0.6,0,0.8-0.1c0.3,0,0.6-0.1,0.8-0.2c0.3-0.1,0.5-0.2,0.7-0.4c0.2-0.1,0.4-0.3,0.6-0.5l-0.4-0.5c-0.1-0.1-0.1-0.1-0.3-0.1c-0.1,0-0.2,0-0.3,0.1c-0.1,0.1-0.3,0.2-0.4,0.3c-0.2,0.1-0.4,0.2-0.6,0.3c-0.2,0.1-0.5,0.1-0.9,0.1c-0.4,0-0.7-0.1-1-0.2c-0.3-0.1-0.5-0.3-0.8-0.5c-0.2-0.2-0.4-0.5-0.5-0.9c-0.1-0.4-0.2-0.8-0.2-1.3h5.1c0.1,0,0.2,0,0.3-0.1c0-0.1,0.1-0.2,0.1-0.4c0-0.5-0.1-1-0.2-1.5c-0.2-0.4-0.4-0.8-0.7-1.1c-0.3-0.3-0.6-0.5-1-0.7c-0.4-0.2-0.8-0.2-1.3-0.2C190.2,93.6,189.7,93.7,189.2,93.9 M184.1,101.4v-6.5h2.2v-1H184v-0.7c0-0.3,0-0.6,0.1-0.8c0.1-0.2,0.2-0.4,0.3-0.5c0.1-0.1,0.3-0.2,0.5-0.3c0.2-0.1,0.4-0.1,0.6-0.1c0.2,0,0.4,0,0.5,0c0.1,0,0.2-0.1,0.2-0.2l0-0.7c-0.3-0.1-0.6-0.2-0.9-0.2c-0.4,0-0.8,0.1-1.1,0.2c-0.3,0.1-0.6,0.3-0.8,0.5c-0.2,0.2-0.4,0.5-0.5,0.9c-0.1,0.3-0.2,0.7-0.2,1.2v0.7h-1.2v0.6c0,0.1,0,0.2,0.1,0.2c0.1,0.1,0.2,0.1,0.3,0.1l0.8,0.1v6.5H184.1z M180.1,94.5c-0.3-0.3-0.6-0.5-1-0.7c-0.4-0.2-0.9-0.2-1.4-0.2c-0.4,0-0.8,0.1-1.2,0.2c-0.3,0.1-0.6,0.3-0.9,0.5c-0.2,0.2-0.4,0.4-0.5,0.7c-0.1,0.3-0.2,0.6-0.2,0.8c0,0.3,0.1,0.6,0.2,0.8c0.1,0.2,0.3,0.4,0.5,0.6c0.2,0.2,0.4,0.3,0.6,0.4c0.2,0.1,0.5,0.2,0.7,0.3c0.2,0.1,0.5,0.2,0.7,0.2c0.2,0.1,0.5,0.2,0.6,0.3c0.2,0.1,0.3,0.2,0.5,0.4c0.1,0.1,0.2,0.3,0.2,0.5c0,0.2,0,0.3-0.1,0.5c-0.1,0.2-0.2,0.3-0.3,0.4c-0.1,0.1-0.3,0.2-0.5,0.3c-0.2,0.1-0.4,0.1-0.7,0.1c-0.3,0-0.6,0-0.8-0.1c-0.2-0.1-0.4-0.1-0.5-0.2c-0.1-0.1-0.3-0.2-0.4-0.2c-0.1-0.1-0.2-0.1-0.3-0.1c-0.1,0-0.2,0-0.2,0.1c-0.1,0-0.1,0.1-0.1,0.2l-0.3,0.5c0.3,0.3,0.7,0.5,1.1,0.7c0.4,0.2,0.9,0.3,1.5,0.3c0.5,0,0.9-0.1,1.2-0.2c0.4-0.1,0.7-0.3,0.9-0.5c0.2-0.2,0.4-0.5,0.6-0.8c0.1-0.3,0.2-0.6,0.2-1c0-0.3-0.1-0.6-0.2-0.8c-0.1-0.2-0.3-0.4-0.5-0.6c-0.2-0.2-0.4-0.3-0.6-0.4c-0.2-0.1-0.5-0.2-0.7-0.3s-0.5-0.2-0.7-0.2c-0.2-0.1-0.4-0.2-0.6-0.3c-0.2-0.1-0.3-0.2-0.4-0.3s-0.2-0.3-0.2-0.5c0-0.2,0-0.3,0.1-0.4c0.1-0.1,0.2-0.3,0.3-0.4c0.1-0.1,0.3-0.2,0.5-0.2c0.2-0.1,0.4-0.1,0.6-0.1c0.3,0,0.5,0,0.7,0.1c0.2,0.1,0.4,0.1,0.5,0.2c0.1,0.1,0.3,0.1,0.4,0.2c0.1,0.1,0.2,0.1,0.3,0.1c0.1,0,0.2-0.1,0.3-0.2L180.1,94.5z M168,101.4v-5.6c0.3-0.3,0.6-0.6,1-0.8c0.3-0.2,0.7-0.3,1.1-0.3c0.5,0,0.9,0.2,1.2,0.5c0.3,0.3,0.4,0.8,0.4,1.4v4.9h1.4v-4.9c0-0.4-0.1-0.8-0.2-1.2c-0.1-0.4-0.3-0.7-0.5-0.9c-0.2-0.3-0.5-0.5-0.8-0.6c-0.3-0.1-0.7-0.2-1.1-0.2c-0.5,0-1,0.1-1.4,0.3c-0.4,0.2-0.8,0.5-1.1,0.9l-0.1-0.8c0-0.2-0.2-0.3-0.4-0.3h-0.8v7.7H168z M160.3,100.5c-0.2,0-0.3-0.1-0.4-0.2c-0.1-0.1-0.2-0.2-0.3-0.4c-0.1-0.1-0.1-0.3-0.1-0.5c0-0.2,0.1-0.4,0.2-0.6c0.1-0.2,0.3-0.3,0.6-0.4c0.3-0.1,0.6-0.2,1.1-0.3c0.4-0.1,1-0.1,1.6-0.1v1.6c-0.2,0.2-0.3,0.3-0.5,0.4c-0.2,0.1-0.3,0.2-0.5,0.3c-0.2,0.1-0.4,0.2-0.6,0.2c-0.2,0-0.4,0.1-0.7,0.1C160.6,100.6,160.4,100.5,160.3,100.5 M164.3,101.4v-4.9c0-0.4-0.1-0.8-0.2-1.2c-0.1-0.4-0.3-0.7-0.5-0.9c-0.2-0.3-0.5-0.4-0.8-0.6c-0.3-0.1-0.7-0.2-1.1-0.2c-0.6,0-1.1,0.1-1.6,0.3c-0.5,0.2-0.9,0.5-1.4,0.9l0.2,0.4c0,0.1,0.1,0.1,0.2,0.2c0.1,0,0.1,0.1,0.2,0.1c0.1,0,0.2,0,0.4-0.1c0.1-0.1,0.3-0.2,0.4-0.3c0.2-0.1,0.4-0.2,0.6-0.3c0.2-0.1,0.5-0.1,0.8-0.1c0.5,0,0.9,0.2,1.1,0.5c0.3,0.3,0.4,0.8,0.4,1.4v0.6c-0.9,0-1.6,0.1-2.2,0.2c-0.6,0.1-1.1,0.3-1.5,0.5c-0.4,0.2-0.6,0.5-0.8,0.7c-0.2,0.3-0.2,0.6-0.2,0.9c0,0.3,0.1,0.6,0.2,0.9c0.1,0.3,0.3,0.5,0.5,0.6c0.2,0.2,0.4,0.3,0.7,0.4c0.3,0.1,0.5,0.1,0.8,0.1c0.3,0,0.6,0,0.8-0.1c0.2-0.1,0.5-0.1,0.7-0.2c0.2-0.1,0.4-0.2,0.6-0.4c0.2-0.1,0.4-0.3,0.6-0.5l0.2,0.7c0,0.1,0.1,0.2,0.2,0.3c0.1,0,0.2,0.1,0.3,0.1H164.3z M154.4,101.4v-4.8c0.1-0.3,0.2-0.5,0.3-0.7s0.2-0.4,0.4-0.5c0.1-0.1,0.3-0.2,0.5-0.3c0.2-0.1,0.4-0.1,0.7-0.1c0.2,0,0.3,0,0.5,0c0.1,0,0.2,0,0.3,0c0.1,0,0.2-0.1,0.2-0.2l0.1-1c-0.1-0.1-0.2-0.1-0.4-0.2c-0.1,0-0.3-0.1-0.5-0.1c-0.5,0-0.9,0.1-1.3,0.4c-0.4,0.3-0.7,0.7-0.9,1.2l-0.1-1.2c0-0.1-0.1-0.2-0.1-0.3c-0.1-0.1-0.2-0.1-0.3-0.1h-0.8v7.7H154.4z M150.7,101.3c0.3-0.1,0.6-0.3,0.8-0.5l-0.4-0.6c-0.1-0.1-0.1-0.1-0.2-0.1c0,0-0.1,0-0.1,0.1c-0.1,0-0.1,0.1-0.2,0.1c-0.1,0-0.2,0.1-0.3,0.1c-0.1,0-0.2,0.1-0.4,0.1c-0.2,0-0.4-0.1-0.6-0.2c-0.2-0.2-0.2-0.4-0.2-0.7v-4.6h2.2v-1h-2.2v-2.6h-0.7c-0.1,0-0.2,0-0.2,0.1c-0.1,0-0.1,0.1-0.1,0.2l-0.3,2.4l-1.3,0.2v0.5c0,0.1,0,0.2,0.1,0.2c0.1,0,0.1,0.1,0.2,0.1h0.9v4.7c0,0.6,0.2,1.1,0.5,1.5c0.3,0.3,0.8,0.5,1.4,0.5C150.1,101.5,150.4,101.4,150.7,101.3 M142.1,93.7H141c-0.1,0-0.2,0-0.2,0.1c-0.1,0.1-0.1,0.1-0.2,0.2l-2,4.8c-0.1,0.2-0.2,0.5-0.2,0.7c0-0.1-0.1-0.2-0.1-0.3c0-0.1-0.1-0.2-0.1-0.3l-2.1-4c0-0.1-0.1-0.1-0.1-0.2c-0.1-0.1-0.2-0.1-0.3-0.1h-1.2l3.2,7.2l-1.4,3h1c0.1,0,0.2,0,0.3-0.1c0.1-0.1,0.1-0.1,0.2-0.2L142.1,93.7z M131.3,94.7c0.2,0.1,0.4,0.2,0.6,0.4c0.2,0.2,0.3,0.4,0.4,0.7c0.1,0.3,0.1,0.5,0.1,0.9h-4.2c0.1-0.7,0.3-1.2,0.7-1.6c0.4-0.4,0.9-0.6,1.5-0.6C130.8,94.6,131.1,94.6,131.3,94.7 M129,93.9c-0.4,0.2-0.8,0.5-1.1,0.8c-0.3,0.3-0.5,0.7-0.7,1.2c-0.2,0.5-0.2,1-0.2,1.5c0,0.7,0.1,1.2,0.3,1.8c0.2,0.5,0.4,0.9,0.8,1.3c0.3,0.3,0.7,0.6,1.2,0.8c0.4,0.2,0.9,0.3,1.5,0.3c0.3,0,0.6,0,0.8-0.1c0.3,0,0.6-0.1,0.8-0.2c0.3-0.1,0.5-0.2,0.7-0.4s0.4-0.3,0.6-0.5l-0.4-0.5c-0.1-0.1-0.1-0.1-0.3-0.1c-0.1,0-0.2,0-0.3,0.1c-0.1,0.1-0.3,0.2-0.4,0.3c-0.2,0.1-0.4,0.2-0.6,0.3c-0.2,0.1-0.5,0.1-0.9,0.1c-0.4,0-0.7-0.1-1-0.2c-0.3-0.1-0.5-0.3-0.8-0.5c-0.2-0.2-0.4-0.5-0.5-0.9c-0.1-0.4-0.2-0.8-0.2-1.3h5.1c0.1,0,0.2,0,0.3-0.1c0-0.1,0.1-0.2,0.1-0.4c0-0.5-0.1-1-0.2-1.5c-0.2-0.4-0.4-0.8-0.7-1.1c-0.3-0.3-0.6-0.5-1-0.7c-0.4-0.2-0.8-0.2-1.3-0.2C129.9,93.6,129.4,93.7,129,93.9 M119.9,101.4v-5.6c0.3-0.3,0.6-0.6,1-0.8c0.3-0.2,0.7-0.3,1.1-0.3c0.5,0,0.9,0.2,1.2,0.5c0.3,0.3,0.4,0.8,0.4,1.4v4.9h1.4v-4.9c0-0.4-0.1-0.8-0.2-1.2c-0.1-0.4-0.3-0.7-0.5-0.9c-0.2-0.3-0.5-0.5-0.8-0.6c-0.3-0.1-0.7-0.2-1.1-0.2c-0.5,0-1,0.1-1.4,0.3c-0.4,0.2-0.8,0.5-1.1,0.9l-0.1-0.8c0-0.2-0.2-0.3-0.4-0.3h-0.8v7.7H119.9z M111.2,99.7c-0.4-0.5-0.6-1.2-0.6-2.1c0-0.5,0-0.9,0.1-1.2c0.1-0.4,0.2-0.7,0.4-0.9s0.4-0.4,0.7-0.6c0.3-0.1,0.6-0.2,1-0.2c0.8,0,1.3,0.3,1.7,0.8c0.4,0.5,0.6,1.2,0.6,2.1c0,0.9-0.2,1.6-0.6,2.1c-0.4,0.5-0.9,0.8-1.7,0.8C112.2,100.4,111.6,100.2,111.2,99.7 M111.4,93.9c-0.5,0.2-0.8,0.5-1.2,0.8c-0.3,0.3-0.6,0.8-0.7,1.2c-0.2,0.5-0.3,1-0.3,1.6c0,0.6,0.1,1.2,0.3,1.6c0.2,0.5,0.4,0.9,0.7,1.2c0.3,0.3,0.7,0.6,1.2,0.8c0.5,0.2,1,0.3,1.5,0.3c0.6,0,1.1-0.1,1.5-0.3c0.4-0.2,0.8-0.4,1.2-0.8c0.3-0.3,0.6-0.8,0.7-1.2c0.2-0.5,0.3-1,0.3-1.6c0-0.6-0.1-1.1-0.3-1.6c-0.2-0.5-0.4-0.9-0.7-1.2c-0.3-0.3-0.7-0.6-1.2-0.8c-0.4-0.2-1-0.3-1.5-0.3C112.4,93.6,111.9,93.7,111.4,93.9 M98.3,101.4v-5.7c0.2-0.3,0.5-0.6,0.8-0.7c0.3-0.2,0.6-0.3,0.9-0.3c0.5,0,0.8,0.2,1.1,0.5c0.2,0.3,0.4,0.8,0.4,1.4v4.9h1.4v-4.9c0-0.3,0-0.6,0.1-0.8c0.1-0.2,0.2-0.4,0.4-0.6c0.2-0.2,0.3-0.3,0.5-0.3c0.2-0.1,0.4-0.1,0.6-0.1c0.5,0,0.9,0.2,1.1,0.5c0.3,0.3,0.4,0.8,0.4,1.4v4.9h1.4v-4.9c0-0.5-0.1-0.9-0.2-1.2c-0.1-0.4-0.3-0.7-0.5-0.9c-0.2-0.2-0.5-0.4-0.8-0.6c-0.3-0.1-0.7-0.2-1.1-0.2c-0.3,0-0.5,0-0.7,0.1c-0.2,0.1-0.5,0.2-0.7,0.3c-0.2,0.1-0.4,0.3-0.6,0.5c-0.2,0.2-0.3,0.4-0.4,0.7c-0.1-0.5-0.4-0.9-0.7-1.2c-0.3-0.3-0.7-0.4-1.3-0.4c-0.5,0-0.9,0.1-1.2,0.3c-0.4,0.2-0.7,0.5-1,0.9L98.1,94c0-0.2-0.2-0.3-0.4-0.3h-0.8v7.7H98.3z M88.5,94.7c0.2,0.1,0.4,0.2,0.6,0.4c0.2,0.2,0.3,0.4,0.4,0.7c0.1,0.3,0.1,0.5,0.1,0.9h-4.2c0.1-0.7,0.3-1.2,0.7-1.6c0.4-0.4,0.9-0.6,1.5-0.6C87.9,94.6,88.2,94.6,88.5,94.7 M86.1,93.9c-0.4,0.2-0.8,0.5-1.1,0.8c-0.3,0.3-0.5,0.7-0.7,1.2c-0.2,0.5-0.2,1-0.2,1.5c0,0.7,0.1,1.2,0.3,1.8c0.2,0.5,0.4,0.9,0.8,1.3c0.3,0.3,0.7,0.6,1.2,0.8c0.4,0.2,0.9,0.3,1.5,0.3c0.3,0,0.6,0,0.8-0.1c0.3,0,0.6-0.1,0.8-0.2c0.3-0.1,0.5-0.2,0.7-0.4c0.2-0.1,0.4-0.3,0.6-0.5l-0.4-0.5c-0.1-0.1-0.1-0.1-0.3-0.1c-0.1,0-0.2,0-0.3,0.1c-0.1,0.1-0.3,0.2-0.4,0.3c-0.2,0.1-0.4,0.2-0.6,0.3c-0.2,0.1-0.5,0.1-0.9,0.1c-0.4,0-0.7-0.1-1-0.2c-0.3-0.1-0.5-0.3-0.8-0.5c-0.2-0.2-0.4-0.5-0.5-0.9c-0.1-0.4-0.2-0.8-0.2-1.3h5.1c0.1,0,0.2,0,0.3-0.1c0-0.1,0.1-0.2,0.1-0.4c0-0.5-0.1-1-0.2-1.5c-0.2-0.4-0.4-0.8-0.7-1.1c-0.3-0.3-0.6-0.5-1-0.7c-0.4-0.2-0.8-0.2-1.3-0.2C87,93.6,86.5,93.7,86.1,93.9 M77.1,101.4v-5.6c0.3-0.3,0.6-0.6,1-0.8c0.3-0.2,0.7-0.3,1.1-0.3c0.5,0,0.9,0.2,1.2,0.5c0.3,0.3,0.4,0.8,0.4,1.4v4.9h1.4v-4.9c0-0.4-0.1-0.8-0.2-1.2c-0.1-0.4-0.3-0.7-0.5-0.9c-0.2-0.3-0.5-0.5-0.8-0.6c-0.3-0.1-0.7-0.2-1.1-0.2c-0.5,0-1,0.1-1.4,0.3c-0.4,0.2-0.8,0.5-1.1,0.9L76.9,94c0-0.2-0.2-0.3-0.4-0.3h-0.8v7.7H77.1z M73.4,90.9c-0.1-0.1-0.1-0.2-0.2-0.3c-0.1-0.1-0.2-0.2-0.3-0.2c-0.1-0.1-0.2-0.1-0.4-0.1c-0.1,0-0.3,0-0.4,0.1s-0.2,0.1-0.3,0.2c-0.1,0.1-0.2,0.2-0.2,0.3s-0.1,0.2-0.1,0.4s0,0.3,0.1,0.4s0.1,0.2,0.2,0.3c0.1,0.1,0.2,0.2,0.3,0.2s0.2,0.1,0.4,0.1c0.1,0,0.3,0,0.4-0.1c0.1-0.1,0.2-0.1,0.3-0.2c0.1-0.1,0.2-0.2,0.2-0.3c0.1-0.1,0.1-0.2,0.1-0.4S73.5,91.1,73.4,90.9 M71.8,101.4h1.3v-7.7h-1.3V101.4z M67.9,101.4h1.3V90.2h-1.3V101.4z M60.5,101.4v-5.6c0.3-0.3,0.6-0.6,1-0.8c0.3-0.2,0.7-0.3,1.1-0.3c0.5,0,0.9,0.2,1.2,0.5c0.3,0.3,0.4,0.8,0.4,1.4v4.9h1.4v-4.9c0-0.4-0.1-0.8-0.2-1.2c-0.1-0.4-0.3-0.7-0.5-0.9c-0.2-0.3-0.5-0.5-0.8-0.6c-0.3-0.1-0.7-0.2-1.1-0.2c-0.5,0-1,0.1-1.4,0.3c-0.4,0.2-0.8,0.5-1.1,0.9L60.3,94c0-0.2-0.2-0.3-0.4-0.3h-0.8v7.7H60.5z M55.4,97.8c-0.2,0.5-0.4,1-0.8,1.3c-0.3,0.4-0.7,0.6-1.2,0.8c-0.5,0.2-1,0.3-1.6,0.3c-0.6,0-1.1-0.1-1.6-0.3c-0.5-0.2-0.9-0.5-1.2-0.8c-0.3-0.4-0.6-0.8-0.8-1.3S48,96.6,48,96c0-0.7,0.1-1.3,0.3-1.8s0.4-1,0.8-1.3c0.3-0.4,0.7-0.6,1.2-0.8c0.5-0.2,1-0.3,1.6-0.3c0.6,0,1.1,0.1,1.6,0.3c0.5,0.2,0.9,0.5,1.2,0.8s0.6,0.8,0.8,1.3s0.3,1.1,0.3,1.8C55.7,96.6,55.6,97.2,55.4,97.8 M56.8,93.7c-0.3-0.7-0.6-1.3-1.1-1.8c-0.5-0.5-1-0.9-1.7-1.1c-0.7-0.3-1.4-0.4-2.2-0.4c-0.8,0-1.5,0.1-2.2,0.4C49,91.1,48.5,91.5,48,92c-0.5,0.5-0.8,1.1-1.1,1.8s-0.4,1.4-0.4,2.2c0,0.8,0.1,1.6,0.4,2.2s0.6,1.3,1.1,1.8c0.5,0.5,1,0.9,1.7,1.1c0.7,0.3,1.4,0.4,2.2,0.4c0.8,0,1.5-0.1,2.2-0.4c0.7-0.3,1.2-0.6,1.7-1.1c0.5-0.5,0.8-1.1,1.1-1.8c0.3-0.7,0.4-1.4,0.4-2.2C57.2,95.2,57.1,94.4,56.8,93.7"></path></svg></a></div><nav class="MuiTypography-root MuiBreadcrumbs-root MuiTypography-body1 MuiTypography-colorTextSecondary"><ol class="MuiBreadcrumbs-ol"><li class="MuiBreadcrumbs-li"><a class="MuiTypography-root MuiLink-root MuiLink-underlineHover MuiTypography-colorPrimary" href="/">Home</a></li><li aria-hidden="true" class="MuiBreadcrumbs-separator">/</li><li class="MuiBreadcrumbs-li"><a class="MuiTypography-root MuiLink-root MuiLink-underlineHover MuiTypography-colorPrimary" href="/legal">Legal</a></li></ol></nav><h2 class="MuiTypography-root jss5 MuiTypography-h2">Our agreements with you</h2><div class="jss6"><div class="jss1"><ul class="MuiList-root MuiList-padding"><li class="MuiListItem-root MuiListItem-gutters"><a class="MuiTypography-root MuiLink-root MuiLink-underlineHover jss2 MuiTypography-colorPrimary" href="/legal/terms-of-use">Terms of Use</a></li><li class="MuiListItem-root MuiListItem-gutters"><a class="MuiTypography-root MuiLink-root MuiLink-underlineHover jss2 MuiTypography-colorPrimary" href="/legal/acceptable-use-policy">Acceptable Use Policy</a></li><li class="MuiListItem-root MuiListItem-gutters"><a class="MuiTypography-root MuiLink-root MuiLink-underlineHover jss2 MuiTypography-colorPrimary" href="/legal/privacy-policy">Privacy Policy</a></li><li class="MuiListItem-root MuiListItem-gutters"><a class="MuiTypography-root MuiLink-root MuiLink-underlineHover jss2 MuiTypography-colorPrimary" href="/legal/cookie-policy">Cookie Policy</a></li><li class="MuiListItem-root MuiListItem-gutters"><a class="MuiTypography-root MuiLink-root MuiLink-underlineHover jss2 MuiTypography-colorPrimary" href="/legal/campaigns">Specific Campaign Terms of Use</a></li><li class="MuiListItem-root MuiListItem-gutters"><a class="MuiTypography-root MuiLink-root MuiLink-underlineHover jss2 MuiTypography-colorPrimary" href="/legal/updates">Updates</a></li><li class="MuiListItem-root MuiListItem-gutters"><a class="MuiTypography-root MuiLink-root MuiLink-underlineHover jss2 MuiTypography-colorPrimary" href="/legal/archive">Archives</a></li></ul></div></div></div><div class="jss7"><div class="MuiContainer-root MuiContainer-maxWidthLg"><div class="jss8"><div class="jss13"><div class="MuiBox-root jss26"><a class="MuiTypography-root MuiLink-root MuiLink-underlineHover jss24 MuiTypography-colorPrimary" href="/legal/privacy-policy">Privacy Policy</a></div><div class="MuiBox-root jss27"><a class="MuiTypography-root MuiLink-root MuiLink-underlineHover jss24 MuiTypography-colorPrimary" href="/legal/terms-of-use">Terms and Conditions</a></div><div class="MuiBox-root jss28"><a class="MuiTypography-root MuiLink-root MuiLink-underlineHover jss24 MuiTypography-colorPrimary">Manage Cookie Preferences</a></div><p class="MuiTypography-root jss25 MuiTypography-body1">OrbitRemit is a global foreign exchange service regulated and authorised by the Financial Conduct Authority (FCA) in the United Kingdom to provide Money Remittance and Payment Services under the Payment Services Directive (PSD) of 2009.</p><p class="MuiTypography-root jss25 MuiTypography-body1">411/22 Highbury Grove, London N5 2EF, United Kingdom | 1/182 Vivian Street, Te Aro, Wellington, 6011, New Zealand | 14/49-51 York Street, Sydney, NSW, 2000, Australia</p><p class="MuiTypography-root jss25 MuiTypography-body1">©<!-- -->Copyright 2008 - 2021 OrbitRemit Limited | HMRC Registration:
+        XHML00000159500 | FCA Authorisation 574486 | Financial Service Providers
+        Registration: FSP7721 | AFSL Number: 470646</p></div></div></div></div></div></div><script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{}},"page":"/legal","query":{},"buildId":"L-SbJamGIfTkiBRO7vRdG","nextExport":true,"autoExport":true,"isFallback":false,"scriptLoader":[]}</script></body></html>

@@ -39,7 +39,7 @@ public final class StubsMiddleware: Middleware {
         let res = request.fileio.streamFile(at: straightfilePath)
         return request.eventLoop.makeSucceededFuture(res)
       } else {
-        log(request: request, message: "couldn't find any files")
+        log(request: request, message: "couldn't find any files", level: .error)
         return next.respond(to: request)
       }
     }

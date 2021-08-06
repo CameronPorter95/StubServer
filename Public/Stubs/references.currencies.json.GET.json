@@ -92,6 +92,11 @@
     "name": "South African Rand",
     "iso_code": "za"
   }, {
+    "id": 32,
+    "currency_code": "KRW",
+    "name": "South Korean Won",
+    "iso_code": "kr"
+  }, {
     "id": 10,
     "currency_code": "LKR",
     "name": "Sri Lankan Rupee",
@@ -106,11 +111,6 @@
     "currency_code": "THB",
     "name": "Thai Baht",
     "iso_code": "th"
-  }, {
-    "id": 30,
-    "currency_code": "AED",
-    "name": "United Arab Emirates",
-    "iso_code": "ae"
   }, {
     "id": 25,
     "currency_code": "USD",

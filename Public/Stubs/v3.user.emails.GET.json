@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "page": {
+      "current-page": 1,
+      "per-page": 1,
+      "from": 1,
+      "to": 1,
+      "total": 1,
+      "last-page": 1
+    }
+  },
+  "links": {
+    "first": "http:\/\/user-service\/emails?filter%5Buser-id%5D=363762&filter%5Bverified%5D=1&sort=-created-at&page%5Bnumber%5D=1&page%5Bsize%5D=1",
+    "last": "http:\/\/user-service\/emails?filter%5Buser-id%5D=363762&filter%5Bverified%5D=1&sort=-created-at&page%5Bnumber%5D=1&page%5Bsize%5D=1"
+  },
+  "data": [{
+    "type": "emails",
+    "id": "49543",
+    "attributes": {
+      "email-address": "cameronporter95+1@gmail.com",
+      "created-at": "2020-12-03 04:09:42"
+    },
+    "relationships": {
+      "user": {
+        "data": {
+          "type": "users",
+          "id": "363762"
+        }
+      },
+      "verification": {
+        "data": {
+          "type": "verifications",
+          "id": "18429"
+        }
+      }
+    }
+  }]
+}

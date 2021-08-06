@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": {
+    "customer_id": "363762",
+    "send_currency": "NZD",
+    "corridor": "",
+    "max": "4.5",
+    "min": "",
+    "email_address": "cameronporter95+1@gmail.com",
+    "last_sent": "2021-08-05 12:34:52",
+    "id": "15480",
+    "recipient_currency": "DKK"
+  }
+}

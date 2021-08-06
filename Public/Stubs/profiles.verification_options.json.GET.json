@@ -2,6 +2,6 @@
   "status": "success",
   "code": 200,
   "data": {
-    "options": ["address", "identity_facematch_complete"]
+    "options": ["address_complete", "identity_facematch_complete"]
   }
 }

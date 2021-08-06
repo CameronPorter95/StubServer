@@ -2,574 +2,388 @@
   "status": "success",
   "code": 200,
   "data": [{
-    "id": 75,
+    "id": 757,
+    "name": "AB BANK LTD BANGLADESH",
+    "bank_name": "AB BANK LTD BANGLADESH",
+    "code": "BD36",
+    "bank_code": "BD36",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 725,
+    "name": "AGRANI BANK BANGLADESH",
+    "bank_name": "AGRANI BANK BANGLADESH",
+    "code": "BD04",
+    "bank_code": "BD04",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{13,14}$\/"
+  }, {
+    "id": 741,
+    "name": "AL ARAFAH ISLAMI BANK LIMITED BANGLADESH",
+    "bank_name": "AL ARAFAH ISLAMI BANK LIMITED BANGLADESH",
+    "code": "BD20",
+    "bank_code": "BD20",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 747,
+    "name": "BANGLADESH COMMERCE BANK LIMITED",
+    "bank_name": "BANGLADESH COMMERCE BANK LIMITED",
+    "code": "BD26",
+    "bank_code": "BD26",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 754,
+    "name": "BANGLADESH KRISHI BANK",
+    "bank_name": "BANGLADESH KRISHI BANK",
+    "code": "BD33",
+    "bank_code": "BD33",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 763,
+    "name": "BANGLADESH SHILPA BANK",
+    "bank_name": "BANGLADESH SHILPA BANK",
+    "code": "BD42",
+    "bank_code": "BD42",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 724,
+    "name": "BANK ASIA LIMITED",
+    "bank_name": "BANK ASIA LIMITED",
+    "code": "BD03",
+    "bank_code": "BD03",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 759,
+    "name": "BASIC BANK LTD BANGLADESH",
+    "bank_name": "BASIC BANK LTD BANGLADESH",
+    "code": "BD38",
+    "bank_code": "BD38",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 723,
+    "name": "Brac Bank Limited",
+    "bank_name": "Brac Bank Limited",
+    "code": "BD01",
+    "bank_code": "BD01",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 764,
+    "name": "CITI BANK NA",
+    "bank_name": "CITI BANK NA",
+    "code": "BD43",
+    "bank_code": "BD43",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 761,
+    "name": "COMMERCIAL BANK OF CEYLON BANGLADESH",
+    "bank_name": "COMMERCIAL BANK OF CEYLON BANGLADESH",
+    "code": "BD40",
+    "bank_code": "BD40",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 731,
+    "name": "DHAKA BANK LIMITED BANGLADESH",
+    "bank_name": "DHAKA BANK LIMITED BANGLADESH",
+    "code": "BD10",
+    "bank_code": "BD10",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 730,
+    "name": "DUTCH BANGLA BANK LIMITED BANGLADESH",
+    "bank_name": "DUTCH BANGLA BANK LIMITED BANGLADESH",
+    "code": "BD09",
+    "bank_code": "BD09",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "ABN-AMRO Bank Inc"
+    "validation_string": null
   }, {
-    "id": 18,
+    "id": 729,
+    "name": "EASTERN BANK LIMITED BANGLADESH",
+    "bank_name": "EASTERN BANK LIMITED BANGLADESH",
+    "code": "BD08",
+    "bank_code": "BD08",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "AIG Philam Savings Bank"
+    "validation_string": null
   }, {
-    "id": 19,
+    "id": 745,
+    "name": "EXIM BANK LIMITED",
+    "bank_name": "EXIM BANK LIMITED",
+    "code": "BD24",
+    "bank_code": "BD24",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Allied Banking Corporation"
+    "validation_string": null
   }, {
-    "id": 20,
+    "id": 749,
+    "name": "FIRST SECURITY ISLAMI BANK LIMITED BANGLADESH",
+    "bank_name": "FIRST SECURITY ISLAMI BANK LIMITED BANGLADESH",
+    "code": "BD28",
+    "bank_code": "BD28",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Allied Savings Bank"
+    "validation_string": null
   }, {
-    "id": 227,
+    "id": 760,
+    "name": "HABIB BANK LTD BANGLADESH",
+    "bank_name": "HABIB BANK LTD BANGLADESH",
+    "code": "BD39",
+    "bank_code": "BD39",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "ANZ Manila"
+    "validation_string": null
   }, {
-    "id": 21,
+    "id": 758,
+    "name": "HSBC BANGLADESH",
+    "bank_name": "HSBC BANGLADESH",
+    "code": "BD37",
+    "bank_code": "BD37",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Asia United Bank Corporation"
+    "validation_string": null
   }, {
-    "id": 76,
+    "id": 755,
+    "name": "ICB ISLAMI BANK",
+    "bank_name": "ICB ISLAMI BANK",
+    "code": "BD34",
+    "bank_code": "BD34",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Asiatrust Development Bank"
+    "validation_string": null
   }, {
-    "id": 22,
+    "id": 734,
+    "name": "IFIC BANK LIMITED",
+    "bank_name": "IFIC BANK LIMITED",
+    "code": "BD13",
+    "bank_code": "BD13",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Banco de Oro"
+    "validation_string": null
   }, {
-    "id": 23,
+    "id": 1042,
+    "name": "ISLAMI BANK BANGLADESH LIMITED",
+    "bank_name": "ISLAMI BANK BANGLADESH LIMITED",
+    "code": "BD02",
+    "bank_code": "BD02",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Banco San Juan"
+    "validation_string": null
   }, {
-    "id": 24,
+    "id": 753,
+    "name": "JAMUNA BANK LIMITED BANGLADESH",
+    "bank_name": "JAMUNA BANK LIMITED BANGLADESH",
+    "code": "BD32",
+    "bank_code": "BD32",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Bank of Calape"
+    "validation_string": null
   }, {
-    "id": 25,
+    "id": 727,
+    "name": "JANATA BANK BANGLADESH",
+    "bank_name": "JANATA BANK BANGLADESH",
+    "code": "BD06",
+    "bank_code": "BD06",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Bank of China Limited"
+    "validation_string": null
   }, {
-    "id": 26,
+    "id": 746,
+    "name": "MERCANTILE BANK LIMITED",
+    "bank_name": "MERCANTILE BANK LIMITED",
+    "code": "BD25",
+    "bank_code": "BD25",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Bank of Commerce"
+    "validation_string": null
   }, {
-    "id": 106,
+    "id": 748,
+    "name": "MUTUAL TRUST BANK LIMITED BANGLADESH",
+    "bank_name": "MUTUAL TRUST BANK LIMITED BANGLADESH",
+    "code": "BD27",
+    "bank_code": "BD27",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Bank of Florida"
+    "validation_string": null
   }, {
-    "id": 27,
+    "id": 735,
+    "name": "NATIONAL BANK LIMITED",
+    "bank_name": "NATIONAL BANK LIMITED",
+    "code": "BD14",
+    "bank_code": "BD14",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Bank of Philippine Islands"
+    "validation_string": null
   }, {
-    "id": 28,
+    "id": 738,
+    "name": "NCC BANK LIMITED BANGLADESH",
+    "bank_name": "NCC BANK LIMITED BANGLADESH",
+    "code": "BD17",
+    "bank_code": "BD17",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Banko Kabayan"
+    "validation_string": null
   }, {
-    "id": 78,
+    "id": 1115,
+    "name": "NRB BANK LIMITED",
+    "bank_name": "NRB BANK LIMITED",
+    "code": "BD52",
+    "bank_code": "BD52",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Bataan Development Bank"
+    "validation_string": null
   }, {
-    "id": 30,
+    "id": 1868,
+    "name": "NRB COMMERCIAL BANK LTD",
+    "bank_name": "NRB COMMERCIAL BANK LTD",
+    "code": "BD46",
+    "bank_code": "BD46",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "BPI Direct Savings Bank"
+    "validation_string": null
   }, {
-    "id": 31,
+    "id": 1056,
+    "name": "NRB GLOBAL BANK LIMITED ",
+    "bank_name": "NRB GLOBAL BANK LIMITED",
+    "code": "BD54",
+    "bank_code": "BD54",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "BPI Family Savings Bank"
+    "validation_string": null
   }, {
-    "id": 79,
+    "id": 744,
+    "name": "ONE BANK LIMITED BANGLADESH",
+    "bank_name": "ONE BANK LIMITED BANGLADESH",
+    "code": "BD23",
+    "bank_code": "BD23",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Centennial Savings Bank Inc"
+    "validation_string": null
   }, {
-    "id": 32,
+    "id": 739,
+    "name": "PRIME BANK LIMITED",
+    "bank_name": "PRIME BANK LIMITED",
+    "code": "BD18",
+    "bank_code": "BD18",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Century Savings Bank Corporation"
+    "validation_string": null
   }, {
-    "id": 903,
+    "id": 732,
+    "name": "PUBALI BANK LIMITED",
+    "bank_name": "PUBALI BANK LIMITED",
+    "code": "BD11",
+    "bank_code": "BD11",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "CHINA BANK SAVINGS"
+    "validation_string": null
   }, {
-    "id": 33,
+    "id": 756,
+    "name": "RAJSHAHI KRISHI UNNAYAN BANK BANGLADESH",
+    "bank_name": "RAJSHAHI KRISHI UNNAYAN BANK BANGLADESH",
+    "code": "BD35",
+    "bank_code": "BD35",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "China Banking Corporation"
+    "validation_string": null
   }, {
-    "id": 80,
+    "id": 728,
+    "name": "RUPALI BANK BANGLADESH",
+    "bank_name": "RUPALI BANK BANGLADESH",
+    "code": "BD07",
+    "bank_code": "BD07",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Chinatrust (Phils.) Commercial Bank Corporation"
+    "validation_string": null
   }, {
-    "id": 34,
+    "id": 752,
+    "name": "SHAHJALAL ISLAMI BANK LIMITED BANGLADESH",
+    "bank_name": "SHAHJALAL ISLAMI BANK LIMITED BANGLADESH",
+    "code": "BD31",
+    "bank_code": "BD31",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Citibank NA"
+    "validation_string": null
   }, {
-    "id": 81,
+    "id": 742,
+    "name": "SOCIAL ISLAMI BANK LIMITED BANGLADESH",
+    "bank_name": "SOCIAL ISLAMI BANK LIMITED BANGLADESH",
+    "code": "BD21",
+    "bank_code": "BD21",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Citibank Savings Inc"
+    "validation_string": null
   }, {
-    "id": 35,
+    "id": 726,
+    "name": "SONALI BANK BANGLADESH",
+    "bank_name": "SONALI BANK BANGLADESH",
+    "code": "BD05",
+    "bank_code": "BD05",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "City Savings Bank"
+    "validation_string": "\/^[0-9-]{13,14}$\/"
   }, {
-    "id": 36,
+    "id": 740,
+    "name": "SOUTHEAST BANK LIMITED BANGLADESH",
+    "bank_name": "SOUTHEAST BANK LIMITED BANGLADESH",
+    "code": "BD19",
+    "bank_code": "BD19",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Citystate Savings Bank Inc"
+    "validation_string": null
   }, {
-    "id": 107,
+    "id": 743,
+    "name": "STANDARD BANK LIMITED",
+    "bank_name": "STANDARD BANK LIMITED",
+    "code": "BD22",
+    "bank_code": "BD22",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Cordillera Savings Bank Inc"
+    "validation_string": null
   }, {
-    "id": 1116,
+    "id": 765,
+    "name": "STANDARD CHARTERED BANK BANGLADESH",
+    "bank_name": "STANDARD CHARTERED BANK BANGLADESH",
+    "code": "BD44",
+    "bank_code": "BD44",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "CTBC Bank"
+    "validation_string": null
   }, {
-    "id": 37,
+    "id": 762,
+    "name": "STATE BANK OF INDIA (BANGLADESH)",
+    "bank_name": "STATE BANK OF INDIA (BANGLADESH)",
+    "code": "BD41",
+    "bank_code": "BD41",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Development Bank of the Philippines"
+    "validation_string": null
   }, {
-    "id": 38,
+    "id": 736,
+    "name": "THE CITY BANK LIMITED",
+    "bank_name": "THE CITY BANK LIMITED",
+    "code": "BD15",
+    "bank_code": "BD15",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "East West Banking Corporation"
+    "validation_string": null
   }, {
-    "id": 222,
+    "id": 750,
+    "name": "THE PREMIER BANK LIMITED BANGLADESH",
+    "bank_name": "THE PREMIER BANK LIMITED BANGLADESH",
+    "code": "BD29",
+    "bank_code": "BD29",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Entrepreneur Bank"
+    "validation_string": null
   }, {
-    "id": 39,
+    "id": 751,
+    "name": "TRUST BANK LIMITED",
+    "bank_name": "TRUST BANK LIMITED",
+    "code": "BD30",
+    "bank_code": "BD30",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Equitable Savings Bank Inc"
+    "validation_string": null
   }, {
-    "id": 82,
+    "id": 1803,
+    "name": "UNION BANK LTD",
+    "bank_name": "UNION BANK LTD",
+    "code": "BD47",
+    "bank_code": "BD47",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Export and Industry Bank"
+    "validation_string": null
   }, {
-    "id": 84,
+    "id": 737,
+    "name": "UNITED COMMERCIAL BANK LIMITED BANGLADESH",
+    "bank_name": "UNITED COMMERCIAL BANK LIMITED BANGLADESH",
+    "code": "BD16",
+    "bank_code": "BD16",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Fico Bank"
+    "validation_string": null
   }, {
-    "id": 108,
+    "id": 733,
+    "name": "UTTARA BANK LIMITED",
+    "bank_name": "UTTARA BANK LIMITED",
+    "code": "BD12",
+    "bank_code": "BD12",
     "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Finman Rural Bank"
-  }, {
-    "id": 109,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "First Consolidated Bank"
-  }, {
-    "id": 83,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "First Consolidated Bank Inc (A Private Dev't Bank)"
-  }, {
-    "id": 85,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "GE Money Bank Inc (A Savings Bank)"
-  }, {
-    "id": 799,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Handlesbanken"
-  }, {
-    "id": 42,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "HSBC Savings Bank"
-  }, {
-    "id": 86,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Iloilo City Development Bank"
-  }, {
-    "id": 88,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Insular bank"
-  }, {
-    "id": 43,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Inter-Asia Development Bank"
-  }, {
-    "id": 87,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "ISLA Bank (A Thrift Bank) Inc"
-  }, {
-    "id": 44,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Land Bank of the Philippines"
-  }, {
-    "id": 89,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "LBC Development Bank"
-  }, {
-    "id": 90,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Luzon Development Bank"
-  }, {
-    "id": 110,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Macro Bank"
-  }, {
-    "id": 91,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Malayan Bank"
-  }, {
-    "id": 92,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Maybank Philippines Inc"
-  }, {
-    "id": 45,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Mega International Commercial Bank Co Ltd"
-  }, {
-    "id": 46,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Metro Bank"
-  }, {
-    "id": 93,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "One Network Bank"
-  }, {
-    "id": 111,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Pampanga Development Bank"
-  }, {
-    "id": 231,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Pen Bank Peninsula Bank INC"
-  }, {
-    "id": 94,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Philippine Bank of Communications"
-  }, {
-    "id": 95,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Philippine Business Bank Inc"
-  }, {
-    "id": 47,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Philippine National Bank"
-  }, {
-    "id": 112,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Philippine Postal Savings Bank"
-  }, {
-    "id": 48,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Philippine Savings Bank"
-  }, {
-    "id": 96,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Philippine Trust Company"
-  }, {
-    "id": 49,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Philippine Veterans Bank"
-  }, {
-    "id": 113,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Plan Rural Bank"
-  }, {
-    "id": 97,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Planters Development Bank"
-  }, {
-    "id": 1149,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "PNB Savings Bank"
-  }, {
-    "id": 99,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Porac Bank"
-  }, {
-    "id": 98,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Premiere Development Bank"
-  }, {
-    "id": 114,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Producers Bank"
-  }, {
-    "id": 50,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Queen Bank"
-  }, {
-    "id": 51,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "RCBC Savings Bank Inc"
-  }, {
-    "id": 52,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Rizal Commercial Banking Corporation"
-  }, {
-    "id": 100,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Robinsons Savings Bank Corporation"
-  }, {
-    "id": 115,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Rural Bank of Bambang Isabela"
-  }, {
-    "id": 116,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Rural Bank of Banawag La union"
-  }, {
-    "id": 117,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Rural Bank of Bani Pangasinan"
-  }, {
-    "id": 118,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Rural Bank of Bauang La union"
-  }, {
-    "id": 119,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Rural Bank of Bolinao Pangasinan"
-  }, {
-    "id": 120,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Rural Bank of Cavinti Laguna"
-  }, {
-    "id": 121,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Rural Bank of Central Pangasinan"
-  }, {
-    "id": 122,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Rural Bank of Dolores Laguna"
-  }, {
-    "id": 123,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Rural Bank of Dolores Pangasinan"
-  }, {
-    "id": 124,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Rural Bank of Dumangas IloIlo"
-  }, {
-    "id": 125,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Rural Bank of Guagua"
-  }, {
-    "id": 126,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Rural Bank of Guimba Tarlac"
-  }, {
-    "id": 127,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Rural Bank of Itogon Pangasinan"
-  }, {
-    "id": 128,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Rural Bank of Laurel Batangas"
-  }, {
-    "id": 129,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Rural Bank of Lipa Batangas"
-  }, {
-    "id": 130,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Rural Bank of Malasin Isabela"
-  }, {
-    "id": 131,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Rural Bank of Mallig Plains (Isabela)"
-  }, {
-    "id": 132,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Rural Bank of Manaog Pangasinan"
-  }, {
-    "id": 133,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Rural Bank of Masantol Pampanga"
-  }, {
-    "id": 229,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Rural Bank of Montalban Rizal"
-  }, {
-    "id": 134,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Rural Bank of Mt. Makiling Laguna"
-  }, {
-    "id": 135,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Rural Bank of Naguillian La union"
-  }, {
-    "id": 53,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Rural Bank of Pozzorubio Pangasinan"
-  }, {
-    "id": 136,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Rural Bank of Rosario La Union"
-  }, {
-    "id": 137,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Rural Bank of San Antonio Batangas"
-  }, {
-    "id": 138,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Rural Bank of San Mateo Isabela"
-  }, {
-    "id": 139,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Rural Bank of San Quintin Pangasinan"
-  }, {
-    "id": 140,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Rural Bank of Sto. Domingo Tarlac"
-  }, {
-    "id": 141,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Rural Bank of Victoria Tarlac"
-  }, {
-    "id": 54,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Security Bank Corporation"
-  }, {
-    "id": 142,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Signa Bank"
-  }, {
-    "id": 101,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Standard Chartered Bank"
-  }, {
-    "id": 102,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Sterling Bank"
-  }, {
-    "id": 103,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Summit Bank"
-  }, {
-    "id": 1245,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Sun Savings Bank"
-  }, {
-    "id": 41,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "The Hongkong and Shanghai Banking Corporation"
-  }, {
-    "id": 104,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "The Manila Banking Corporation"
-  }, {
-    "id": 105,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "The Real Bank (A Thrift Bank) Inc"
-  }, {
-    "id": 55,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "UCPB Savings Bank"
-  }, {
-    "id": 56,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "Union Bank of the Philippines"
-  }, {
-    "id": 57,
-    "input_mask": "################",
-    "validation_string": null,
-    "bank_name": "United Coconut Planters Bank"
+    "validation_string": null
   }]
 }

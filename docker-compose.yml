@@ -19,7 +19,7 @@ x-shared_environment: &shared_environment
 
 services:
   app:
-    image: new-stub-server:latest
+    image: stub-server:latest
     build:
       context: .
     environment:

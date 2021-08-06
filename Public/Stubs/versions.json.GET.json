@@ -2,7 +2,7 @@
   "status": "success",
   "code": 200,
   "data": {
-    "android": "2.3.11",
-    "iOS": "2.5.1"
+    "android": "5.4.1",
+    "iOS": "4.7.0"
   }
 }
