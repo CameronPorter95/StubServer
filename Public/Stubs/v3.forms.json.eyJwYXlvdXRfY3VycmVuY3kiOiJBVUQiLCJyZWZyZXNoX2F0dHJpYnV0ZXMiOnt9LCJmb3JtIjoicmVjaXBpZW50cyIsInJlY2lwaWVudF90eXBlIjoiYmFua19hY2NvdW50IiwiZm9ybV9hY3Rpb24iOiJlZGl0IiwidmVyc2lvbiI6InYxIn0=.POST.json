@@ -1,0 +1,136 @@
+{
+  "data": {
+    "type": "forms",
+    "id": "47c969fd-f4c7-4ead-baf5-3fc030f3c3e6",
+    "attributes": {
+      "JSONSchema": {
+        "type": "object",
+        "title": "recipients",
+        "properties": {
+          "nickname": {
+            "type": "string",
+            "title": "Nickname (Optional)",
+            "lookupPath": "$.nickname",
+            "keyboard": "text",
+            "isEnabled": "false"
+          },
+          "reason": {
+            "type": "array",
+            "title": "Transfer Purpose",
+            "lookupPath": "$.reason",
+            "keyboard": "text",
+            "isEnabled": "false",
+            "values": ["I'm supporting family or friends", "I'm sending money to myself", "I'm purchasing goods or services", "I'm making a property payment"]
+          },
+          "account_name": {
+            "type": "contact",
+            "title": "Account Name",
+            "lookupPath": "$.name",
+            "keyboard": "text",
+            "validation": {
+              "^(.+)$": null
+            },
+            "isEnabled": "false",
+            "filter": "full_name"
+          },
+          "email_address": {
+            "type": "string",
+            "title": "Email Address (Optional)",
+            "lookupPath": "$.details.email_address",
+            "keyboard": "emailAddress",
+            "validation": {
+              "[A-Z0-9a-z._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,64}": null
+            },
+            "isEnabled": "false"
+          },
+          "account_number": {
+            "type": "string",
+            "title": "Account Number",
+            "lookupPath": "$.details.account_number",
+            "keyboard": "numberPad",
+            "mask": "______-__________",
+            "validation": {
+              "^\\d{6}-\\d{6,10}$": null
+            },
+            "isEnabled": "false"
+          },
+          "address_header": {
+            "type": "header",
+            "title": "Recipient's Residential Address",
+            "subTitle": "(Not the bank address)"
+          },
+          "address": {
+            "type": "address",
+            "title": "Address",
+            "properties": {
+              "street_no_name": {
+                "type": "string",
+                "title": "Street No. and Name",
+                "lookupPath": "$.details.address1",
+                "keyboard": "text",
+                "isEnabled": "false"
+              },
+              "suburb": {
+                "type": "string",
+                "title": "Suburb",
+                "lookupPath": "$.details.address2",
+                "keyboard": "text",
+                "isEnabled": "false"
+              },
+              "city": {
+                "type": "string",
+                "title": "City",
+                "lookupPath": "$.details.city",
+                "keyboard": "text",
+                "isEnabled": "false"
+              },
+              "state": {
+                "type": "string",
+                "title": "State\/Region",
+                "lookupPath": "$.details.address3",
+                "keyboard": "text",
+                "isEnabled": "false"
+              },
+              "postcode": {
+                "type": "string",
+                "title": "Postcode",
+                "lookupPath": "$.details.postcode",
+                "keyboard": "text",
+                "isEnabled": "false"
+              },
+              "country": {
+                "type": "remote",
+                "title": "Country",
+                "lookupPath": "$.details.country",
+                "keyboard": "text",
+                "isEnabled": "false",
+                "url": "references\/countries.json",
+                "valuePath": "$.data[*].name",
+                "namePath": "$.data[*].name"
+              }
+            },
+            "required": ["street_no_name", "suburb", "city", "state", "postcode", "country"],
+            "order": ["street_no_name", "suburb", "city", "state", "postcode", "country"],
+            "lookupPath": "$.details.address",
+            "actionButtonText": "Enter it Manually",
+            "keyboard": "text",
+            "isEnabled": "false",
+            "url": "v3\/address\/google-places?filter[country]=au",
+            "valuePath": "$.data[*].id",
+            "namePath": "$.data[*].attributes.description",
+            "searchParameter": "search",
+            "filter": "au",
+            "provider": "google-places"
+          }
+        },
+        "required": ["reason", "account_name", "account_number", "address"],
+        "order": ["account_name", "account_number", "reason", "nickname", "email_address", "address_header", "address"],
+        "schema": "http:\/\/json-schema.org\/draft-07\/schema#",
+        "id": "http:\/\/example.com\/root.json"
+      }
+    },
+    "links": {
+      "self": "http:\/\/form-service\/forms\/47c969fd-f4c7-4ead-baf5-3fc030f3c3e6"
+    }
+  }
+}

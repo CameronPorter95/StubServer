@@ -1,0 +1,16 @@
+{
+  "data": {
+    "type": "estimates",
+    "id": "e887c5d3-9074-4bfd-8658-81b396472bc9",
+    "attributes": {
+      "send_currency": "AUD",
+      "payout_currency": "USD",
+      "send_amount": "1000.00",
+      "created_at": "2021-08-09 04:14:35",
+      "expires_at": "2021-08-09 04:24:35",
+      "base_currency": "AUD",
+      "payout_amount": "691.40",
+      "rate": "0.69140"
+    }
+  }
+}
