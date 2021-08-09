@@ -1,0 +1,15 @@
+{
+  "data": [{
+    "type": "bank_deposits",
+    "id": "1",
+    "attributes": {
+      "bankName": "BNZ",
+      "accountName": "OrbitRemit",
+      "currencyCode": "NZD",
+      "accountNumber": "02-0108-0476705-00"
+    },
+    "links": {
+      "self": "\/bank_deposits\/1"
+    }
+  }]
+}

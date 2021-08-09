@@ -1,0 +1,29 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": {
+    "id": "5e5ddb89-3750-41c5-aaf7-00140a1000f3",
+    "type": "bank_account",
+    "name": "Vivaan",
+    "country_code": "in",
+    "country": {
+      "name": "India",
+      "country_code": "in",
+      "currency_code": "INR"
+    },
+    "reason": "Im supporting family or friends",
+    "details": {
+      "bank_id": "603",
+      "bank_name": "Andhra Bank",
+      "bank_code": "IN1005",
+      "account_number": "465375488387558",
+      "branch_code": "ANDB0002247",
+      "account_type": "personal",
+      "address1": "Polleta Cove",
+      "address2": "Kirkston",
+      "city": "Delhi",
+      "postcode": "1819",
+      "email_address": "vivaan@hotmail.com"
+    }
+  }
+}

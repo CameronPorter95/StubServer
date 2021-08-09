@@ -1,0 +1,31 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": {
+    "id": "5e5ddbd6-d74c-4af1-8c26-00140a1000f3",
+    "type": "bank_account",
+    "name": "Aditya Patel",
+    "country_code": "in",
+    "country": {
+      "name": "India",
+      "country_code": "in",
+      "currency_code": "INR"
+    },
+    "reason": "Im supporting family or friends",
+    "details": {
+      "bank_id": "603",
+      "bank_name": "Andhra Bank",
+      "bank_code": "IN1005",
+      "account_number": "465073288645127",
+      "branch_code": "ANDB0001705",
+      "account_type": "personal",
+      "address1": "Yaleta Road",
+      "address2": "Dunedon",
+      "address3": "jjjjk",
+      "city": "Punjabi",
+      "postcode": "2718",
+      "country": "Austria",
+      "email_address": "aditya.patel@hotmail.com"
+    }
+  }
+}

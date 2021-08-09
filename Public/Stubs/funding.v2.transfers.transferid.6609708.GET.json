@@ -1,0 +1,32 @@
+{
+  "data": {
+    "type": "transfers",
+    "id": "556530",
+    "attributes": {
+      "tranferId": 6609708,
+      "createdAt": "2021-08-08T23:43:19.000000Z"
+    },
+    "relationships": {
+      "methods": {
+        "data": [{
+          "type": "methods",
+          "id": "1"
+        }],
+        "links": {
+          "self": "\/transfers\/556530\/relationships\/methods",
+          "related": "\/transfers\/556530\/methods"
+        }
+      }
+    },
+    "links": {
+      "self": "\/transfers\/556530"
+    }
+  },
+  "included": [{
+    "type": "methods",
+    "id": "1",
+    "attributes": {
+      "methodName": "bank_deposit"
+    }
+  }]
+}

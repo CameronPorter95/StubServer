@@ -1,0 +1,25 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": {
+    "id": "5e5ddc26-1e90-4f8b-9ca3-00140a1000f3",
+    "type": "bank_account",
+    "name": "Russell Stapleton",
+    "country_code": "au",
+    "country": {
+      "name": "Australia",
+      "country_code": "au",
+      "currency_code": "AUD"
+    },
+    "reason": "Im supporting family or friends",
+    "details": {
+      "account_number": "123762-48832812",
+      "account_type": "personal",
+      "address1": "Tina Street",
+      "address2": "Gloomburg",
+      "city": "Sydney",
+      "postcode": "1728",
+      "email_address": "russell.stapleton@gmail.com"
+    }
+  }
+}

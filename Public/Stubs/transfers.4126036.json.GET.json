@@ -1,0 +1,83 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": {
+    "id": "4126036",
+    "payment_number": "4213718",
+    "exchange_rate": "48.53580",
+    "send_currency": "AUD",
+    "payout_currency": "INR",
+    "send_amount": "5.00",
+    "payout_amount": "242.68",
+    "total_amount": "5.00",
+    "fee_amount": "0.00",
+    "status": "Funds Paid",
+    "created": "2020-03-03 04:37:53",
+    "reason": "Im supporting family or friends",
+    "type": null,
+    "customer": {
+      "id": "27",
+      "name": "Cameron Porter",
+      "first_name": "Cameron",
+      "last_name": "Porter",
+      "number": "85850986",
+      "email": "cameron.porter2@orbitremit.com",
+      "date_of_birth": "1978-10-30",
+      "contact_phone": "+643482647",
+      "address1": "5 Poop",
+      "address2": null,
+      "address3": null,
+      "city": "poop",
+      "postcode": "poop",
+      "country": "New Zealand"
+    },
+    "recipient": {
+      "id": "253904",
+      "uuid": "5e5ddb89-3750-41c5-aaf7-00140a1000f3",
+      "type": "bank_account",
+      "name": "Vivaan",
+      "country_code": "in",
+      "country_name": "India",
+      "details": {
+        "account_number": "465375488387558",
+        "branch_code": "ANDB0002247",
+        "bank_code": "IN1005",
+        "bank_name": "Andhra Bank",
+        "phone_number": ""
+      },
+      "display_details": {
+        "bank": "Andhra Bank",
+        "account_number": "465375488387558",
+        "ifsc_code": "ANDB0002247"
+      },
+      "extra_details": {
+        "address1": "Polleta Cove",
+        "address2": "Kirkston",
+        "address3": null,
+        "city": "Delhi",
+        "postcode": "1819",
+        "email_address": "vivaan@hotmail.com",
+        "first_name": null,
+        "last_name": null,
+        "company_type": null,
+        "company_activity": null
+      }
+    },
+    "bank_line_type": null,
+    "payment_supplement": [],
+    "progress": [{
+      "action": "settled",
+      "created": "2021-02-18 21:22:31"
+    }],
+    "deposit_account": {
+      "account_name": "OrbitRemit",
+      "bsb": "659000",
+      "account_number": "300037754"
+    },
+    "status_display": {
+      "description": "",
+      "action_text": "",
+      "header_text": ""
+    }
+  }
+}

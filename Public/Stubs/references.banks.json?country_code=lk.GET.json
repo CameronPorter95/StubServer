@@ -1,0 +1,213 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": [{
+    "id": 713,
+    "name": "AMANA BANK LIMITED",
+    "bank_name": "AMANA BANK LIMITED",
+    "code": "7463",
+    "bank_code": "7463",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 416,
+    "name": "Bank of Ceylon",
+    "bank_name": "Bank of Ceylon",
+    "code": "7010",
+    "bank_code": "7010",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 1251,
+    "name": "Citizens Development Bank",
+    "bank_name": "Citizens Development Bank",
+    "code": "7746",
+    "bank_code": "7746",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 417,
+    "name": "City Bank",
+    "bank_name": "City Bank",
+    "code": "7047",
+    "bank_code": "7047",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 418,
+    "name": "Commercial Bank",
+    "bank_name": "Commercial Bank",
+    "code": "7056",
+    "bank_code": "7056",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 419,
+    "name": "Deutsche Bank",
+    "bank_name": "Deutsche Bank",
+    "code": "7205",
+    "bank_code": "7205",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 420,
+    "name": "DFCC Vardana Bank",
+    "bank_name": "DFCC Vardana Bank",
+    "code": "7454",
+    "bank_code": "7454",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 421,
+    "name": "Habib Bank",
+    "bank_name": "Habib Bank",
+    "code": "7074",
+    "bank_code": "7074",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 422,
+    "name": "Hatton National Bank",
+    "bank_name": "Hatton National Bank",
+    "code": "7083",
+    "bank_code": "7083",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 423,
+    "name": "HSBC",
+    "bank_name": "HSBC",
+    "code": "7092",
+    "bank_code": "7092",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 424,
+    "name": "ICICI Bank ",
+    "bank_name": "ICICI Bank",
+    "code": "7384",
+    "bank_code": "7384",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 425,
+    "name": "Indian Bank",
+    "bank_name": "Indian Bank",
+    "code": "7108",
+    "bank_code": "7108",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 426,
+    "name": "Indian Overseas Bank",
+    "bank_name": "Indian Overseas Bank",
+    "code": "7117",
+    "bank_code": "7117",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 427,
+    "name": "Muslim Commercial Bank",
+    "bank_name": "Muslim Commercial Bank",
+    "code": "7269",
+    "bank_code": "7269",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 428,
+    "name": "NDB Bank",
+    "bank_name": "NDB Bank",
+    "code": "7214",
+    "bank_code": "7214",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 429,
+    "name": "NSB ",
+    "bank_name": "NSB",
+    "code": "7719",
+    "bank_code": "7719",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 430,
+    "name": "NTB",
+    "bank_name": "NTB",
+    "code": "7162",
+    "bank_code": "7162",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 431,
+    "name": "Pan Asia Bank",
+    "bank_name": "Pan Asia Bank",
+    "code": "7311",
+    "bank_code": "7311",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 432,
+    "name": "People's Bank",
+    "bank_name": "People's Bank",
+    "code": "7135",
+    "bank_code": "7135",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 1744,
+    "name": "Regional Development Bank",
+    "bank_name": "Regional Development Bank",
+    "code": "7755",
+    "bank_code": "7755",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 434,
+    "name": "Sampath Bank Sri Lanka",
+    "bank_name": "Sampath Bank Sri Lanka",
+    "code": "7278",
+    "bank_code": "7278",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 435,
+    "name": "Seylan Bank",
+    "bank_name": "Seylan Bank",
+    "code": "7287",
+    "bank_code": "7287",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 436,
+    "name": "Standard Charterd",
+    "bank_name": "Standard Charterd",
+    "code": "7038",
+    "bank_code": "7038",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 437,
+    "name": "State Bank of India",
+    "bank_name": "State Bank of India",
+    "code": "7144",
+    "bank_code": "7144",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 438,
+    "name": "Union bank",
+    "bank_name": "Union bank",
+    "code": "7153",
+    "bank_code": "7153",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 439,
+    "name": "Union Bank of Colombo",
+    "bank_name": "Union Bank of Colombo",
+    "code": "7302",
+    "bank_code": "7302",
+    "input_mask": "################",
+    "validation_string": null
+  }]
+}

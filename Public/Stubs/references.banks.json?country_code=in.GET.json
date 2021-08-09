@@ -1,0 +1,1309 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": [{
+    "id": 600,
+    "name": "Abhyudaya Co Op Bank Ltd",
+    "bank_name": "Abhyudaya Co Op Bank Ltd",
+    "code": "IN1001",
+    "bank_code": "IN1001",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{11,15}$\/"
+  }, {
+    "id": 601,
+    "name": "Abu Dhabi Commercial Bank",
+    "bank_name": "Abu Dhabi Commercial Bank",
+    "code": "IN1003",
+    "bank_code": "IN1003",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 864,
+    "name": "Akola District Central Co-Operative Bank",
+    "bank_name": "Akola District Central Co-Operative Bank",
+    "code": "IN1188",
+    "bank_code": "IN1188",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 831,
+    "name": "Almora Urban Co-Operative Bank Ltd",
+    "bank_name": "Almora Urban Co-Operative Bank Ltd",
+    "code": "IN1154",
+    "bank_code": "IN1154",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 603,
+    "name": "Andhra Bank",
+    "bank_name": "Andhra Bank",
+    "code": "IN1005",
+    "bank_code": "IN1005",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{15}$\/"
+  }, {
+    "id": 829,
+    "name": "Andhra Pragathi Grameena Bank",
+    "bank_name": "Andhra Pragathi Grameena Bank",
+    "code": "IN1152",
+    "bank_code": "IN1152",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 830,
+    "name": "Apna Sahakari Bank Ltd",
+    "bank_name": "Apna Sahakari Bank Ltd",
+    "code": "IN1153",
+    "bank_code": "IN1153",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 1723,
+    "name": "Au Small Finance Bank",
+    "bank_name": "Au Small Finance Bank",
+    "code": "IN9998",
+    "bank_code": "IN9998",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 827,
+    "name": "Australia And New Zealand Banking Group Limited",
+    "bank_name": "Australia And New Zealand Banking Group Limited",
+    "code": "IN1150",
+    "bank_code": "IN1150",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 604,
+    "name": "Axis Bank Ltd",
+    "bank_name": "Axis Bank Ltd",
+    "code": "IN1006",
+    "bank_code": "IN1006",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{15}$\/"
+  }, {
+    "id": 1728,
+    "name": "Bandhan Bank Limited",
+    "bank_name": "Bandhan Bank Limited",
+    "code": "IN1218",
+    "bank_code": "IN1218",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 865,
+    "name": "Bank Internasional Indonesia",
+    "bank_name": "Bank Internasional Indonesia",
+    "code": "IN1189",
+    "bank_code": "IN1189",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 605,
+    "name": "Bank Of America",
+    "bank_name": "Bank Of America",
+    "code": "IN1007",
+    "bank_code": "IN1007",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 606,
+    "name": "Bank Of Bahrain And Kuwait",
+    "bank_name": "Bank Of Bahrain And Kuwait",
+    "code": "IN1008",
+    "bank_code": "IN1008",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 607,
+    "name": "Bank of Baroda",
+    "bank_name": "Bank of Baroda",
+    "code": "IN1009",
+    "bank_code": "IN1009",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{14}$\/"
+  }, {
+    "id": 608,
+    "name": "Bank Of Ceylon India",
+    "bank_name": "Bank Of Ceylon India",
+    "code": "IN1010",
+    "bank_code": "IN1010",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 609,
+    "name": "Bank Of India",
+    "bank_name": "Bank Of India",
+    "code": "IN1011",
+    "bank_code": "IN1011",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{15}$\/"
+  }, {
+    "id": 610,
+    "name": "Bank Of Maharashtra",
+    "bank_name": "Bank Of Maharashtra",
+    "code": "IN1012",
+    "bank_code": "IN1012",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{11}$\/"
+  }, {
+    "id": 612,
+    "name": "Bank Of Tokyo Mitsubishi Ufj Ltd",
+    "bank_name": "Bank Of Tokyo Mitsubishi Ufj Ltd",
+    "code": "IN1015",
+    "bank_code": "IN1015",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 613,
+    "name": "Barclays Bank Plc",
+    "bank_name": "Barclays Bank Plc",
+    "code": "IN1016",
+    "bank_code": "IN1016",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 614,
+    "name": "Bassein Catholic Co Op Bank Ltd",
+    "bank_name": "Bassein Catholic Co Op Bank Ltd",
+    "code": "IN1017",
+    "bank_code": "IN1017",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 844,
+    "name": "Bhingar Urban Co-Operative Bank Ltd",
+    "bank_name": "Bhingar Urban Co-Operative Bank Ltd",
+    "code": "IN1168",
+    "bank_code": "IN1168",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 616,
+    "name": "Bnp Paribas",
+    "bank_name": "Bnp Paribas",
+    "code": "IN1019",
+    "bank_code": "IN1019",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 617,
+    "name": "Canara Bank",
+    "bank_name": "Canara Bank",
+    "code": "IN1021",
+    "bank_code": "IN1021",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{13}$\/"
+  }, {
+    "id": 832,
+    "name": "Capital Local Area Bank Ltd",
+    "bank_name": "Capital Local Area Bank Ltd",
+    "code": "IN1155",
+    "bank_code": "IN1155",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 618,
+    "name": "Catholic Syrian Bank Ltd",
+    "bank_name": "Catholic Syrian Bank Ltd",
+    "code": "IN1022",
+    "bank_code": "IN1022",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{14,19}$\/"
+  }, {
+    "id": 619,
+    "name": "Central Bank Of India",
+    "bank_name": "Central Bank Of India",
+    "code": "IN1023",
+    "bank_code": "IN1023",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{10}$\/"
+  }, {
+    "id": 620,
+    "name": "Chinatrust Commercial Bank",
+    "bank_name": "Chinatrust Commercial Bank",
+    "code": "IN1024",
+    "bank_code": "IN1024",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 621,
+    "name": "Citi Bank",
+    "bank_name": "Citi Bank",
+    "code": "IN1025",
+    "bank_code": "IN1025",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{10}$\/"
+  }, {
+    "id": 622,
+    "name": "Citizencredit Co Operative Bank Ltd",
+    "bank_name": "Citizencredit Co Operative Bank Ltd",
+    "code": "IN1026",
+    "bank_code": "IN1026",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 623,
+    "name": "City Union Bank Ltd",
+    "bank_name": "City Union Bank Ltd",
+    "code": "IN1027",
+    "bank_code": "IN1027",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{13,15}$\/"
+  }, {
+    "id": 835,
+    "name": "Commonwealth Bank Of Australia",
+    "bank_name": "Commonwealth Bank Of Australia",
+    "code": "IN1158",
+    "bank_code": "IN1158",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 624,
+    "name": "Corporation Bank",
+    "bank_name": "Corporation Bank",
+    "code": "IN1028",
+    "bank_code": "IN1028",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{10,15}$\/"
+  }, {
+    "id": 698,
+    "name": "Credit Agricole Corp And Investment Bank",
+    "bank_name": "Credit Agricole Corp And Investment Bank",
+    "code": "IN1143",
+    "bank_code": "IN1143",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 833,
+    "name": "Credit Suisse Ag",
+    "bank_name": "Credit Suisse Ag",
+    "code": "IN1156",
+    "bank_code": "IN1156",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 626,
+    "name": "Dbs Bank Ltd",
+    "bank_name": "Dbs Bank Ltd",
+    "code": "IN1031",
+    "bank_code": "IN1031",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 825,
+    "name": "Dbs Bank Ltd Development Bank Of Singapore",
+    "bank_name": "Dbs Bank Ltd Development Bank Of Singapore",
+    "code": "IN1031",
+    "bank_code": "IN1031",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 627,
+    "name": "Dena Bank",
+    "bank_name": "Dena Bank",
+    "code": "IN1032",
+    "bank_code": "IN1032",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{12}$\/"
+  }, {
+    "id": 628,
+    "name": "Deutsche Bank India",
+    "bank_name": "Deutsche Bank India",
+    "code": "IN1034",
+    "bank_code": "IN1034",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{15}$\/"
+  }, {
+    "id": 629,
+    "name": "Development Credit Bank Ltd",
+    "bank_name": "Development Credit Bank Ltd",
+    "code": "IN1036",
+    "bank_code": "IN1036",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{14}$\/"
+  }, {
+    "id": 630,
+    "name": "Dhanlaxmi Bank Ltd",
+    "bank_name": "Dhanlaxmi Bank Ltd",
+    "code": "IN1037",
+    "bank_code": "IN1037",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 631,
+    "name": "Dicgc",
+    "bank_name": "Dicgc",
+    "code": "IN1038",
+    "bank_code": "IN1038",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 632,
+    "name": "Dombivli Nagari Sahakari Bank Ltd",
+    "bank_name": "Dombivli Nagari Sahakari Bank Ltd",
+    "code": "IN1039",
+    "bank_code": "IN1039",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 1735,
+    "name": "Equitas Small Finance Bank",
+    "bank_name": "Equitas Small Finance Bank",
+    "code": "IN1219",
+    "bank_code": "IN1219",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 633,
+    "name": "Federal Bank Ltd",
+    "bank_name": "Federal Bank Ltd",
+    "code": "IN1041",
+    "bank_code": "IN1041",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{14}$\/"
+  }, {
+    "id": 634,
+    "name": "Firstrand Bank Ltd",
+    "bank_name": "Firstrand Bank Ltd",
+    "code": "IN1042",
+    "bank_code": "IN1042",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 866,
+    "name": "Gopinath Patil Parsik Janata Sahakari Bank Ltd",
+    "bank_name": "Gopinath Patil Parsik Janata Sahakari Bank Ltd",
+    "code": "IN1190",
+    "bank_code": "IN1190",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 836,
+    "name": "Gurgaon Gramin Bank",
+    "bank_name": "Gurgaon Gramin Bank",
+    "code": "IN1160",
+    "bank_code": "IN1160",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 635,
+    "name": "Hdfc Bank Ltd",
+    "bank_name": "Hdfc Bank Ltd",
+    "code": "IN1043",
+    "bank_code": "IN1043",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{14}$\/"
+  }, {
+    "id": 680,
+    "name": "Hsbc",
+    "bank_name": "Hsbc",
+    "code": "IN1119",
+    "bank_code": "IN1119",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 636,
+    "name": "Icici Bank Ltd",
+    "bank_name": "Icici Bank Ltd",
+    "code": "IN1045",
+    "bank_code": "IN1045",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{12,15}$\/"
+  }, {
+    "id": 637,
+    "name": "Idbi Bank  LTD",
+    "bank_name": "Idbi Bank  LTD",
+    "code": "IN1047",
+    "bank_code": "IN1047",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{9,16}$\/"
+  }, {
+    "id": 1248,
+    "name": "IDFC Bank",
+    "bank_name": "IDFC Bank",
+    "code": "IN9998",
+    "bank_code": "IN9998",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 638,
+    "name": "Indian Bank",
+    "bank_name": "Indian Bank",
+    "code": "IN1050",
+    "bank_code": "IN1050",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{9,10}$\/"
+  }, {
+    "id": 639,
+    "name": "Indian Overseas Bank",
+    "bank_name": "Indian Overseas Bank",
+    "code": "IN1051",
+    "bank_code": "IN1051",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{15}$\/"
+  }, {
+    "id": 640,
+    "name": "Indusind Bank Ltd",
+    "bank_name": "Indusind Bank Ltd",
+    "code": "IN1052",
+    "bank_code": "IN1052",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-A-Za-z]{12,13}$\/"
+  }, {
+    "id": 867,
+    "name": "Industrial And Commercial Bank Of China Limited",
+    "bank_name": "Industrial And Commercial Bank Of China Limited",
+    "code": "IN1191",
+    "bank_code": "IN1191",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 641,
+    "name": "Ing Vysya Bank Ltd",
+    "bank_name": "Ing Vysya Bank Ltd",
+    "code": "IN1054",
+    "bank_code": "IN1054",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{12}$\/"
+  }, {
+    "id": 840,
+    "name": "Jalgaon Janata Sahkari Bank Ltd",
+    "bank_name": "Jalgaon Janata Sahkari Bank Ltd",
+    "code": "IN1164",
+    "bank_code": "IN1164",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 643,
+    "name": "Janakalyan Sahakari Bank Ltd",
+    "bank_name": "Janakalyan Sahakari Bank Ltd",
+    "code": "IN1056",
+    "bank_code": "IN1056",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 868,
+    "name": "Janaseva Sahakari Bank (Borivli) Ltd",
+    "bank_name": "Janaseva Sahakari Bank (Borivli) Ltd",
+    "code": "IN1192",
+    "bank_code": "IN1192",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 839,
+    "name": "Janaseva Sahakari Bank Ltd. Pune",
+    "bank_name": "Janaseva Sahakari Bank Ltd. Pune",
+    "code": "IN1163",
+    "bank_code": "IN1163",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 699,
+    "name": "Janata Sahakari Bank Ltd Pune",
+    "bank_name": "Janata Sahakari Bank Ltd Pune",
+    "code": "IN1144",
+    "bank_code": "IN1144",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 644,
+    "name": "Jp Morgan Chase Bank",
+    "bank_name": "Jp Morgan Chase Bank",
+    "code": "IN1057",
+    "bank_code": "IN1057",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 842,
+    "name": "Kallappanna Awade Ich Janata S Bank",
+    "bank_name": "Kallappanna Awade Ich Janata S Bank",
+    "code": "IN1166",
+    "bank_code": "IN1166",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 869,
+    "name": "Kangra Central Co-Op Bank Ltd",
+    "bank_name": "Kangra Central Co-Op Bank Ltd",
+    "code": "IN1193",
+    "bank_code": "IN1193",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 683,
+    "name": "Kapol Co Op Bank",
+    "bank_name": "Kapol Co Op Bank",
+    "code": "IN1123",
+    "bank_code": "IN1123",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 645,
+    "name": "Karnataka Bank Ltd",
+    "bank_name": "Karnataka Bank Ltd",
+    "code": "IN1061",
+    "bank_code": "IN1061",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{16}$\/"
+  }, {
+    "id": 845,
+    "name": "Karnataka Vikas Grameena Bank",
+    "bank_name": "Karnataka Vikas Grameena Bank",
+    "code": "IN1169",
+    "bank_code": "IN1169",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 647,
+    "name": "Karur Vysya Bank",
+    "bank_name": "Karur Vysya Bank",
+    "code": "IN1063",
+    "bank_code": "IN1063",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{16}$\/"
+  }, {
+    "id": 1119,
+    "name": "Kerala Gramin Bank",
+    "bank_name": "Kerala Gramin Bank",
+    "code": "IN9999",
+    "bank_code": "IN9999",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{10,16}$\/"
+  }, {
+    "id": 648,
+    "name": "Kotak Mahindra Bank",
+    "bank_name": "Kotak Mahindra Bank",
+    "code": "IN1064",
+    "bank_code": "IN1064",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{10,14}$\/"
+  }, {
+    "id": 870,
+    "name": "Kurmanchal Nagar Sahkari Bank Ltd",
+    "bank_name": "Kurmanchal Nagar Sahkari Bank Ltd",
+    "code": "IN1194",
+    "bank_code": "IN1194",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 685,
+    "name": "Mahanagar Co Op Bank Ltd",
+    "bank_name": "Mahanagar Co Op Bank Ltd",
+    "code": "IN1126",
+    "bank_code": "IN1126",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 650,
+    "name": "Maharashtra State Co Operative Bank",
+    "bank_name": "Maharashtra State Co Operative Bank",
+    "code": "IN1070",
+    "bank_code": "IN1070",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 651,
+    "name": "Mashreq Bank Psc",
+    "bank_name": "Mashreq Bank Psc",
+    "code": "IN1071",
+    "bank_code": "IN1071",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 652,
+    "name": "Mizuho Corporate Bank Ltd",
+    "bank_name": "Mizuho Corporate Bank Ltd",
+    "code": "IN1072",
+    "bank_code": "IN1072",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 846,
+    "name": "Mumbai District Central Co-Op. Bank Ltd",
+    "bank_name": "Mumbai District Central Co-Op. Bank Ltd",
+    "code": "IN1170",
+    "bank_code": "IN1170",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 848,
+    "name": "Nagpur Nagrik Sahakari Bank Ltd",
+    "bank_name": "Nagpur Nagrik Sahakari Bank Ltd",
+    "code": "IN1172",
+    "bank_code": "IN1172",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 871,
+    "name": "National Australia Bank",
+    "bank_name": "National Australia Bank",
+    "code": "IN1195",
+    "bank_code": "IN1195",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 653,
+    "name": "New India Co Operative Bank Ltd",
+    "bank_name": "New India Co Operative Bank Ltd",
+    "code": "IN1073",
+    "bank_code": "IN1073",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 654,
+    "name": "Nkgsb Co Op Bank Ltd",
+    "bank_name": "Nkgsb Co Op Bank Ltd",
+    "code": "IN1074",
+    "bank_code": "IN1074",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 849,
+    "name": "North Malabar Gramin Bank",
+    "bank_name": "North Malabar Gramin Bank",
+    "code": "IN1173",
+    "bank_code": "IN1173",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 655,
+    "name": "Nutan Nagarik Sahakari Bank Ltd",
+    "bank_name": "Nutan Nagarik Sahakari Bank Ltd",
+    "code": "IN1076",
+    "bank_code": "IN1076",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 656,
+    "name": "Oman International Bank",
+    "bank_name": "Oman International Bank",
+    "code": "IN1077",
+    "bank_code": "IN1077",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 657,
+    "name": "Oriental Bank Of Commerce",
+    "bank_name": "Oriental Bank Of Commerce",
+    "code": "IN1078",
+    "bank_code": "IN1078",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{14}$\/"
+  }, {
+    "id": 658,
+    "name": "Parsik Janata Sahakari Bank Ltd",
+    "bank_name": "Parsik Janata Sahakari Bank Ltd",
+    "code": "IN1079",
+    "bank_code": "IN1079",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 851,
+    "name": "Prathama Bank",
+    "bank_name": "Prathama Bank",
+    "code": "IN1175",
+    "bank_code": "IN1175",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 850,
+    "name": "Prime Co Operative Bank Ltd",
+    "bank_name": "Prime Co Operative Bank Ltd",
+    "code": "IN1174",
+    "bank_code": "IN1174",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 659,
+    "name": "Punjab And Maharashtra Co Op Bank Ltd",
+    "bank_name": "Punjab And Maharashtra Co Op Bank Ltd",
+    "code": "IN1081",
+    "bank_code": "IN1081",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 660,
+    "name": "Punjab And Sind Bank",
+    "bank_name": "Punjab And Sind Bank",
+    "code": "IN1082",
+    "bank_code": "IN1082",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{14}$\/"
+  }, {
+    "id": 661,
+    "name": "Punjab National Bank",
+    "bank_name": "Punjab National Bank",
+    "code": "IN1083",
+    "bank_code": "IN1083",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{14,16}$\/"
+  }, {
+    "id": 852,
+    "name": "Rabobank International",
+    "bank_name": "Rabobank International",
+    "code": "IN1176",
+    "bank_code": "IN1176",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 872,
+    "name": "Rajgurunagar Sahakari Bank Ltd",
+    "bank_name": "Rajgurunagar Sahakari Bank Ltd",
+    "code": "IN1196",
+    "bank_code": "IN1196",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 662,
+    "name": "Rajkot Nagarik Sahakari Bank Ltd",
+    "bank_name": "Rajkot Nagarik Sahakari Bank Ltd",
+    "code": "IN1084",
+    "bank_code": "IN1084",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 873,
+    "name": "Ratnakar Bank Limited",
+    "bank_name": "Ratnakar Bank Limited",
+    "code": "IN1197",
+    "bank_code": "IN1197",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 663,
+    "name": "Reserve Bank Of India",
+    "bank_name": "Reserve Bank Of India",
+    "code": "IN1086",
+    "bank_code": "IN1086",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 854,
+    "name": "Sberbank",
+    "bank_name": "Sberbank",
+    "code": "IN1178",
+    "bank_code": "IN1178",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 665,
+    "name": "Shinhan Bank",
+    "bank_name": "Shinhan Bank",
+    "code": "IN1091",
+    "bank_code": "IN1091",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 834,
+    "name": "Shri Chhatrapati Rajarshi Shahu Urban Co-Op Bank Ltd",
+    "bank_name": "Shri Chhatrapati Rajarshi Shahu Urban Co-Op Bank Ltd",
+    "code": "IN1157",
+    "bank_code": "IN1157",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 666,
+    "name": "Societe Generale",
+    "bank_name": "Societe Generale",
+    "code": "IN1092",
+    "bank_code": "IN1092",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 874,
+    "name": "Solapur Janata Sahkari Bank Ltdsolapur",
+    "bank_name": "Solapur Janata Sahkari Bank Ltdsolapur",
+    "code": "IN1198",
+    "bank_code": "IN1198",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 667,
+    "name": "South Indian Bank",
+    "bank_name": "South Indian Bank",
+    "code": "IN1093",
+    "bank_code": "IN1093",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{16}$\/"
+  }, {
+    "id": 668,
+    "name": "Standard Chartered Bank",
+    "bank_name": "Standard Chartered Bank",
+    "code": "IN1095",
+    "bank_code": "IN1095",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{11}$\/"
+  }, {
+    "id": 669,
+    "name": "State Bank Of India",
+    "bank_name": "State Bank Of India",
+    "code": "IN1098",
+    "bank_code": "IN1098",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{11}$\/"
+  }, {
+    "id": 670,
+    "name": "State Bank Of Mauritius Ltd",
+    "bank_name": "State Bank Of Mauritius Ltd",
+    "code": "IN1100",
+    "bank_code": "IN1100",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{11}$\/"
+  }, {
+    "id": 875,
+    "name": "Sumitomo Mitsui Banking Corporation",
+    "bank_name": "Sumitomo Mitsui Banking Corporation",
+    "code": "IN1199",
+    "bank_code": "IN1199",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 675,
+    "name": "Syndicate Bank",
+    "bank_name": "Syndicate Bank",
+    "code": "IN1105",
+    "bank_code": "IN1105",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{14}$\/"
+  }, {
+    "id": 676,
+    "name": "Tamilnad Mercantile Bank Ltd",
+    "bank_name": "Tamilnad Mercantile Bank Ltd",
+    "code": "IN1106",
+    "bank_code": "IN1106",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{15}$\/"
+  }, {
+    "id": 857,
+    "name": "Thane Bharat Sahakari Bank Ltd",
+    "bank_name": "Thane Bharat Sahakari Bank Ltd",
+    "code": "IN1181",
+    "bank_code": "IN1181",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 678,
+    "name": "The Ahmedabad Mercantile Co Operative Bank Ltd",
+    "bank_name": "The Ahmedabad Mercantile Co Operative Bank Ltd",
+    "code": "IN1110",
+    "bank_code": "IN1110",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 828,
+    "name": "The Andhra Pradesh State Coop Bank Ltd",
+    "bank_name": "The Andhra Pradesh State Coop Bank Ltd",
+    "code": "IN1151",
+    "bank_code": "IN1151",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 701,
+    "name": "The Ap Mahesh Co Op Urban Bank Ltd",
+    "bank_name": "The Ap Mahesh Co Op Urban Bank Ltd",
+    "code": "IN1146",
+    "bank_code": "IN1146",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 611,
+    "name": "The Bank Of Nova Scotia",
+    "bank_name": "The Bank Of Nova Scotia",
+    "code": "IN1013",
+    "bank_code": "IN1013",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 615,
+    "name": "The Bharat Co Operative Bank Mumbai Ltd",
+    "bank_name": "The Bharat Co Operative Bank Mumbai Ltd",
+    "code": "IN1018",
+    "bank_code": "IN1018",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 625,
+    "name": "The Cosmos Co Operative Bank Ltd",
+    "bank_name": "The Cosmos Co Operative Bank Ltd",
+    "code": "IN1029",
+    "bank_code": "IN1029",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 876,
+    "name": "The Delhi State Cooperative Bank Ltd",
+    "bank_name": "The Delhi State Cooperative Bank Ltd",
+    "code": "IN1200",
+    "bank_code": "IN1200",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 877,
+    "name": "The Gadchiroli District Central Cooperative Bank Ltd",
+    "bank_name": "The Gadchiroli District Central Cooperative Bank Ltd",
+    "code": "IN1201",
+    "bank_code": "IN1201",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 679,
+    "name": "The Greater Bombay Co Op Bank Ltd",
+    "bank_name": "The Greater Bombay Co Op Bank Ltd",
+    "code": "IN1118",
+    "bank_code": "IN1118",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 837,
+    "name": "The Gujarat State Co-Operative Bank Ltd",
+    "bank_name": "The Gujarat State Co-Operative Bank Ltd",
+    "code": "IN1161",
+    "bank_code": "IN1161",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 878,
+    "name": "The Jalgaon Peoples Co-Op Bank",
+    "bank_name": "The Jalgaon Peoples Co-Op Bank",
+    "code": "IN1202",
+    "bank_code": "IN1202",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 642,
+    "name": "The Jammu And Kashmir Bank Ltd",
+    "bank_name": "The Jammu And Kashmir Bank Ltd",
+    "code": "IN1055",
+    "bank_code": "IN1055",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{16}$\/"
+  }, {
+    "id": 681,
+    "name": "The Kalupur Commercial Co Op Bank Ltd",
+    "bank_name": "The Kalupur Commercial Co Op Bank Ltd",
+    "code": "IN1121",
+    "bank_code": "IN1121",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 682,
+    "name": "The Kalyan Janata Sahakari Bank Ltd",
+    "bank_name": "The Kalyan Janata Sahakari Bank Ltd",
+    "code": "IN1122",
+    "bank_code": "IN1122",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 841,
+    "name": "The Kangra Central Co-Op Bank Limited",
+    "bank_name": "The Kangra Central Co-Op Bank Limited",
+    "code": "IN1165",
+    "bank_code": "IN1165",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 843,
+    "name": "The Kangra Cooperative Bank Ltd",
+    "bank_name": "The Kangra Cooperative Bank Ltd",
+    "code": "IN1167",
+    "bank_code": "IN1167",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 684,
+    "name": "The Karad Urban Co Op Bank Ltd",
+    "bank_name": "The Karad Urban Co Op Bank Ltd",
+    "code": "IN1124",
+    "bank_code": "IN1124",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 646,
+    "name": "The Karnataka State Co Operative Apex Bank Ltd Bangalore",
+    "bank_name": "The Karnataka State Co Operative Apex Bank Ltd Bangalore",
+    "code": "IN1062",
+    "bank_code": "IN1062",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 649,
+    "name": "The Lakshmi Vilas Bank Ltd",
+    "bank_name": "The Lakshmi Vilas Bank Ltd",
+    "code": "IN1067",
+    "bank_code": "IN1067",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 686,
+    "name": "The Mehsana Urban Cooperative Bank Ltd",
+    "bank_name": "The Mehsana Urban Cooperative Bank Ltd",
+    "code": "IN1128",
+    "bank_code": "IN1128",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 847,
+    "name": "The Municipal Co Operative Bank Ltd Mumbai",
+    "bank_name": "The Municipal Co Operative Bank Ltd Mumbai",
+    "code": "IN1171",
+    "bank_code": "IN1171",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 687,
+    "name": "The Nainital Bank Ltd",
+    "bank_name": "The Nainital Bank Ltd",
+    "code": "IN1129",
+    "bank_code": "IN1129",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 702,
+    "name": "The Nasik Merchants Co Op Bank Ltd Nashik",
+    "bank_name": "The Nasik Merchants Co Op Bank Ltd Nashik",
+    "code": "IN1147",
+    "bank_code": "IN1147",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 853,
+    "name": "The Rajasthan State Cooperative Bank Ltd.",
+    "bank_name": "The Rajasthan State Cooperative Bank Ltd.",
+    "code": "IN1177",
+    "bank_code": "IN1177",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 688,
+    "name": "The Ratnakar Bank Ltd",
+    "bank_name": "The Ratnakar Bank Ltd",
+    "code": "IN1130",
+    "bank_code": "IN1130",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 703,
+    "name": "The Royal Bank Of Scotland Nv",
+    "bank_name": "The Royal Bank Of Scotland Nv",
+    "code": "IN1148",
+    "bank_code": "IN1148",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 879,
+    "name": "The Sahebrao Deshmukh Co-Op Bank Ltd",
+    "bank_name": "The Sahebrao Deshmukh Co-Op Bank Ltd",
+    "code": "IN1203",
+    "bank_code": "IN1203",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 664,
+    "name": "The Saraswat Co Operative Bank Ltd",
+    "bank_name": "The Saraswat Co Operative Bank Ltd",
+    "code": "IN1087",
+    "bank_code": "IN1087",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 880,
+    "name": "The Seva Vikas Co-Operative Bank Ltd (Svb)",
+    "bank_name": "The Seva Vikas Co-Operative Bank Ltd (Svb)",
+    "code": "IN1204",
+    "bank_code": "IN1204",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 689,
+    "name": "The Shamrao Vithal Co Operative Bank Ltd",
+    "bank_name": "The Shamrao Vithal Co Operative Bank Ltd",
+    "code": "IN1132",
+    "bank_code": "IN1132",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 855,
+    "name": "The Surat District Co Operative Bank Ltd",
+    "bank_name": "The Surat District Co Operative Bank Ltd",
+    "code": "IN1179",
+    "bank_code": "IN1179",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 690,
+    "name": "The Surat Peoples Co Op Bank Ltd",
+    "bank_name": "The Surat Peoples Co Op Bank Ltd",
+    "code": "IN1133",
+    "bank_code": "IN1133",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 856,
+    "name": "The Sutex Co Op Bank Ltd",
+    "bank_name": "The Sutex Co Op Bank Ltd",
+    "code": "IN1180",
+    "bank_code": "IN1180",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 677,
+    "name": "The Tamilnadu State Apex Cooperative Bank Ltd",
+    "bank_name": "The Tamilnadu State Apex Cooperative Bank Ltd",
+    "code": "IN1107",
+    "bank_code": "IN1107",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 881,
+    "name": "The Thane District Central Co-Op Bank Ltd",
+    "bank_name": "The Thane District Central Co-Op Bank Ltd",
+    "code": "IN1205",
+    "bank_code": "IN1205",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 691,
+    "name": "The Thane Janata Sahakari Bank Ltd",
+    "bank_name": "The Thane Janata Sahakari Bank Ltd",
+    "code": "IN1135",
+    "bank_code": "IN1135",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 860,
+    "name": "The Varachha Co Op Bank Ltd",
+    "bank_name": "The Varachha Co Op Bank Ltd",
+    "code": "IN1184",
+    "bank_code": "IN1184",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 861,
+    "name": "The Vishweshwar Sahakari Bank Ltd Pune",
+    "bank_name": "The Vishweshwar Sahakari Bank Ltd Pune",
+    "code": "IN1185",
+    "bank_code": "IN1185",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 692,
+    "name": "The West Bengal State Cooperative Bank Ltd",
+    "bank_name": "The West Bengal State Cooperative Bank Ltd",
+    "code": "IN1136",
+    "bank_code": "IN1136",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 859,
+    "name": "Tjsb Sahakari Bank Ltd",
+    "bank_name": "Tjsb Sahakari Bank Ltd",
+    "code": "IN1183",
+    "bank_code": "IN1183",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 858,
+    "name": "Tumkur Grain Merchants Cooperative Bank Ltd",
+    "bank_name": "Tumkur Grain Merchants Cooperative Bank Ltd",
+    "code": "IN1182",
+    "bank_code": "IN1182",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 704,
+    "name": "Ubs Ag",
+    "bank_name": "Ubs Ag",
+    "code": "IN1149",
+    "bank_code": "IN1149",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 693,
+    "name": "Uco Bank",
+    "bank_name": "Uco Bank",
+    "code": "IN1137",
+    "bank_code": "IN1137",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{14}$\/"
+  }, {
+    "id": 694,
+    "name": "Union Bank Of India",
+    "bank_name": "Union Bank Of India",
+    "code": "IN1138",
+    "bank_code": "IN1138",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{15}$\/"
+  }, {
+    "id": 695,
+    "name": "United Bank Of India",
+    "bank_name": "United Bank Of India",
+    "code": "IN1139",
+    "bank_code": "IN1139",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{13}$\/"
+  }, {
+    "id": 882,
+    "name": "United Overseas Bank",
+    "bank_name": "United Overseas Bank",
+    "code": "IN1206",
+    "bank_code": "IN1206",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 862,
+    "name": "Vasai Vikas Sahakari Bank Ltd",
+    "bank_name": "Vasai Vikas Sahakari Bank Ltd",
+    "code": "IN1186",
+    "bank_code": "IN1186",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 696,
+    "name": "Vijaya Bank",
+    "bank_name": "Vijaya Bank",
+    "code": "IN1141",
+    "bank_code": "IN1141",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{15}$\/"
+  }, {
+    "id": 883,
+    "name": "West Bengal State Cooperative Bank",
+    "bank_name": "West Bengal State Cooperative Bank",
+    "code": "IN1207",
+    "bank_code": "IN1207",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 863,
+    "name": "Westpac Banking Corporation",
+    "bank_name": "Westpac Banking Corporation",
+    "code": "IN1187",
+    "bank_code": "IN1187",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 838,
+    "name": "Woori Bank",
+    "bank_name": "Woori Bank",
+    "code": "IN1162",
+    "bank_code": "IN1162",
+    "input_mask": "################",
+    "validation_string": null
+  }, {
+    "id": 697,
+    "name": "Yes Bank Ltd",
+    "bank_name": "Yes Bank Ltd",
+    "code": "IN1142",
+    "bank_code": "IN1142",
+    "input_mask": "################",
+    "validation_string": "\/^[0-9-]{15}$\/"
+  }, {
+    "id": 884,
+    "name": "Zila Sahkari Bank Ltd Ghaziabad",
+    "bank_name": "Zila Sahkari Bank Ltd Ghaziabad",
+    "code": "IN1208",
+    "bank_code": "IN1208",
+    "input_mask": "################",
+    "validation_string": null
+  }]
+}
