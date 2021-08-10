@@ -6,7 +6,7 @@
 //
 
 import Vapor
-//import SwiftyJSON
+import SwiftyJSON
 
 public final class StubsMiddleware: Middleware {
     
@@ -24,12 +24,12 @@ public final class StubsMiddleware: Middleware {
     let path = request.url.path.dropFirst().replacingOccurrences(of: "/", with: ".")
     let query = request.url.query
     
-//    if let postPath = try? getPOSTResponsePath(for: request, path: path, method: method, query: query) {
-//      log(request: request, message: postPath)
-//      let res = request.fileio.streamFile(at: postPath)
-//      return request.eventLoop.makeSucceededFuture(res)
-//    }
-//    else {
+    if let postPath = try? getPOSTResponsePath(for: request, path: path, method: method, query: query) {
+      log(request: request, message: postPath)
+      let res = request.fileio.streamFile(at: postPath)
+      return request.eventLoop.makeSucceededFuture(res)
+    }
+    else {
       let straightfilePath = URL(fileURLWithPath: stubsDirectory)
         .appendingPathComponent("\(path).\(method).json", isDirectory: false).path
       
@@ -51,15 +51,15 @@ public final class StubsMiddleware: Middleware {
           return next.respond(to: request)
         }
       }
-//    }
+    }
   }
   
   func getPOSTResponsePath(for request: Request, path: String, method: HTTPMethod, query: String?) throws -> String {
-    let json = request.content.decode(JSON.self)
-    guard let attributesDict = response.data?.attributes else { throw Abort(.noContent) }
-
-    let attributesData = try JSONSerialization.data(withJSONObject: attributesDict)
-    let base64Attributes = attributesData.base64EncodedString()
+    let json = try request.content.decode(JSON.self)
+    guard let base64Attributes = try? json["data"]["attributes"].rawData().base64EncodedString() else {
+      throw Abort(.noContent)
+    }
+    log(request: request, message: base64Attributes)
 
     let straightfilePath = URL(fileURLWithPath: stubsDirectory)
       .appendingPathComponent("\(path).\(base64Attributes).\(method).json", isDirectory: false).path
@@ -82,15 +82,3 @@ public final class StubsMiddleware: Middleware {
     request.logger.log(level: level, log)
   }
 }
-
-//struct BackendResponse: Codable {
-//  var data: Attributes?
-//
-//  init(data: Attributes) {
-//    self.data = data
-//  }
-//}
-//
-//struct Attributes: Codable {
-//  var attributes: [String: Any]?
-//}
