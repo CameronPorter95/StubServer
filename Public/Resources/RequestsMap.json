@@ -1,0 +1,16 @@
+{
+  "requests": {
+    "INR": ",,,,,,1:::::::::INR_____aaaaaaaabbbcccccccddeeeeeeeeeeeeeffffhiiiiiiiiikmmmnnnnnnnoooooooppppprrrrrrrrrrrrsssssstttttttttttttttuuuuuvvyyyy{{{{}}}}",
+    "THB": ",,,,,,1:::::::::BHT_____aaaaaaaabbbcccccccddeeeeeeeeeeeeeffffhiiiiiiiiikmmmnnnnnnnoooooooppppprrrrrrrrrrrrsssssstttttttttttttttuuuuuvvyyyy{{{{}}}}",
+    "LKR": ",,,,,,1:::::::::KLR_____aaaaaaaabbbcccccccddeeeeeeeeeeeeeffffhiiiiiiiiikmmmnnnnnnnoooooooppppprrrrrrrrrrrrsssssstttttttttttttttuuuuuvvyyyy{{{{}}}}",
+    "LKR.REFRESH": ",,,,,,1124::::::::::KLR______aaaaaaaaabbbbcccccccdddeeeeeeeeeeeeeffffhiiiiiiiiiikkmmmnnnnnnnnoooooooppppprrrrrrrrrrrrsssssstttttttttttttttuuuuuvvyyyy{{{{}}}}",
+    "USD": ",,,,,,1:::::::::DSU_____aaaaaaaabbbcccccccddeeeeeeeeeeeeeffffhiiiiiiiiikmmmnnnnnnnoooooooppppprrrrrrrrrrrrsssssstttttttttttttttuuuuuvvyyyy{{{{}}}}",
+    "AUD": ",,,,,,1:::::::::ADU_____aaaaaaaabbbcccccccddeeeeeeeeeeeeeffffhiiiiiiiiikmmmnnnnnnnoooooooppppprrrrrrrrrrrrsssssstttttttttttttttuuuuuvvyyyy{{{{}}}}",
+    "SGD": ",,,,,,1:::::::::DGS_____aaaaaaaabbbcccccccddeeeeeeeeeeeeeffffhiiiiiiiiikmmmnnnnnnnoooooooppppprrrrrrrrrrrrsssssstttttttttttttttuuuuuvvyyyy{{{{}}}}",
+    "AUD.USD": ",,,,,,,.011469::::::::::ADDSUU______aaaaaaaaaabbccccccccccddeeeeeeeeeeeeefffiiiiiiikmmmmnnnnnnnnnnooooooooopppppprrrrrrrrrrrrsssssttttttttttttttuuuuuuuvvyyyyyy{{{}}}",
+    "SOF.EMPTY": ",,,,,,,.012469::::::::::ADDSUU________aaaaaaaaaabbccccccccccdddeeeeeeeeeeeefffffiiiiikmmmmnnnnnnnnnnoooooooooooppppprrrrrrrrrrrrsssssstttttttttttttuuuuuuuuuvvyyyyyy{{{}}}",
+    "PROFILE": ",,,,,1::::::::___aaaaaabbbcddeeeeeeeeeeffffffhiiiiiiiillmmmnnnoooooopprrrrrrrrrsssssssssssttttttttttuuuvvy{{{{}}}}",
+    "PROFILE.REFRESH": ",,,,,1:::::::::____aaaaaabbbcccdddeeeeeeeeeeeffffffhiiiiiiiikllmmmnnnnoooooooopprrrrrrrrrrssssssssssstttttttttttuuuuuvvyy{{{{}}}}",
+    "ESTIMATE.AUD.USD": ",,,,.000001233667:::::::ADDSUU____aaaaaabcccccddddeeeeeeeeeiiimmmnnnnnooopprrrrrrssssssttttttttttuuuuuuyyyy{{{}}}"
+  }
+}

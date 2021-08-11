@@ -6,17 +6,18 @@
 //
 
 import Vapor
-import SwiftyJSON
 
 public final class StubsMiddleware: Middleware {
     
-  /// The public directory.
+  /// The stubs directory.
   /// - note: Must end with a slash.
   private let stubsDirectory: String
+  private let resourcesDirectory: String
 
   /// Creates a new `FileMiddleware`.
   public init(publicDirectory: String) {
     self.stubsDirectory = (publicDirectory.hasSuffix("/") ? publicDirectory : publicDirectory + "/").appending("Stubs/")
+    self.resourcesDirectory = (publicDirectory.hasSuffix("/") ? publicDirectory : publicDirectory + "/").appending("Resources/")
   }
 
   public func respond(to request: Request, chainingTo next: Responder) -> EventLoopFuture<Response> {
@@ -24,7 +25,8 @@ public final class StubsMiddleware: Middleware {
     let path = request.url.path.dropFirst().replacingOccurrences(of: "/", with: ".")
     let query = request.url.query
     
-    if let postPath = try? getPOSTResponsePath(for: request, path: path, method: method, query: query) {
+    if request.method == .POST,
+    let postPath = try? getPOSTResponsePath(for: request, path: path, method: method, query: query) {
       log(request: request, message: postPath)
       let res = request.fileio.streamFile(at: postPath)
       return request.eventLoop.makeSucceededFuture(res)
@@ -54,18 +56,28 @@ public final class StubsMiddleware: Middleware {
     }
   }
   
-  func getPOSTResponsePath(for request: Request, path: String, method: HTTPMethod, query: String?) throws -> String {
-    let json = try request.content.decode(JSON.self)
-    guard let base64Attributes = try? json["data"]["attributes"].rawData().base64EncodedString() else {
-      throw Abort(.noContent)
+  private func getPOSTResponsePath(for request: Request, path: String, method: HTTPMethod, query: String?) throws -> String {
+    guard let sortedString = request.body.string?.lazy.filter({ !$0.isWhitespace && $0 != "\"" }).sorted().map({ $0.description }).joined() else {
+      throw Abort(.notFound)
     }
-    log(request: request, message: base64Attributes)
+    log(request: request, message: sortedString)
 
+    let requestsMapPath = URL(fileURLWithPath: resourcesDirectory).appendingPathComponent("RequestsMap.json", isDirectory: false)
+    let requestsMapData = try Data(contentsOf: requestsMapPath)
+    let requestsMap: RequestsMap = try JSONDecoder().decode(RequestsMap.self, from: requestsMapData)
+    
+    guard let postIdentifier = requestsMap.requests.first(where: {
+      $0.value == sortedString
+    }) else {
+      throw Abort(.notFound)
+    }
+    log(request: request, message: postIdentifier.key)
+    
     let straightfilePath = URL(fileURLWithPath: stubsDirectory)
-      .appendingPathComponent("\(path).\(base64Attributes).\(method).json", isDirectory: false).path
+      .appendingPathComponent("\(path).\(postIdentifier.key).\(method).json", isDirectory: false).path
 
     let queryfilePath = URL(fileURLWithPath: stubsDirectory)
-      .appendingPathComponent("\(path)?\(query ?? "").\(base64Attributes).\(method).json", isDirectory: false).path
+      .appendingPathComponent("\(path)?\(query ?? "").\(postIdentifier.key).\(method).json", isDirectory: false).path
     log(request: request, message: straightfilePath)
     var isDir: ObjCBool = false
     if FileManager.default.fileExists(atPath: queryfilePath, isDirectory: &isDir) {
@@ -81,4 +93,8 @@ public final class StubsMiddleware: Middleware {
     let log = Logger.Message.init(stringLiteral: message)
     request.logger.log(level: level, log)
   }
+}
+
+struct RequestsMap: Decodable {
+  var requests: [String: String]
 }

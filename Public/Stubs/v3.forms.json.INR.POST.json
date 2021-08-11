@@ -1,7 +1,7 @@
 {
   "data": {
     "type": "forms",
-    "id": "5e288d52-3b9f-4659-8566-db773d4058ac",
+    "id": "dd6adeea-ff51-41be-aabb-0e6c009dca1f",
     "attributes": {
       "JSONSchema": {
         "type": "object",
@@ -24,7 +24,7 @@
           },
           "account_name": {
             "type": "contact",
-            "title": "Account Name",
+            "title": "Full name of account holder",
             "lookupPath": "$.name",
             "keyboard": "text",
             "validation": {
@@ -43,6 +43,20 @@
             },
             "isEnabled": "false"
           },
+          "account_number_header": {
+            "type": "header",
+            "title": "Please note that charity recipients are not supported and transfers will not be processed to charities."
+          },
+          "account_number": {
+            "type": "string",
+            "title": "Account Number",
+            "lookupPath": "$.details.account_number",
+            "keyboard": "numberPad",
+            "validation": {
+              "^\\d{9,18}$": null
+            },
+            "isEnabled": "false"
+          },
           "bank": {
             "type": "remote",
             "title": "Bank",
@@ -50,31 +64,40 @@
             "keyboard": "text",
             "refreshAttribute": "bank_id",
             "isEnabled": "false",
-            "url": "references\/banks.json?country_code=lk",
+            "url": "references\/banks.json?country_code=in",
             "valuePath": "$.data[*].id",
             "namePath": "$.data[*].bank_name"
           },
-          "branch": {
-            "type": "dummy",
-            "title": "Branch",
-            "placeholder": "Select bank first"
+          "ifsc_header": {
+            "type": "header",
+            "title": "Your recipient's banks IFSC code"
           },
-          "account_number": {
+          "ifsc": {
             "type": "string",
-            "title": "Account Number",
-            "lookupPath": "$.details.account_number",
+            "title": "IFSC",
+            "lookupPath": "$.details.branch_code",
+            "actionButtonText": "Lookup IFSC",
+            "actionButtonLink": "https:\/\/www.ifsccodebank.com\/",
             "keyboard": "text",
+            "validation": {
+              "^[A-Z0-9]{11}$": null
+            },
             "isEnabled": "false"
+          },
+          "account_name_header": {
+            "type": "header",
+            "title": "Please enter your recipient's full name as registered on their bank account.",
+            "subTitle": "Any missing or incorrect names could cause delays to your transfer"
           }
         },
-        "required": ["reason", "account_name", "bank", "branch", "account_number"],
-        "order": ["account_name", "account_number", "bank", "branch", "reason", "nickname", "email_address"],
+        "required": ["reason", "account_name", "account_number", "bank", "ifsc"],
+        "order": ["account_name_header", "account_name", "account_number_header", "account_number", "bank", "ifsc_header", "ifsc", "reason", "nickname", "email_address"],
         "schema": "http:\/\/json-schema.org\/draft-07\/schema#",
         "id": "http:\/\/example.com\/root.json"
       }
     },
     "links": {
-      "self": "http:\/\/form-service\/forms\/5e288d52-3b9f-4659-8566-db773d4058ac"
+      "self": "http:\/\/form-service\/forms\/dd6adeea-ff51-41be-aabb-0e6c009dca1f"
     }
   }
 }

@@ -64,7 +64,10 @@
     },
     "bank_line_type": null,
     "payment_supplement": [],
-    "progress": [],
+    "progress": [{
+      "action": "created",
+      "created": "2020-03-03 04:39:11"
+    }],
     "deposit_account": {
       "account_name": "OrbitRemit",
       "account_number": "02-0108-0476705-00"

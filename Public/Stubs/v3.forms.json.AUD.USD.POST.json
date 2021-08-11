@@ -1,7 +1,7 @@
 {
   "data": {
     "type": "forms",
-    "id": "63ef91ce-f864-4f5a-8a70-75f0301a6030",
+    "id": "34760f1c-b30c-41ea-9320-cf7d27375582",
     "attributes": {
       "JSONSchema": {
         "type": "object",
@@ -143,7 +143,7 @@
       }
     },
     "links": {
-      "self": "http:\/\/form-service\/forms\/63ef91ce-f864-4f5a-8a70-75f0301a6030"
+      "self": "http:\/\/form-service\/forms\/34760f1c-b30c-41ea-9320-cf7d27375582"
     }
   }
 }

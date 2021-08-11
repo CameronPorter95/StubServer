@@ -1,0 +1,20 @@
+{
+  "data": {
+    "type": "forms",
+    "id": "a151b1ea-1c5d-4268-9324-c80ef71c9fa5",
+    "attributes": {
+      "JSONSchema": {
+        "type": "object",
+        "title": "source_of_funds",
+        "properties": [],
+        "required": [],
+        "order": [],
+        "schema": "http:\/\/json-schema.org\/draft-07\/schema#",
+        "id": "http:\/\/example.com\/root.json"
+      }
+    },
+    "links": {
+      "self": "http:\/\/form-service\/forms\/a151b1ea-1c5d-4268-9324-c80ef71c9fa5"
+    }
+  }
+}

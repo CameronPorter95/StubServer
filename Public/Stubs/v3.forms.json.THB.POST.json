@@ -1,7 +1,7 @@
 {
   "data": {
     "type": "forms",
-    "id": "5b4320a2-d519-4859-9974-8f939b393023",
+    "id": "bc7a5302-d272-41c1-a307-e8fc46560f84",
     "attributes": {
       "JSONSchema": {
         "type": "object",
@@ -48,6 +48,7 @@
             "title": "Bank",
             "lookupPath": "$.details.bank_id",
             "keyboard": "text",
+            "refreshAttribute": "bank_id",
             "isEnabled": "false",
             "url": "references\/banks.json?country_code=th",
             "valuePath": "$.data[*].id",
@@ -68,7 +69,7 @@
       }
     },
     "links": {
-      "self": "http:\/\/form-service\/forms\/5b4320a2-d519-4859-9974-8f939b393023"
+      "self": "http:\/\/form-service\/forms\/bc7a5302-d272-41c1-a307-e8fc46560f84"
     }
   }
 }

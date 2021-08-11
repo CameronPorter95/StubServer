@@ -1,7 +1,7 @@
 {
   "data": {
     "type": "forms",
-    "id": "d4409ea7-3d7c-4c41-a414-deac957c1065",
+    "id": "e9e928dc-e32e-4fac-ba6a-2dc6740a50f8",
     "attributes": {
       "JSONSchema": {
         "type": "object",
@@ -12,14 +12,14 @@
             "title": "Nickname (Optional)",
             "lookupPath": "$.nickname",
             "keyboard": "text",
-            "isEnabled": "true"
+            "isEnabled": "false"
           },
           "reason": {
             "type": "array",
             "title": "Transfer Purpose",
             "lookupPath": "$.reason",
             "keyboard": "text",
-            "isEnabled": "true",
+            "isEnabled": "false",
             "values": ["I'm supporting family or friends", "I'm sending money to myself", "I'm purchasing goods or services", "I'm making a property payment"]
           },
           "account_name": {
@@ -30,7 +30,7 @@
             "validation": {
               "^(.+)$": null
             },
-            "isEnabled": "true",
+            "isEnabled": "false",
             "filter": "full_name"
           },
           "email_address": {
@@ -41,7 +41,7 @@
             "validation": {
               "[A-Z0-9a-z._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,64}": null
             },
-            "isEnabled": "true"
+            "isEnabled": "false"
           },
           "aba_number": {
             "type": "string",
@@ -52,7 +52,7 @@
             "validation": {
               "^\\d{9}$": null
             },
-            "isEnabled": "true"
+            "isEnabled": "false"
           },
           "account_number": {
             "type": "string",
@@ -62,7 +62,7 @@
             "validation": {
               "^[A-Z0-9]{1,17}$": null
             },
-            "isEnabled": "true"
+            "isEnabled": "false"
           },
           "address_header": {
             "type": "header",
@@ -78,28 +78,28 @@
                 "title": "Street No. and Name",
                 "lookupPath": "$.details.address1",
                 "keyboard": "text",
-                "isEnabled": "true"
+                "isEnabled": "false"
               },
               "suburb": {
                 "type": "string",
                 "title": "Suburb",
                 "lookupPath": "$.details.address2",
                 "keyboard": "text",
-                "isEnabled": "true"
+                "isEnabled": "false"
               },
               "city": {
                 "type": "string",
                 "title": "City",
                 "lookupPath": "$.details.city",
                 "keyboard": "text",
-                "isEnabled": "true"
+                "isEnabled": "false"
               },
               "state": {
                 "type": "string",
                 "title": "State\/Region",
                 "lookupPath": "$.details.address3",
                 "keyboard": "text",
-                "isEnabled": "true"
+                "isEnabled": "false"
               },
               "postcode": {
                 "type": "string",
@@ -109,25 +109,25 @@
                 "validation": {
                   "^\\d{5}(?:[-\\s]\\d{4})?$": null
                 },
-                "isEnabled": "true"
+                "isEnabled": "false"
               },
               "country": {
                 "type": "remote",
                 "title": "Country",
                 "lookupPath": "$.details.country",
                 "keyboard": "text",
-                "isEnabled": "true",
+                "isEnabled": "false",
                 "url": "references\/countries.json",
                 "valuePath": "$.data[*].name",
                 "namePath": "$.data[*].name"
               }
             },
-            "required": ["street_no_name", "suburb", "city", "state", "postcode", "country"],
+            "required": ["street_no_name", "suburb", "city", "postcode", "country"],
             "order": ["street_no_name", "suburb", "city", "state", "postcode", "country"],
             "lookupPath": "$.details.address",
             "actionButtonText": "Enter it Manually",
             "keyboard": "text",
-            "isEnabled": "true",
+            "isEnabled": "false",
             "url": "v3\/address\/google-places?filter[country]=us",
             "valuePath": "$.data[*].id",
             "namePath": "$.data[*].attributes.description",
@@ -143,7 +143,7 @@
       }
     },
     "links": {
-      "self": "http:\/\/form-service\/forms\/d4409ea7-3d7c-4c41-a414-deac957c1065"
+      "self": "http:\/\/form-service\/forms\/e9e928dc-e32e-4fac-ba6a-2dc6740a50f8"
     }
   }
 }
