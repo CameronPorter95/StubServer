@@ -62,7 +62,6 @@
             "title": "Bank",
             "lookupPath": "$.details.bank_id",
             "keyboard": "text",
-            "refreshAttribute": "bank_id",
             "isEnabled": "false",
             "url": "references\/banks.json?country_code=in",
             "valuePath": "$.data[*].id",

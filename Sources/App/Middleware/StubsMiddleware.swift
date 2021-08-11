@@ -60,7 +60,6 @@ public final class StubsMiddleware: Middleware {
     guard let sortedString = request.body.string?.lazy.filter({ !$0.isWhitespace && $0 != "\"" }).sorted().map({ $0.description }).joined() else {
       throw Abort(.notFound)
     }
-    log(request: request, message: sortedString)
 
     let requestsMapPath = URL(fileURLWithPath: resourcesDirectory).appendingPathComponent("RequestsMap.json", isDirectory: false)
     let requestsMapData = try Data(contentsOf: requestsMapPath)
@@ -71,21 +70,20 @@ public final class StubsMiddleware: Middleware {
     }) else {
       throw Abort(.notFound)
     }
-    log(request: request, message: postIdentifier.key)
     
     let straightfilePath = URL(fileURLWithPath: stubsDirectory)
       .appendingPathComponent("\(path).\(postIdentifier.key).\(method).json", isDirectory: false).path
 
     let queryfilePath = URL(fileURLWithPath: stubsDirectory)
       .appendingPathComponent("\(path)?\(query ?? "").\(postIdentifier.key).\(method).json", isDirectory: false).path
-    log(request: request, message: straightfilePath)
+    
     var isDir: ObjCBool = false
     if FileManager.default.fileExists(atPath: queryfilePath, isDirectory: &isDir) {
       return queryfilePath
     } else if FileManager.default.fileExists(atPath: straightfilePath, isDirectory: &isDir) {
       return straightfilePath
     }
-
+    
     throw Abort(.notFound)
   }
   
