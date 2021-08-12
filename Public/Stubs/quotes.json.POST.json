@@ -12,7 +12,8 @@
       "estimate_id": "029aff44-eec8-4694-9fb6-3738483d3020",
       "expires_at": "2050-08-09 04:11:37",
       "customer_id": "363762",
-      "created_at": "2021-08-09 04:02:22"
+      "created_at": "2021-08-09 04:02:22",
+      "x-quote-token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6Im9ybjprZXk6dHJhbnNmZXItcXVvdGUtc2VydmljZSJ9.eyJqdGkiOiJkNmM0MDM4My01MDJlLTQ3YzYtYWNjNi0xOGI5NDM3NmEwZTkiLCJzdWIiOiJvcm46c2VydmljZTp0cmFuc2Zlci1xdW90ZTpxdW90ZXNcLzU0NDciLCJleHAiOjE2Mjg3Mzg1NTQsImRhdGEiOnsic2VuZF9jdXJyZW5jeSI6Ik5aRCIsInBheW91dF9jdXJyZW5jeSI6IlBIUCIsInNlbmRfYW1vdW50IjoiMTAwMC4wMCIsImJhc2VfY3VycmVuY3kiOiJOWkQiLCJwYXlvdXRfYW1vdW50IjoiMzIxMDIuNDAiLCJyYXRlIjoiMzIuMTAyNDAiLCJlc3RpbWF0ZV9pZCI6ImMxY2IxOTlkLTdiZjMtNDQ0NC1iY2FlLWRmZmI0MDBhNDM5ZCIsImN1c3RvbWVyX2lkIjoiMzQ2NTgxIn19.JkX9LoMhRREkBmCG0cxrDU4U69u3HiLJdCIu21VD6qc"
     }
   }
 }

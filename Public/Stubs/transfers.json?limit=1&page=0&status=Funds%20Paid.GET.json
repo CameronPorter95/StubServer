@@ -1,0 +1,31 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": [{
+    "id": "4126036",
+    "payment_number": "4213718",
+    "send_currency": "AUD",
+    "payout_currency": "INR",
+    "send_amount": "5.00",
+    "payout_amount": "242.68",
+    "fee_amount": "0.00",
+    "status": "Funds Paid",
+    "created": "2020-03-03 04:37:53",
+    "exchange_rate": "48.53580",
+    "generated": "0",
+    "recipient": {
+      "uuid": "5e5ddb89-3750-41c5-aaf7-00140a1000f3",
+      "name": "Vivaan",
+      "type": "Bank Deposit"
+    }
+  }],
+  "pagination": {
+    "total": 1,
+    "per_page": 1,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 1,
+    "current_displayed": 1
+  }
+}

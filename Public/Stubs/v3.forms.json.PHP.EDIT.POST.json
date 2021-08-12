@@ -1,0 +1,190 @@
+{
+  "data": {
+    "type": "forms",
+    "id": "50433c25-0be0-4eaa-8ac1-3f69dd28ac77",
+    "attributes": {
+      "JSONSchema": {
+        "type": "object",
+        "title": "recipients",
+        "properties": {
+          "reason": {
+            "type": "array",
+            "title": "Transfer Purpose",
+            "lookupPath": "$.reason",
+            "keyboard": "text",
+            "isEnabled": "false",
+            "values": [
+              "I'm supporting family or friends",
+              "I'm sending money to myself",
+              "I'm purchasing goods or services",
+              "I'm making a property payment"
+            ]
+          },
+          "first_name_header": {
+            "type": "header",
+            "title": "Please enter your recipient's full name as seen on their identity document.",
+            "subTitle": "Any missing or incorrect names could cause delays to your transfer"
+          },
+          "first_name": {
+            "type": "contact",
+            "title": "First Name",
+            "lookupPath": "$.details.first_name",
+            "keyboard": "text",
+            "isEnabled": "false",
+            "filter": "first_name"
+          },
+          "middle_name": {
+            "type": "contact",
+            "title": "Middle Name",
+            "lookupPath": "$.details.middle_name",
+            "keyboard": "text",
+            "isEnabled": "false",
+            "filter": "first_name"
+          },
+          "last_name": {
+            "type": "contact",
+            "title": "Last Name",
+            "lookupPath": "$.details.last_name",
+            "keyboard": "text",
+            "isEnabled": "false",
+            "filter": "last_name"
+          },
+          "nickname": {
+            "type": "string",
+            "title": "Nickname (Optional)",
+            "lookupPath": "$.nickname",
+            "keyboard": "text",
+            "isEnabled": "false"
+          },
+          "email_address": {
+            "type": "string",
+            "title": "Email Address (Optional)",
+            "lookupPath": "$.details.email_address",
+            "keyboard": "emailAddress",
+            "validation": {
+              "[A-Z0-9a-z._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,64}": null
+            },
+            "isEnabled": "false"
+          },
+          "contact_phone": {
+            "type": "string",
+            "title": "Phone Number",
+            "lookupPath": "$.details.contact_phone",
+            "keyboard": "phonePad",
+            "validation": {
+              "^[+]?(?!\\s{6})[0-9\\s]{6,}$": null
+            },
+            "initialValue": "+63",
+            "isEnabled": "false"
+          },
+          "recipient_address_header": {
+            "type": "header",
+            "title": "Recipient's Residential Address",
+            "subTitle": "(Not the bank address)"
+          },
+          "address": {
+            "type": "address",
+            "title": "Address",
+            "properties": {
+              "street_no_name": {
+                "type": "string",
+                "title": "Street No. and Name",
+                "lookupPath": "$.details.address1",
+                "keyboard": "text",
+                "isEnabled": "false"
+              },
+              "suburb": {
+                "type": "string",
+                "title": "Suburb",
+                "lookupPath": "$.details.address2",
+                "keyboard": "text",
+                "isEnabled": "false"
+              },
+              "city": {
+                "type": "string",
+                "title": "City",
+                "lookupPath": "$.details.city",
+                "keyboard": "text",
+                "isEnabled": "false"
+              },
+              "state": {
+                "type": "string",
+                "title": "State/Region",
+                "lookupPath": "$.details.address3",
+                "keyboard": "text",
+                "isEnabled": "false"
+              },
+              "postcode": {
+                "type": "string",
+                "title": "Postcode",
+                "lookupPath": "$.details.postcode",
+                "keyboard": "text",
+                "isEnabled": "false"
+              },
+              "country": {
+                "type": "remote",
+                "title": "Country",
+                "lookupPath": "$.details.country",
+                "keyboard": "text",
+                "isEnabled": "false",
+                "url": "references/countries.json",
+                "valuePath": "$.data[*].name",
+                "namePath": "$.data[*].name"
+              }
+            },
+            "required": [
+              "street_no_name",
+              "suburb",
+              "city",
+              "state",
+              "postcode",
+              "country"
+            ],
+            "order": [
+              "street_no_name",
+              "suburb",
+              "city",
+              "state",
+              "postcode",
+              "country"
+            ],
+            "lookupPath": "$.details.address",
+            "actionButtonText": "Enter it Manually",
+            "keyboard": "text",
+            "isEnabled": "false",
+            "url": "v3/address/google-places?filter[country]=ph",
+            "valuePath": "$.data[*].id",
+            "namePath": "$.data[*].attributes.description",
+            "searchParameter": "search",
+            "filter": "ph",
+            "provider": "google-places"
+          }
+        },
+        "required": [
+          "reason",
+          "first_name",
+          "last_name",
+          "contact_phone",
+          "address"
+        ],
+        "order": [
+          "first_name_header",
+          "first_name",
+          "middle_name",
+          "last_name",
+          "contact_phone",
+          "reason",
+          "nickname",
+          "email_address",
+          "recipient_address_header",
+          "address"
+        ],
+        "schema": "http://json-schema.org/draft-07/schema#",
+        "id": "http://example.com/root.json"
+      }
+    },
+    "links": {
+      "self": "http://form-service/forms/50433c25-0be0-4eaa-8ac1-3f69dd28ac77"
+    }
+  }
+}

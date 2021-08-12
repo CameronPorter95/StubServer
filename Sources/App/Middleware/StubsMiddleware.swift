@@ -22,7 +22,7 @@ public final class StubsMiddleware: Middleware {
 
   public func respond(to request: Request, chainingTo next: Responder) -> EventLoopFuture<Response> {
     let method = request.method
-    let path = request.url.path.dropFirst().replacingOccurrences(of: "/", with: ".")
+    let path = request.url.path.dropFirst().replacingOccurrences(of: "/", with: ".").replacingOccurrences(of: ":", with: ".")
     let query = request.url.query
     
     if request.method == .POST,
