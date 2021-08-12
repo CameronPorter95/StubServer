@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": {
+    "id": "5e5ddb00-86ac-483d-ade2-00140a1000f3",
+    "type": "bank_account",
+    "name": "Mary Potter",
+    "country_code": "us",
+    "country": {
+      "name": "United States",
+      "country_code": "us",
+      "currency_code": "USD"
+    },
+    "reason": "Im supporting family or friends",
+    "details": {
+      "account_number": "757340467",
+      "account_type": "personal",
+      "routing_number": "122105155",
+      "address1": "16 Thompson ave",
+      "address2": "Collingwood",
+      "address3": "California",
+      "city": "Los Angeles",
+      "postcode": "99501",
+      "country": "United States",
+      "email_address": "mary.potter@gmail.com"
+    }
+  }
+}

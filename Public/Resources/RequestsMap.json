@@ -1,0 +1,26 @@
+{
+  "requests": {
+    "INR": ",,,,,,1:::::::::INR_____aaaaaaaabbbcccccccddeeeeeeeeeeeeeffffhiiiiiiiiikmmmnnnnnnnoooooooppppprrrrrrrrrrrrsssssstttttttttttttttuuuuuvvyyyy{{{{}}}}",
+    "THB": ",,,,,,1:::::::::BHT_____aaaaaaaabbbcccccccddeeeeeeeeeeeeeffffhiiiiiiiiikmmmnnnnnnnoooooooppppprrrrrrrrrrrrsssssstttttttttttttttuuuuuvvyyyy{{{{}}}}",
+    "LKR": ",,,,,,1:::::::::KLR_____aaaaaaaabbbcccccccddeeeeeeeeeeeeeffffhiiiiiiiiikmmmnnnnnnnoooooooppppprrrrrrrrrrrrsssssstttttttttttttttuuuuuvvyyyy{{{{}}}}",
+    "LKR.REFRESH": ",,,,,,1124::::::::::KLR______aaaaaaaaabbbbcccccccdddeeeeeeeeeeeeeffffhiiiiiiiiiikkmmmnnnnnnnnoooooooppppprrrrrrrrrrrrsssssstttttttttttttttuuuuuvvyyyy{{{{}}}}",
+    "USD": ",,,,,,1:::::::::DSU_____aaaaaaaabbbcccccccddeeeeeeeeeeeeeffffhiiiiiiiiikmmmnnnnnnnoooooooppppprrrrrrrrrrrrsssssstttttttttttttttuuuuuvvyyyy{{{{}}}}",
+    "AUD": ",,,,,,1:::::::::ADU_____aaaaaaaabbbcccccccddeeeeeeeeeeeeeffffhiiiiiiiiikmmmnnnnnnnoooooooppppprrrrrrrrrrrrsssssstttttttttttttttuuuuuvvyyyy{{{{}}}}",
+    "SGD": ",,,,,,1:::::::::DGS_____aaaaaaaabbbcccccccddeeeeeeeeeeeeeffffhiiiiiiiiikmmmnnnnnnnoooooooppppprrrrrrrrrrrrsssssstttttttttttttttuuuuuvvyyyy{{{{}}}}",
+    "PHP.EDIT": ",,,,,,,,.011156:::::::::::DHNPPZ______aaaaaaaabbcccccccdddeeeeeeeeeeeeeeeeffffhiiiiiiiiimmmmnnnnnnnnnoooooooooppppppprrrrrrrrrrrrrrrssssssssttttttttttttttttuuuuuuuvvyyyyyy{{{{}}}}",
+    "USD.EDIT": ",,,,,,,,.011156:::::::::::DDNSUZ_______aaaaaaaaaabbbcccccccccdddeeeeeeeeeeeeeeeffffhiiiiiiiiikmmmmnnnnnnnnnnooooooooopppppprrrrrrrrrrrrrrssssssstttttttttttttttttuuuuuuuuvvyyyyyy{{{{}}}}",
+    "AUD.USD": ",,,,,,,.011469::::::::::ADDSUU______aaaaaaaaaabbccccccccccddeeeeeeeeeeeeefffiiiiiiikmmmmnnnnnnnnnnooooooooopppppprrrrrrrrrrrrsssssttttttttttttttuuuuuuuvvyyyyyy{{{}}}",
+    "SOF": ",,,,,,,.00000122234::::::::::DHNPPZ_______aaaaaaaabccccccccdddeeeeeeeeeeeeefffffiiiiimmmmnnnnnnnnnooooooooooopppppprrrrrrrrrrrrrsssssssttttttttttttuuuuuuuuvvyyyyyy{{{}}}",
+    "SOF.HIGHVALUE": ",,,,,,,.000011122478::::::::::DHNPPZ________aaaaaaaaaabbccccccccccdddeeeeeeeeeeeefffffiiiiikmmmmnnnnnnnnnnoooooooooooppppprrrrrrrrrrrrsssssstttttttttttttuuuuuuuuuvvyyyyyy{{{}}}",
+    "SOF.EMPTY": ",,,,,,,.011122478::::::::::DHNPPZ________aaaaaaaaaabbccccccccccdddeeeeeeeeeeeefffffiiiiikmmmmnnnnnnnnnnoooooooooooppppprrrrrrrrrrrrsssssstttttttttttttuuuuuuuuuvvyyyyyy{{{}}}",
+    "SOF.EMPTY.AUD.USD": ",,,,,,,.012469::::::::::ADDSUU________aaaaaaaaaabbccccccccccdddeeeeeeeeeeeefffffiiiiikmmmmnnnnnnnnnnoooooooooooppppprrrrrrrrrrrrsssssstttttttttttttuuuuuuuuuvvyyyyyy{{{}}}",
+    "PROFILE": ",,,,,1::::::::___aaaaaabbbcddeeeeeeeeeeffffffhiiiiiiiillmmmnnnoooooopprrrrrrrrrsssssssssssttttttttttuuuvvy{{{{}}}}",
+    "PROFILE.REFRESH": ",,,,,1:::::::::____aaaaaabbbcccdddeeeeeeeeeeeffffffhiiiiiiiillmmmnnnnnoooooooopprrrrrrrrrrssssssssssstttttttttttuuuuvvyyz{{{{}}}}",
+    "PROFILE.FORCECREATE": ",,,,,,1:::::::::DHNPPZ____aaaaaaabbccccccddeeeeeeeeeeefffffiiiiiillmmmnnnnnnoooooooppprrrrrrrrrrrssssssssssttttttttuuuuuvvyyyy{{{}}}",
+    "PROFILE.FORCECREATE.REFRESH": ",,,,,,,1:::::::::::DHNPPZ______aaaaaaaabbbccccccccdddeeeeeeeeeeeeeeeffffffhiiiiiiillmmmnnnnnnnnoooooooooppprrrrrrrrrrrrrrrssssssssssssttttttttttttuuuuuuuvvyyyyyz{{{{}}}}",
+    "PROFILE.FORCECREATE.AUD.USD": ",,,,,,1:::::::::ADDSUU____aaaaaaabbccccccddeeeeeeeeeeefffffiiiiiillmmmnnnnnnoooooooppprrrrrrrrrrrssssssssssttttttttuuuuuvvyyyy{{{}}}",
+    "PROFILE.FORCECREATE.REFRESH.AUD.USD": ",,,,,,,1:::::::::::ADDSUU______aaaaaaaabbbccccccccdddeeeeeeeeeeeeeeeffffffhiiiiiiillmmmnnnnnnnnoooooooooppprrrrrrrrrrrrrrrssssssssssssttttttttttttuuuuuuuvvyyyyyz{{{{}}}}",
+    "ESTIMATE.HIGHVALUE": ",,,,.000000001233667:::::::DHNPPZ____aaaaaabcccccddddeeeeeeeeeiiimmmnnnnnooopprrrrrrssssssttttttttttuuuuuuyyyy{{{}}}",
+    "ESTIMATE.AUD.USD": ",,,,.000001233667:::::::ADDSUU____aaaaaabcccccddddeeeeeeeeeiiimmmnnnnnooopprrrrrrssssssttttttttttuuuuuuyyyy{{{}}}"
+  }
+}

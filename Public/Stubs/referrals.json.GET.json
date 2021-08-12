@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": {
+    "payout_limit": 3,
+    "referral_link": "https:\/\/orbitremit.com\/r\/YASS3L",
+    "total_referrals": 0,
+    "current_referrals": 0,
+    "payout_amount": "150",
+    "symbol": "$",
+    "country_name": "New Zealand",
+    "currency_code": "NZD",
+    "money_earned": "",
+    "payment_count": 0,
+    "referred_emails": {
+      "zefitecyv@mailinator.net": {
+        "is_customer": true
+      },
+      "afjknalhladshjleahj@mailinator.com": {
+        "sent_at": "2029-01-19T04:15:00+00:00",
+        "reminder_sent": false
+      },
+      "jahghafgh@mailinator.com": {
+        "sent_at": null,
+        "reminder_sent": false
+      },
+      "huwetyho@mailinator.net": {
+        "sent_at": "2029-01-19T04:15:00+00:00",
+        "reminder_sent": true
+      },
+      "mypeduw@mailinator.net": {
+        "sent_at": "2029-01-19T04:15:00+00:00",
+        "reminder_sent": true
+      },
+      "dabivot@mailinator.com": {
+        "sent_at": "2029-01-19T04:15:00+00:00",
+        "reminder_sent": true
+      },
+      "cameronporter95+3@gmail.com": {
+        "sent_at": null,
+        "reminder_sent": false
+      }
+    },
+    "converted_referrals": {
+      "paul.kinzett@orbitremit.co.nz": {
+        "complete": false
+      },
+      "angela@orbitremit.co.uk": {
+        "complete": false
+      },
+      "Palak.shah.nz@gmail.com": {
+        "complete": true
+      }
+    }
+  }
+}

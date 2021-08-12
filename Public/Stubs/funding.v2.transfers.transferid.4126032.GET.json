@@ -1,0 +1,41 @@
+{
+  "data": {
+    "type": "transfers",
+    "id": "411",
+    "attributes": {
+      "tranferId": 4126032,
+      "createdAt": "2021-07-30T00:30:07.000000Z"
+    },
+    "relationships": {
+      "methods": {
+        "data": [{
+          "type": "methods",
+          "id": "1"
+        }, {
+          "type": "methods",
+          "id": "2"
+        }],
+        "links": {
+          "self": "\/transfers\/411\/relationships\/methods",
+          "related": "\/transfers\/411\/methods"
+        }
+      }
+    },
+    "links": {
+      "self": "\/transfers\/411"
+    }
+  },
+  "included": [{
+    "type": "methods",
+    "id": "1",
+    "attributes": {
+      "methodName": "bank_deposit"
+    }
+  }, {
+    "type": "methods",
+    "id": "2",
+    "attributes": {
+      "methodName": "poli"
+    }
+  }]
+}

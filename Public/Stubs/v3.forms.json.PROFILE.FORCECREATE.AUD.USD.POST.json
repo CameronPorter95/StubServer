@@ -1,0 +1,155 @@
+{
+  "data": {
+    "type": "forms",
+    "id": "d88bd39c-a6f9-4cc3-92cd-7cdc7b9c021f",
+    "attributes": {
+      "JSONSchema": {
+        "type": "object",
+        "title": "profiles",
+        "properties": {
+          "first_name": {
+            "type": "string",
+            "title": "First Name",
+            "lookupPath": "$.first_name",
+            "keyboard": "text",
+            "isEnabled": "true"
+          },
+          "last_name": {
+            "type": "string",
+            "title": "Last Name",
+            "lookupPath": "$.last_name",
+            "keyboard": "text",
+            "isEnabled": "true"
+          },
+          "email_address": {
+            "type": "string",
+            "title": "Email Address",
+            "lookupPath": "$.email_address",
+            "keyboard": "emailAddress",
+            "validation": {
+              "[A-Z0-9a-z._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,64}": null
+            },
+            "isEnabled": "false"
+          },
+          "mobile_phone": {
+            "type": "string",
+            "title": "Mobile Phone",
+            "lookupPath": "$.contact_phone",
+            "keyboard": "phonePad",
+            "isEnabled": "true"
+          },
+          "date_of_birth": {
+            "type": "date",
+            "title": "Date of Birth",
+            "lookupPath": "$.date_of_birth",
+            "keyboard": "numberPad",
+            "isEnabled": "true",
+            "dateType": "dayMonthYear"
+          },
+          "occupation": {
+            "type": "string",
+            "title": "Occupation",
+            "lookupPath": "$.occupation",
+            "keyboard": "text",
+            "isEnabled": "true"
+          },
+          "country": {
+            "type": "map",
+            "title": "Country",
+            "lookupPath": "$.country_code",
+            "keyboard": "text",
+            "refreshAttribute": "country_code",
+            "isEnabled": "true",
+            "mapValues": {
+              "au": "Australia",
+              "nz": "New Zealand",
+              "uk": "United Kingdom"
+            }
+          },
+          "address": {
+            "type": "dummy",
+            "title": "Residential Address",
+            "properties": {
+              "street_number": {
+                "type": "string",
+                "title": "Street Number",
+                "lookupPath": "$.house_number",
+                "keyboard": "text",
+                "isEnabled": "true"
+              },
+              "street_name": {
+                "type": "string",
+                "title": "Street Name",
+                "lookupPath": "$.street_name",
+                "keyboard": "text",
+                "isEnabled": "true"
+              },
+              "suburb": {
+                "type": "string",
+                "title": "Suburb",
+                "lookupPath": "$.suburb",
+                "keyboard": "text",
+                "isEnabled": "true"
+              },
+              "city": {
+                "type": "string",
+                "title": "City",
+                "lookupPath": "$.city",
+                "keyboard": "text",
+                "isEnabled": "true"
+              },
+              "state": {
+                "type": "string",
+                "title": "State\/Region",
+                "lookupPath": "$.state",
+                "keyboard": "text",
+                "isEnabled": "true"
+              },
+              "postcode": {
+                "type": "string",
+                "title": "Postcode",
+                "lookupPath": "$.postcode",
+                "keyboard": "text",
+                "isEnabled": "true"
+              }
+            },
+            "required": ["street_number", "street_name", "suburb", "city", "postcode"],
+            "order": ["street_number", "street_name", "suburb", "city", "state", "postcode"],
+            "placeholder": "Select country first"
+          },
+          "is_business": {
+            "type": "toggle",
+            "title": "Send as Business?",
+            "properties": {
+              "legal_name": {
+                "type": "string",
+                "title": "Legal Name",
+                "lookupPath": "$.legal_name",
+                "keyboard": "text",
+                "isEnabled": "true"
+              },
+              "company_number": {
+                "type": "string",
+                "title": "Company Number",
+                "lookupPath": "$.company_number",
+                "keyboard": "text",
+                "isEnabled": "true"
+              }
+            },
+            "required": ["legal_name", "company_number"],
+            "order": ["legal_name", "company_number"],
+            "lookupPath": "$.register_company",
+            "isEnabled": "true"
+          }
+        },
+        "required": ["first_name", "last_name", "email_address", "mobile_phone", "date_of_birth", "occupation", "country", "address", "is_business"],
+        "order": ["first_name", "last_name", "email_address", "mobile_phone", "occupation", "date_of_birth", "country", "address", "is_business"],
+        "schema": "http:\/\/json-schema.org\/draft-07\/schema#",
+        "id": "http:\/\/example.com\/root.json"
+      }
+    },
+    "links": {
+      "self": "http:\/\/form-service\/forms\/d88bd39c-a6f9-4cc3-92cd-7cdc7b9c021f"
+    }
+  }
+}

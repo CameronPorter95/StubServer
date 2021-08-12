@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": [{
+    "id": 8841,
+    "uuid": "7b2ab4b2-2249-11e8-9919-005056884bb2",
+    "code": "002",
+    "branch_code": "002",
+    "name": "Lake View",
+    "branch_name": "Lake View"
+  }, {
+    "id": 8840,
+    "uuid": "7b2ab0d9-2249-11e8-9919-005056884bb2",
+    "code": "001",
+    "branch_code": "001",
+    "name": "Main Branch",
+    "branch_name": "Main Branch"
+  }]
+}

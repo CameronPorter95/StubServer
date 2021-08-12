@@ -1,0 +1,8 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": {
+    "android": "5.4.1",
+    "iOS": "4.7.0"
+  }
+}

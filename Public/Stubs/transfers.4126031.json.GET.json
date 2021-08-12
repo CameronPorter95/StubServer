@@ -1,0 +1,81 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": {
+    "id": "4126031",
+    "payment_number": "4213713",
+    "exchange_rate": "0.89630",
+    "send_currency": "NZD",
+    "payout_currency": "SGD",
+    "send_amount": "1000.00",
+    "payout_amount": "896.30",
+    "total_amount": "1004.00",
+    "fee_amount": "4.00",
+    "status": "Awaiting Payment",
+    "created": "2020-03-03 04:27:08",
+    "reason": "Im making a property payment",
+    "type": null,
+    "customer": {
+      "id": "27",
+      "name": "Cameron Porter",
+      "first_name": "Cameron",
+      "last_name": "Porter",
+      "number": "85850986",
+      "email": "cameron.porter2@orbitremit.com",
+      "date_of_birth": "1978-10-30",
+      "contact_phone": "+643482647",
+      "address1": "5 Poop",
+      "address2": null,
+      "address3": null,
+      "city": "poop",
+      "postcode": "poop",
+      "country": "New Zealand"
+    },
+    "recipient": {
+      "id": "253901",
+      "uuid": "5e5dd9b6-4444-4b92-98cf-00120a1000f3",
+      "type": "bank_account",
+      "name": "Stan Markson",
+      "country_code": "sg",
+      "country_name": "Singapore",
+      "details": {
+        "account_number": "894516231",
+        "branch_code": "702",
+        "bank_code": "SG002",
+        "bank_name": "Bangkok Bank Public Company Ltd",
+        "phone_number": "+65274645137"
+      },
+      "display_details": {
+        "bank": "Bangkok Bank Public Company Ltd",
+        "account_number": "894516231"
+      },
+      "extra_details": {
+        "address1": "",
+        "address2": null,
+        "address3": null,
+        "city": "",
+        "postcode": null,
+        "email_address": "stan.markson@gmail.com",
+        "first_name": null,
+        "last_name": null,
+        "company_type": null,
+        "company_activity": null
+      }
+    },
+    "bank_line_type": null,
+    "payment_supplement": [],
+    "progress": [{
+      "action": "created",
+      "created": "2020-03-03 04:39:11"
+    }],
+    "deposit_account": {
+      "account_name": "OrbitRemit",
+      "account_number": "02-0108-0476705-00"
+    },
+    "status_display": {
+      "description": "",
+      "action_text": "",
+      "header_text": ""
+    }
+  }
+}

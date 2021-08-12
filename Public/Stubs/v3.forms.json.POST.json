@@ -1,0 +1,81 @@
+{
+  "data": {
+    "type": "forms",
+    "id": "43abcd43-753d-42dd-a62f-b047ba29dca1",
+    "attributes": {
+      "JSONSchema": {
+        "type": "object",
+        "title": "recipients",
+        "properties": {
+          "reason": {
+            "type": "array",
+            "title": "Transfer Purpose",
+            "lookupPath": "$.reason",
+            "keyboard": "text",
+            "isEnabled": "true",
+            "values": ["I'm supporting family or friends", "I'm making a property payment"]
+          },
+          "nickname": {
+            "type": "string",
+            "title": "Nickname (Optional)",
+            "lookupPath": "$.nickname",
+            "keyboard": "text",
+            "isEnabled": "true"
+          },
+          "account_name": {
+            "type": "contact",
+            "title": "Account Name",
+            "lookupPath": "$.name",
+            "keyboard": "text",
+            "validation": {
+              "^(.+)$": null
+            },
+            "isEnabled": "true",
+            "filter": "full_name"
+          },
+          "email_address": {
+            "type": "string",
+            "title": "Email Address (Optional)",
+            "lookupPath": "$.details.email_address",
+            "keyboard": "emailAddress",
+            "validation": {
+              "[A-Z0-9a-z._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,64}": null
+            },
+            "isEnabled": "true"
+          },
+          "bank": {
+            "type": "remote",
+            "title": "Bank",
+            "lookupPath": "$.details.bank_id",
+            "keyboard": "text",
+            "isEnabled": "true",
+            "url": "references\/banks.json?country_code=ph",
+            "valuePath": "$.data[*].id",
+            "namePath": "$.data[*].bank_name"
+          },
+          "account_number": {
+            "type": "string",
+            "title": "Account Number",
+            "lookupPath": "$.details.account_number",
+            "keyboard": "numberPad",
+            "validation": {
+              "^[0-9]+$": null
+            },
+            "isEnabled": "true"
+          },
+          "account_number_header": {
+            "type": "header",
+            "title": "Please note that transfers will not be processed to charities and not-for-profit organisations"
+          }
+        },
+        "required": ["reason", "account_name", "bank", "account_number"],
+        "order": ["account_name", "account_number_header", "account_number", "bank", "reason", "nickname", "email_address"],
+        "schema": "http:\/\/json-schema.org\/draft-07\/schema#",
+        "id": "http:\/\/example.com\/root.json"
+      }
+    },
+    "links": {
+      "self": "http:\/\/form-service\/forms\/43abcd43-753d-42dd-a62f-b047ba29dca1"
+    }
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": [{
+    "id": 1180,
+    "name": "Australia & New Zealand Banking Group Ltd",
+    "bank_name": "Australia & New Zealand Banking Group Ltd",
+    "code": "SG001",
+    "bank_code": "SG001",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1181,
+    "name": "Bangkok Bank Public Company Ltd",
+    "bank_name": "Bangkok Bank Public Company Ltd",
+    "code": "SG002",
+    "bank_code": "SG002",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1184,
+    "name": "Bank  of India",
+    "bank_name": "Bank  of India",
+    "code": "SG005",
+    "bank_code": "SG005",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1185,
+    "name": "Bank  of New Zealand",
+    "bank_name": "Bank  of New Zealand",
+    "code": "SG006",
+    "bank_code": "SG006",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1182,
+    "name": "Bank of America NA",
+    "bank_name": "Bank of America NA",
+    "code": "SG003",
+    "bank_code": "SG003",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1183,
+    "name": "Bank of China Limited",
+    "bank_name": "Bank of China Limited",
+    "code": "SG004",
+    "bank_code": "SG004",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1186,
+    "name": "BNP  Paribas",
+    "bank_name": "BNP  Paribas",
+    "code": "SG007",
+    "bank_code": "SG007",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1187,
+    "name": "Chinatrust Commercial Bank Co Ltd",
+    "bank_name": "Chinatrust Commercial Bank Co Ltd",
+    "code": "SG008",
+    "bank_code": "SG008",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1188,
+    "name": "CIMB Bank  Berhad",
+    "bank_name": "CIMB Bank  Berhad",
+    "code": "SG009",
+    "bank_code": "SG009",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1189,
+    "name": "CITIBANK (SINGAPORE)",
+    "bank_name": "CITIBANK (SINGAPORE)",
+    "code": "SG010",
+    "bank_code": "SG010",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1190,
+    "name": "Commerzbank AG",
+    "bank_name": "Commerzbank AG",
+    "code": "SG011",
+    "bank_code": "SG011",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1191,
+    "name": "Credit Agricole Corporate and Investment Bank",
+    "bank_name": "Credit Agricole Corporate and Investment Bank",
+    "code": "SG012",
+    "bank_code": "SG012",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1192,
+    "name": "DBS Bank  Ltd",
+    "bank_name": "DBS Bank  Ltd",
+    "code": "SG013",
+    "bank_code": "SG013",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1193,
+    "name": "Deutsche Bank  AG",
+    "bank_name": "Deutsche Bank  AG",
+    "code": "SG014",
+    "bank_code": "SG014",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1194,
+    "name": "DnB NOR Bank  ASA",
+    "bank_name": "DnB NOR Bank  ASA",
+    "code": "SG015",
+    "bank_code": "SG015",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1195,
+    "name": "Dresdner Bank  AG",
+    "bank_name": "Dresdner Bank  AG",
+    "code": "SG016",
+    "bank_code": "SG016",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1196,
+    "name": "FAR EASTERN BANK",
+    "bank_name": "FAR EASTERN BANK",
+    "code": "SG017",
+    "bank_code": "SG017",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1197,
+    "name": "First Commercial Bank",
+    "bank_name": "First Commercial Bank",
+    "code": "SG018",
+    "bank_code": "SG018",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1198,
+    "name": "HL Bank",
+    "bank_name": "HL Bank",
+    "code": "SG019",
+    "bank_code": "SG019",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1199,
+    "name": "ICICI Bank Limited",
+    "bank_name": "ICICI Bank Limited",
+    "code": "SG020",
+    "bank_code": "SG020",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1200,
+    "name": "Indian   Bank",
+    "bank_name": "Indian   Bank",
+    "code": "SG021",
+    "bank_code": "SG021",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1201,
+    "name": "Indian Overseas  Bank",
+    "bank_name": "Indian Overseas  Bank",
+    "code": "SG022",
+    "bank_code": "SG022",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1202,
+    "name": "Intesa  Sanpaolo S.P.A.",
+    "bank_name": "Intesa  Sanpaolo S.P.A.",
+    "code": "SG023",
+    "bank_code": "SG023",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1203,
+    "name": "JPMorgan Chase Bank",
+    "bank_name": "JPMorgan Chase Bank",
+    "code": "SG024",
+    "bank_code": "SG024",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1204,
+    "name": "Korea  Exchange Bank",
+    "bank_name": "Korea  Exchange Bank",
+    "code": "SG025",
+    "bank_code": "SG025",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1205,
+    "name": "Landesbank Baden Wurttemberg",
+    "bank_name": "Landesbank Baden Wurttemberg",
+    "code": "SG026",
+    "bank_code": "SG026",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1206,
+    "name": "Malayan Banking Berhad",
+    "bank_name": "Malayan Banking Berhad",
+    "code": "SG027",
+    "bank_code": "SG027",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1207,
+    "name": "Mizuho Corporate Bank",
+    "bank_name": "Mizuho Corporate Bank",
+    "code": "SG028",
+    "bank_code": "SG028",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1208,
+    "name": "National Australia Bank  Ltd",
+    "bank_name": "National Australia Bank  Ltd",
+    "code": "SG029",
+    "bank_code": "SG029",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1209,
+    "name": "Nordea  Bank Finland Plc",
+    "bank_name": "Nordea  Bank Finland Plc",
+    "code": "SG030",
+    "bank_code": "SG030",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1210,
+    "name": "Oversea-Chinese Banking Corporation Ltd",
+    "bank_name": "Oversea-Chinese Banking Corporation Ltd",
+    "code": "SG031",
+    "bank_code": "SG031",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1211,
+    "name": "P.T. Bank  Negara Indonesia(Persero) Tbk",
+    "bank_name": "P.T. Bank  Negara Indonesia(Persero) Tbk",
+    "code": "SG032",
+    "bank_code": "SG032",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1212,
+    "name": "Post Office Savings Bank",
+    "bank_name": "Post Office Savings Bank",
+    "code": "SG033",
+    "bank_code": "SG033",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1213,
+    "name": "RHB Bank  Berhad",
+    "bank_name": "RHB Bank  Berhad",
+    "code": "SG034",
+    "bank_code": "SG034",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1214,
+    "name": "Singapore Island Bank  Limited",
+    "bank_name": "Singapore Island Bank  Limited",
+    "code": "SG035",
+    "bank_code": "SG035",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1215,
+    "name": "Skandinaviska Enskilda Banken AB (publ)",
+    "bank_name": "Skandinaviska Enskilda Banken AB (publ)",
+    "code": "SG036",
+    "bank_code": "SG036",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1216,
+    "name": "Societe  Generale",
+    "bank_name": "Societe  Generale",
+    "code": "SG037",
+    "bank_code": "SG037",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1217,
+    "name": "Standard Chartered  Bank",
+    "bank_name": "Standard Chartered  Bank",
+    "code": "SG038",
+    "bank_code": "SG038",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1218,
+    "name": "State Bank of  India",
+    "bank_name": "State Bank of  India",
+    "code": "SG039",
+    "bank_code": "SG039",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1219,
+    "name": "Sumitomo Mitsui Banking Corporation",
+    "bank_name": "Sumitomo Mitsui Banking Corporation",
+    "code": "SG040",
+    "bank_code": "SG040",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1220,
+    "name": "Svenska Handelsbanken AB (publ)",
+    "bank_name": "Svenska Handelsbanken AB (publ)",
+    "code": "SG041",
+    "bank_code": "SG041",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1221,
+    "name": "The Bank of East Asia Ltd",
+    "bank_name": "The Bank of East Asia Ltd",
+    "code": "SG042",
+    "bank_code": "SG042",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1222,
+    "name": "The Bank of Tokyo-Mitsubishi UFJ",
+    "bank_name": "The Bank of Tokyo-Mitsubishi UFJ",
+    "code": "SG043",
+    "bank_code": "SG043",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1223,
+    "name": "The Hongkong & Shanghai Banking Corporation Ltd",
+    "bank_name": "The Hongkong & Shanghai Banking Corporation Ltd",
+    "code": "SG044",
+    "bank_code": "SG044",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1224,
+    "name": "THE ROYAL  BANK  OF SCOTLAND  N.V.",
+    "bank_name": "THE ROYAL  BANK  OF SCOTLAND  N.V.",
+    "code": "SG045",
+    "bank_code": "SG045",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1225,
+    "name": "UCO  Bank",
+    "bank_name": "UCO  Bank",
+    "code": "SG046",
+    "bank_code": "SG046",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1226,
+    "name": "United Overseas Bank Ltd",
+    "bank_name": "United Overseas Bank Ltd",
+    "code": "SG047",
+    "bank_code": "SG047",
+    "input_mask": null,
+    "validation_string": null
+  }]
+}

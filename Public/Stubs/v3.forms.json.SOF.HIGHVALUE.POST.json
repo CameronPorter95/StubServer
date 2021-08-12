@@ -1,0 +1,51 @@
+{
+  "data": {
+    "type": "forms",
+    "id": "3ebf1587-9260-4c51-a638-36ef199a247b",
+    "attributes": {
+      "JSONSchema": {
+        "type": "object",
+        "title": "source_of_funds",
+        "properties": {
+          "relationship": {
+            "type": "array",
+            "title": "Relationship to Receiver",
+            "lookupPath": "$.relationship",
+            "keyboard": "text",
+            "initialValue": "Select...",
+            "placeholder": "Select...",
+            "isEnabled": "true",
+            "values": ["Purchaser or Seller", "No relationship", "Employee or Employer", "Family member", "Friend"]
+          },
+          "source_of_funds": {
+            "type": "array",
+            "title": "Source of Funds",
+            "lookupPath": "$.source_of_funds",
+            "keyboard": "text",
+            "initialValue": "Select...",
+            "placeholder": "Select...",
+            "isEnabled": "true",
+            "values": ["Salary", "Savings", "Loan from bank", "Self Employment or Business", "Loan from friends or family", "Proceeds from property sale", "Credit card or cash advance"]
+          },
+          "employment": {
+            "type": "array",
+            "title": "Employment",
+            "lookupPath": "$.employment",
+            "keyboard": "text",
+            "initialValue": "Select...",
+            "placeholder": "Select...",
+            "isEnabled": "true",
+            "values": ["Agriculture or Animal Farming", "Business process Outsourcing (e.g. Call centers or Billing or Credit or Collections)", "Construction", "Casino or Gaming Clubs", "Embassy or Foreign Consulate", "Finance or Insurance or Banking", "Food Services or Food Processing", "Non-Government Organisation", "Government Services", "IT or Software", "Manufacturing", "Medical or Health Services", "Other"]
+          }
+        },
+        "required": ["relationship", "source_of_funds", "employment"],
+        "order": ["relationship", "source_of_funds", "employment"],
+        "schema": "http:\/\/json-schema.org\/draft-07\/schema#",
+        "id": "http:\/\/example.com\/root.json"
+      }
+    },
+    "links": {
+      "self": "http:\/\/form-service\/forms\/3ebf1587-9260-4c51-a638-36ef199a247b"
+    }
+  }
+}

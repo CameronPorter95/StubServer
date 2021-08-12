@@ -1,0 +1,197 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": [{
+    "id": 1152,
+    "name": "BANGKOK BANK PUBLIC COMPANY LIMITED (BBL)",
+    "bank_name": "BANGKOK BANK PUBLIC COMPANY LIMITED (BBL)",
+    "code": "TH01",
+    "bank_code": "TH01",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1169,
+    "name": "BANK FOR AGRICULTURE AND AGRICULTURAL COOPERATIVES (BAAC)",
+    "bank_name": "BANK FOR AGRICULTURE AND AGRICULTURAL COOPERATIVES (BAAC)",
+    "code": "TH18",
+    "bank_code": "TH18",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1163,
+    "name": "BANK OF AYUDHYA PUBLIC COMPANY LIMITED (BAY)",
+    "bank_name": "BANK OF AYUDHYA PUBLIC COMPANY LIMITED (BAY)",
+    "code": "TH12",
+    "bank_code": "TH12",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1161,
+    "name": "CIMB THAI BANK PUBLIC COMPANY LIMITED (CIMBT)",
+    "bank_name": "CIMB THAI BANK PUBLIC COMPANY LIMITED (CIMBT)",
+    "code": "TH10",
+    "bank_code": "TH10",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1158,
+    "name": "CITIBANK N A CITI BANGKOK BRANCH",
+    "bank_name": "CITIBANK N A CITI BANGKOK BRANCH",
+    "code": "TH07",
+    "bank_code": "TH07",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1168,
+    "name": "DEUTSCHE BANK AKTIENGESELLSCHAFT (DB)",
+    "bank_name": "DEUTSCHE BANK AKTIENGESELLSCHAFT (DB)",
+    "code": "TH17",
+    "bank_code": "TH17",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1166,
+    "name": "GOVERNMENT SAVINGS BANK (GSB)",
+    "bank_name": "GOVERNMENT SAVINGS BANK (GSB)",
+    "code": "TH15",
+    "bank_code": "TH15",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1176,
+    "name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (THAI) PUBLIC COMPANY LIMITED (ICBC (THAI)",
+    "bank_name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (THAI) PUBLIC COMPANY LIMITED (ICBC (THAI)",
+    "code": "TH25",
+    "bank_code": "TH25",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1173,
+    "name": "ISLAMIC BANK OF THAILAND (ISBT)",
+    "bank_name": "ISLAMIC BANK OF THAILAND (ISBT)",
+    "code": "TH22",
+    "bank_code": "TH22",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1153,
+    "name": "KASIKORNBANK PUBLIC COMPANY LIMITED (KBANK)",
+    "bank_name": "KASIKORNBANK PUBLIC COMPANY LIMITED (KBANK)",
+    "code": "TH02",
+    "bank_code": "TH02",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1175,
+    "name": "KIATNAKIN BANK PUBLIC COMPANY LIMITED (KK)",
+    "bank_name": "KIATNAKIN BANK PUBLIC COMPANY LIMITED (KK)",
+    "code": "TH24",
+    "bank_code": "TH24",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1155,
+    "name": "KRUNG THAI BANK PUBLIC COMPANY LIMITED (KTB)",
+    "bank_name": "KRUNG THAI BANK PUBLIC COMPANY LIMITED (KTB)",
+    "code": "TH04",
+    "bank_code": "TH04",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1726,
+    "name": "KRUNGSRI BANK",
+    "bank_name": "KRUNGSRI BANK",
+    "code": "TH0205",
+    "bank_code": "TH0205",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1178,
+    "name": "LAND AND HOUSES BANK PUBLIC COMPANY LIMITED (LH BANK)",
+    "bank_name": "LAND AND HOUSES BANK PUBLIC COMPANY LIMITED (LH BANK)",
+    "code": "TH27",
+    "bank_code": "TH27",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1170,
+    "name": "MIZUHO BANK BANGKOK BRANCH (MHBC)",
+    "bank_name": "MIZUHO BANK BANGKOK BRANCH (MHBC)",
+    "code": "TH19",
+    "bank_code": "TH19",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1157,
+    "name": "SIAM COMMERCIAL BANK PUBLIC COMPANY LIMITED (SCB)",
+    "bank_name": "SIAM COMMERCIAL BANK PUBLIC COMPANY LIMITED (SCB)",
+    "code": "TH06",
+    "bank_code": "TH06",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1160,
+    "name": "STANDARD CHARTERED BANK (THAI) PUBLIC COMPANY LIMITED (SCBT)",
+    "bank_name": "STANDARD CHARTERED BANK (THAI) PUBLIC COMPANY LIMITED (SCBT)",
+    "code": "TH09",
+    "bank_code": "TH09",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1159,
+    "name": "SUMITOMO MITSUI BANKING CORPORATION (SMBC)",
+    "bank_name": "SUMITOMO MITSUI BANKING CORPORATION (SMBC)",
+    "code": "TH08",
+    "bank_code": "TH08",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1177,
+    "name": "THAI CREDIT RETAIL BANK PUBLIC COMPANY LIMITED (TCRB)",
+    "bank_name": "THAI CREDIT RETAIL BANK PUBLIC COMPANY LIMITED (TCRB)",
+    "code": "TH26",
+    "bank_code": "TH26",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1167,
+    "name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED (HSBC)",
+    "bank_name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED (HSBC)",
+    "code": "TH16",
+    "bank_code": "TH16",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1154,
+    "name": "THE ROYAL BANK OF SCOTLAND N V (RBS) BANGKOK BRANCH",
+    "bank_name": "THE ROYAL BANK OF SCOTLAND N V (RBS) BANGKOK BRANCH",
+    "code": "TH03",
+    "bank_code": "TH03",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1174,
+    "name": "TISCO BANK PUBLIC COMPANY LIMITED (TISCO)",
+    "bank_name": "TISCO BANK PUBLIC COMPANY LIMITED (TISCO)",
+    "code": "TH23",
+    "bank_code": "TH23",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1156,
+    "name": "TMB BANK PUBLIC COMPANY LIMITED (TMB)",
+    "bank_name": "TMB BANK PUBLIC COMPANY LIMITED (TMB)",
+    "code": "TH05",
+    "bank_code": "TH05",
+    "input_mask": null,
+    "validation_string": null
+  }, {
+    "id": 1162,
+    "name": "UNITED OVERSEAS BANK (THAI) PUBLIC COMPANY LIMITED (UOBT)",
+    "bank_name": "UNITED OVERSEAS BANK (THAI) PUBLIC COMPANY LIMITED (UOBT)",
+    "code": "TH11",
+    "bank_code": "TH11",
+    "input_mask": null,
+    "validation_string": null
+  }]
+}

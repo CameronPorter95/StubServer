@@ -1,0 +1,17 @@
+{
+  "data": {
+    "type": "estimates",
+    "id": "029aff44-eec8-4694-9fb6-3738483d3020",
+    "attributes": {
+      "send_currency": "NZD",
+      "payout_currency": "PHP",
+      "send_amount": "1000.00",
+      "created_at": "2020-08-03 01:21:20",
+      "expires_at": "2050-08-03 01:31:20",
+      "base_currency": "NZD",
+      "payout_amount": "117184.20",
+      "rate": "117.18420",
+      "x-estimate-token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Im9ybjprZXk6dHJhbnNmZXItcXVvdGUtc2VydmljZSJ9.eyJqdGkiOiIyYzc2ZjRmYy1lNjRlLTQ3NmItYmE2Mi1hMzUyYTFlMGIxM2IiLCJzdWIiOiJvcm46c2VydmljZTp0cmFuc2Zlci1xdW90ZTplc3RpbWF0ZXNcLzMyNWNkN2UzLWU3ZjgtNGMwMS1iMWY0LTc1NDZmMTZlNDZjMCIsImV4cCI6MTYyODczNzMwOSwiZGF0YSI6eyJzZW5kX2Ftb3VudCI6IjEwMDAuMDAiLCJwYXlvdXRfY3VycmVuY3kiOiJIS0QiLCJzZW5kX2N1cnJlbmN5IjoiTlpEIiwiYmFzZV9jdXJyZW5jeSI6Ik5aRCIsInBheW91dF9hbW91bnQiOiI1NDM2LjIwIiwicmF0ZSI6IjUuNDM2MjAifX0.H3qDcjIkPJSBHPdu9QQUyDAapMDuYicdqL2kkrCASSz_QZriRlVOFc4ekci1_11wZhEPXNaulb66ZbImeuOtTPkeJ2pJJefuMz-VZa8TOt_8XFLUp_UE3S706sstptgIW-ku_XIIlTpc2GWrvZMcraUgX8eXS9sh-nT-Sa6kkEnYncfAXQAhP3rnGX9erUyvgbHzdedJoL4kvOcO8rRtRLtPpmyIIXq0bfNPDtrceUAAdo4OSxgNaNkgZPfIcFSidVTC9XV2VK_wB5npA53rBO3Lryjyz3BytfkxyaGGAZi6mecTPdw16XqRKD3JYYwYkQiSvVJc9_QlOeA5a63YfQ"
+    }
+  }
+}

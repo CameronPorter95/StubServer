@@ -1,0 +1,133 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": [{
+    "id": "4126037",
+    "payment_number": "4213719",
+    "send_currency": "AUD",
+    "payout_currency": "USD",
+    "send_amount": "10.00",
+    "payout_amount": "6.96",
+    "fee_amount": "4.00",
+    "status": "Awaiting Payment",
+    "created": "2020-03-03 04:39:11",
+    "exchange_rate": "0.69630",
+    "generated": "0",
+    "recipient": {
+      "uuid": "5e5ddb00-86ac-483d-ade2-00140a1000f3",
+      "name": "Mary Potter",
+      "type": "Bank Deposit"
+    }
+  }, {
+    "id": "4126036",
+    "payment_number": "4213718",
+    "send_currency": "AUD",
+    "payout_currency": "INR",
+    "send_amount": "5.00",
+    "payout_amount": "242.68",
+    "fee_amount": "0.00",
+    "status": "Funds Paid",
+    "created": "2020-03-03 04:37:53",
+    "exchange_rate": "48.53580",
+    "generated": "0",
+    "recipient": {
+      "uuid": "5e5ddb89-3750-41c5-aaf7-00140a1000f3",
+      "name": "Vivaan",
+      "type": "Bank Deposit"
+    }
+  }, {
+    "id": "4126035",
+    "payment_number": "4213717",
+    "send_currency": "AUD",
+    "payout_currency": "INR",
+    "send_amount": "5.00",
+    "payout_amount": "242.68",
+    "fee_amount": "0.00",
+    "status": "Funds Paid",
+    "created": "2020-03-03 04:35:21",
+    "exchange_rate": "48.53580",
+    "generated": "0",
+    "recipient": {
+      "uuid": "5e5ddbd6-d74c-4af1-8c26-00140a1000f3",
+      "name": "Aditya Patel",
+      "type": "Bank Deposit"
+    }
+  }, {
+    "id": "4126034",
+    "payment_number": "4213716",
+    "send_currency": "NZD",
+    "payout_currency": "AUD",
+    "send_amount": "900.00",
+    "payout_amount": "794.04",
+    "fee_amount": "4.00",
+    "status": "Funds Paid",
+    "created": "2020-03-03 04:32:32",
+    "exchange_rate": "0.88227",
+    "generated": "0",
+    "recipient": {
+      "uuid": "5e5ddc26-1e90-4f8b-9ca3-00140a1000f3",
+      "name": "Russell Stapleton",
+      "type": "Bank Deposit"
+    }
+  }, {
+    "id": "4126033",
+    "payment_number": "4213715",
+    "send_currency": "NZD",
+    "payout_currency": "LKR",
+    "send_amount": "900.00",
+    "payout_amount": "103503.42",
+    "fee_amount": "0.00",
+    "status": "Funds Paid",
+    "created": "2020-03-03 04:31:55",
+    "exchange_rate": "115.00380",
+    "generated": "0",
+    "recipient": {
+      "uuid": "5e5ddc5d-ce1c-43d6-874b-00140a1000f3",
+      "name": "Levita Gonzales",
+      "type": "Bank Deposit"
+    }
+  }, {
+    "id": "4126032",
+    "payment_number": "4213714",
+    "send_currency": "AUD",
+    "payout_currency": "THB",
+    "send_amount": "50.00",
+    "payout_amount": "1114.82",
+    "fee_amount": "4.00",
+    "status": "Awaiting Payment",
+    "created": "2020-03-03 04:30:43",
+    "exchange_rate": "22.29640",
+    "generated": "0",
+    "recipient": {
+      "uuid": "5e5dd9f4-572c-4f33-a1fa-00150a1000f3",
+      "name": "Hieu Minh",
+      "type": "Bank Deposit"
+    }
+  }, {
+    "id": "4126031",
+    "payment_number": "4213713",
+    "send_currency": "NZD",
+    "payout_currency": "SGD",
+    "send_amount": "1000.00",
+    "payout_amount": "896.30",
+    "fee_amount": "4.00",
+    "status": "Awaiting Payment",
+    "created": "2020-03-03 04:27:08",
+    "exchange_rate": "0.89630",
+    "generated": "0",
+    "recipient": {
+      "uuid": "5e5dd9b6-4444-4b92-98cf-00120a1000f3",
+      "name": "Stan Markson",
+      "type": "Bank Deposit"
+    }
+  }],
+  "pagination": {
+    "total": 7,
+    "per_page": 10,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 7,
+    "current_displayed": 7
+  }
+}

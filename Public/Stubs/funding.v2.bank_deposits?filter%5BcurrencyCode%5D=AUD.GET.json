@@ -1,0 +1,16 @@
+{
+  "data": [{
+    "type": "bank_deposits",
+    "id": "2",
+    "attributes": {
+      "bankName": "GC Mutual Bank",
+      "accountName": "OrbitRemit",
+      "currencyCode": "AUD",
+      "bsb": "659000",
+      "accountNumber": "300037754"
+    },
+    "links": {
+      "self": "\/bank_deposits\/2"
+    }
+  }]
+}

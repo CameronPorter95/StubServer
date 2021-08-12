@@ -1,0 +1,74 @@
+{
+  "data": {
+    "type": "forms",
+    "id": "bc7a5302-d272-41c1-a307-e8fc46560f84",
+    "attributes": {
+      "JSONSchema": {
+        "type": "object",
+        "title": "recipients",
+        "properties": {
+          "nickname": {
+            "type": "string",
+            "title": "Nickname (Optional)",
+            "lookupPath": "$.nickname",
+            "keyboard": "text",
+            "isEnabled": "false"
+          },
+          "reason": {
+            "type": "array",
+            "title": "Transfer Purpose",
+            "lookupPath": "$.reason",
+            "keyboard": "text",
+            "isEnabled": "false",
+            "values": ["I'm supporting family or friends", "I'm sending money to myself", "I'm purchasing goods or services", "I'm making a property payment"]
+          },
+          "account_name": {
+            "type": "contact",
+            "title": "Account Name",
+            "lookupPath": "$.name",
+            "keyboard": "text",
+            "validation": {
+              "^(.+)$": null
+            },
+            "isEnabled": "false",
+            "filter": "full_name"
+          },
+          "email_address": {
+            "type": "string",
+            "title": "Email Address (Optional)",
+            "lookupPath": "$.details.email_address",
+            "keyboard": "emailAddress",
+            "validation": {
+              "[A-Z0-9a-z._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,64}": null
+            },
+            "isEnabled": "false"
+          },
+          "bank": {
+            "type": "remote",
+            "title": "Bank",
+            "lookupPath": "$.details.bank_id",
+            "keyboard": "text",
+            "isEnabled": "false",
+            "url": "references\/banks.json?country_code=th",
+            "valuePath": "$.data[*].id",
+            "namePath": "$.data[*].bank_name"
+          },
+          "account_number": {
+            "type": "string",
+            "title": "Account Number",
+            "lookupPath": "$.details.account_number",
+            "keyboard": "text",
+            "isEnabled": "false"
+          }
+        },
+        "required": ["reason", "account_name", "bank", "account_number"],
+        "order": ["account_name", "account_number", "bank", "reason", "nickname", "email_address"],
+        "schema": "http:\/\/json-schema.org\/draft-07\/schema#",
+        "id": "http:\/\/example.com\/root.json"
+      }
+    },
+    "links": {
+      "self": "http:\/\/form-service\/forms\/bc7a5302-d272-41c1-a307-e8fc46560f84"
+    }
+  }
+}

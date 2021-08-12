@@ -1,0 +1,102 @@
+{
+  "data": {
+    "type": "forms",
+    "id": "dd6adeea-ff51-41be-aabb-0e6c009dca1f",
+    "attributes": {
+      "JSONSchema": {
+        "type": "object",
+        "title": "recipients",
+        "properties": {
+          "nickname": {
+            "type": "string",
+            "title": "Nickname (Optional)",
+            "lookupPath": "$.nickname",
+            "keyboard": "text",
+            "isEnabled": "false"
+          },
+          "reason": {
+            "type": "array",
+            "title": "Transfer Purpose",
+            "lookupPath": "$.reason",
+            "keyboard": "text",
+            "isEnabled": "false",
+            "values": ["I'm supporting family or friends", "I'm sending money to myself", "I'm purchasing goods or services", "I'm making a property payment"]
+          },
+          "account_name": {
+            "type": "contact",
+            "title": "Full name of account holder",
+            "lookupPath": "$.name",
+            "keyboard": "text",
+            "validation": {
+              "^(.+)$": null
+            },
+            "isEnabled": "false",
+            "filter": "full_name"
+          },
+          "email_address": {
+            "type": "string",
+            "title": "Email Address (Optional)",
+            "lookupPath": "$.details.email_address",
+            "keyboard": "emailAddress",
+            "validation": {
+              "[A-Z0-9a-z._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,64}": null
+            },
+            "isEnabled": "false"
+          },
+          "account_number_header": {
+            "type": "header",
+            "title": "Please note that charity recipients are not supported and transfers will not be processed to charities."
+          },
+          "account_number": {
+            "type": "string",
+            "title": "Account Number",
+            "lookupPath": "$.details.account_number",
+            "keyboard": "numberPad",
+            "validation": {
+              "^\\d{9,18}$": null
+            },
+            "isEnabled": "false"
+          },
+          "bank": {
+            "type": "remote",
+            "title": "Bank",
+            "lookupPath": "$.details.bank_id",
+            "keyboard": "text",
+            "isEnabled": "false",
+            "url": "references\/banks.json?country_code=in",
+            "valuePath": "$.data[*].id",
+            "namePath": "$.data[*].bank_name"
+          },
+          "ifsc_header": {
+            "type": "header",
+            "title": "Your recipient's banks IFSC code"
+          },
+          "ifsc": {
+            "type": "string",
+            "title": "IFSC",
+            "lookupPath": "$.details.branch_code",
+            "actionButtonText": "Lookup IFSC",
+            "actionButtonLink": "https:\/\/www.ifsccodebank.com\/",
+            "keyboard": "text",
+            "validation": {
+              "^[A-Z0-9]{11}$": null
+            },
+            "isEnabled": "false"
+          },
+          "account_name_header": {
+            "type": "header",
+            "title": "Please enter your recipient's full name as registered on their bank account.",
+            "subTitle": "Any missing or incorrect names could cause delays to your transfer"
+          }
+        },
+        "required": ["reason", "account_name", "account_number", "bank", "ifsc"],
+        "order": ["account_name_header", "account_name", "account_number_header", "account_number", "bank", "ifsc_header", "ifsc", "reason", "nickname", "email_address"],
+        "schema": "http:\/\/json-schema.org\/draft-07\/schema#",
+        "id": "http:\/\/example.com\/root.json"
+      }
+    },
+    "links": {
+      "self": "http:\/\/form-service\/forms\/dd6adeea-ff51-41be-aabb-0e6c009dca1f"
+    }
+  }
+}

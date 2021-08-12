@@ -1,0 +1,29 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": {
+    "id": "5e5dd9f4-572c-4f33-a1fa-00150a1000f3",
+    "type": "bank_account",
+    "name": "Hieu Minh",
+    "country_code": "th",
+    "country": {
+      "name": "Thailand",
+      "country_code": "th",
+      "currency_code": "THB"
+    },
+    "reason": "Im supporting family or friends",
+    "details": {
+      "bank_id": "1163",
+      "bank_name": "BANK OF AYUDHYA PUBLIC COMPANY LIMITED (BAY)",
+      "bank_code": "TH12",
+      "account_number": "894628467",
+      "branch_code": "TH120001",
+      "account_type": "personal",
+      "address1": "Tiffany St",
+      "address2": "Sommesdon",
+      "city": "Dil",
+      "postcode": "1919",
+      "email_address": "hieu.minh@gmail.com"
+    }
+  }
+}

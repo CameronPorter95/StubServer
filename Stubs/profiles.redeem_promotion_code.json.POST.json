@@ -1,7 +1,0 @@
-{
-  "status": "success",
-  "code": 200,
-  "data": {
-    "free_payments": 5
-  }
-}

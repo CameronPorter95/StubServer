@@ -1,0 +1,7 @@
+{
+  "status": "error",
+  "code": 400,
+  "data": {
+    "message": "payment_id already has a completed or pending resource."
+  }
+}

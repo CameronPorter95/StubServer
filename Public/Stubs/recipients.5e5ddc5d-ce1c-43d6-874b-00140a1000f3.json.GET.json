@@ -1,0 +1,26 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": {
+    "id": "5e5ddc5d-ce1c-43d6-874b-00140a1000f3",
+    "type": "bank_account",
+    "name": "Levita Gonzales",
+    "country_code": "lk",
+    "country": {
+      "name": "Sri Lanka",
+      "country_code": "lk",
+      "currency_code": "LKR"
+    },
+    "reason": "Im making a property payment",
+    "details": {
+      "bank_id": "421",
+      "bank_name": "Habib Bank",
+      "bank_code": "7074",
+      "account_number": "1345167016",
+      "branch_code": "001",
+      "account_type": "personal",
+      "email_address": "levita.gonzales@hotmail.com",
+      "branch_name": "Main Branch"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "type": "transfers",
+    "id": "4126038",
+    "attributes": {
+      "recipient_id": "60260832-2380-486b-9406-00160a2c0678",
+      "free_transfer": "0",
+      "reason": "I'm supporting family or friends",
+      "employment": "Government Services",
+      "source_of_funds": "Proceeds from property sale",
+      "relationship": "Family member",
+      "send_amount": "5.00",
+      "send_currency": "NZD",
+      "payout_currency": "PHP",
+      "base_currency": "NZD",
+      "payout_amount": "160.51",
+      "rate": "32.10240",
+      "estimate_id": "54389372-d276-4222-a9fe-7c54480de6ec",
+      "customer_id": "346581",
+      "quote_id": "5438",
+      "source_trading_account_id": "60",
+      "payout_trading_account_id": "57",
+      "created_at": "2021-08-12 11:16:00"
+    }
+  }
+}

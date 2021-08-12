@@ -1,0 +1,55 @@
+{
+  "core": {
+    "identifier": "f27f6c8721aff0d383693b6e447135a38276e857c1c154d7",
+    "authentication": "jwt",
+    "brand_id": 114094036174,
+    "updated_at": "2021-06-28T23:16:49Z"
+  },
+  "rma": {
+    "enabled": false,
+    "visits": 15,
+    "duration": 7,
+    "delay": 3,
+    "tags": [],
+    "ios_store_url": "",
+    "android_store_url": ""
+  },
+  "support": {
+    "conversations": {
+      "enabled": true
+    },
+    "contact_us": {
+      "tags": []
+    },
+    "attachments": {
+      "enabled": true,
+      "max_attachment_size": 52428800
+    },
+    "ticket_forms": {
+      "available": true
+    },
+    "never_request_email": false,
+    "show_closed_requests": true,
+    "show_referrer_logo": true,
+    "system_message": "Your message has been sent. If a reply is needed, we will contact you shortly.",
+    "referrer_url": "https://www.zendesk.com/embeddables",
+    "csat": {
+      "enabled": false
+    }
+  },
+  "help_center": {
+    "enabled": true,
+    "locale": "en-us",
+    "help_center_article_voting_enabled": true
+  },
+  "blips": {
+    "permissions": {
+      "required": false,
+      "behavioural": false,
+      "pathfinder": true
+    }
+  },
+  "answer_bot": {
+    "enabled": true
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": {
+    "id": "4126037",
+    "payment_number": "4213719",
+    "exchange_rate": "0.69630",
+    "send_currency": "AUD",
+    "payout_currency": "USD",
+    "send_amount": "10.00",
+    "payout_amount": "6.96",
+    "total_amount": "14.00",
+    "fee_amount": "4.00",
+    "status": "Awaiting Payment",
+    "created": "2020-03-03 04:39:11",
+    "reason": "Im supporting family or friends",
+    "type": null,
+    "customer": {
+      "id": "27",
+      "name": "Cameron Porter",
+      "first_name": "Cameron",
+      "last_name": "Porter",
+      "number": "85850986",
+      "email": "cameron.porter2@orbitremit.com",
+      "date_of_birth": "1978-10-30",
+      "contact_phone": "+643482647",
+      "address1": "5 Poop",
+      "address2": null,
+      "address3": null,
+      "city": "poop",
+      "postcode": "poop",
+      "country": "New Zealand"
+    },
+    "recipient": {
+      "id": "253903",
+      "uuid": "5e5ddb00-86ac-483d-ade2-00140a1000f3",
+      "type": "bank_account",
+      "name": "Mary Potter",
+      "country_code": "us",
+      "country_name": "United States",
+      "details": {
+        "bank_routing_number": "122105155",
+        "account_number": "757340467",
+        "phone_number": ""
+      },
+      "display_details": {
+        "bank_routing_number": "122105155",
+        "account_number": "757340467"
+      },
+      "extra_details": {
+        "address1": "Thompson ave",
+        "address2": "Collingwood",
+        "address3": null,
+        "city": "Los Angeles",
+        "postcode": "99501",
+        "email_address": "mary.potter@gmail.com",
+        "first_name": null,
+        "last_name": null,
+        "company_type": null,
+        "company_activity": null
+      },
+      "partner": {
+        "name": "Currency Cloud",
+        "id": "128252f7-de43-4d86-96be-51b90ed13aa6"
+      }
+    },
+    "bank_line_type": null,
+    "payment_supplement": [],
+    "progress": [{
+      "action": "created",
+      "created": "2020-03-03 04:39:11"
+    }],
+    "deposit_account": {
+      "account_name": "OrbitRemit",
+      "bsb": "659000",
+      "account_number": "300037754"
+    },
+    "status_display": {
+      "description": "",
+      "action_text": "",
+      "header_text": ""
+    }
+  }
+}

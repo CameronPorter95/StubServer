@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": {
+    "id": "5",
+    "type": "bank_account",
+    "name": "Sophie Abbott",
+    "country_code": "fj",
+    "country": {
+      "name": "Fiji",
+      "country_code": "fj",
+      "currency_code": "FJD"
+    },
+    "reason": "I'm supporting family or friends",
+    "details": {
+      "account_number": "123456-7890123456"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": {
+    "id": "4126038",
+    "payment_number": "4214851",
+    "exchange_rate": "32.10240",
+    "send_currency": "NZD",
+    "payout_currency": "PHP",
+    "send_amount": "5.00",
+    "payout_amount": "160.51",
+    "total_amount": "11.00",
+    "fee_amount": "6.00",
+    "status": "Awaiting Payment",
+    "created": "2021-08-11 23:16:07",
+    "reason": "Im supporting family or friends",
+    "type": null,
+    "customer": {
+      "id": "346581",
+      "name": "profile yes a profile",
+      "first_name": "profile",
+      "last_name": "yes a profile",
+      "number": "84185814",
+      "email": "cameronporter95+2@gmail.com",
+      "date_of_birth": "1976-05-04",
+      "contact_phone": "+64850206464",
+      "address1": "3 Findlay Street",
+      "address2": "Tawa",
+      "address3": "Wellington",
+      "city": "Wellington",
+      "postcode": "5028",
+      "country": "New Zealand",
+      "company": {
+        "legal_name": "Ornare Libero At Foundation",
+        "trading_name": "Dictum Inc.",
+        "company_number": "487067",
+        "deleted": null
+      }
+    },
+    "recipient": {
+      "id": "253903",
+      "uuid": "5e5ddb00-86ac-483d-ade2-00140a1000f3",
+      "type": "bank_account",
+      "name": "Mary Potter",
+      "country_code": "us",
+      "country_name": "United States",
+      "details": {
+        "bank_routing_number": "122105155",
+        "account_number": "757340467",
+        "phone_number": ""
+      },
+      "display_details": {
+        "bank_routing_number": "122105155",
+        "account_number": "757340467"
+      },
+      "extra_details": {
+        "address1": "Thompson ave",
+        "address2": "Collingwood",
+        "address3": null,
+        "city": "Los Angeles",
+        "postcode": "99501",
+        "email_address": "mary.potter@gmail.com",
+        "first_name": null,
+        "last_name": null,
+        "company_type": null,
+        "company_activity": null
+      },
+      "partner": {
+        "name": "Currency Cloud",
+        "id": "128252f7-de43-4d86-96be-51b90ed13aa6"
+      }
+    },
+    "bank_line_type": null,
+    "payment_supplement": {
+      "source_of_funds": "Proceeds from property sale",
+      "relationship_to_recipient": "Family member",
+      "employment": "Government Services",
+      "customer_place_of_birth": null,
+      "customer_nationality": null,
+      "recipient_place_of_birth": null,
+      "recipient_date_of_birth": null,
+      "recipient_nationality": null,
+      "recipient_contact_number": null
+    },
+    "progress": [{
+      "action": "created",
+      "created": "2021-08-11 23:16:07"
+    }],
+    "deposit_account": {
+      "account_name": "OrbitRemit",
+      "account_number": "02-0108-0476705-00"
+    },
+    "status_display": {
+      "description": "",
+      "action_text": "",
+      "header_text": ""
+    }
+  }
+}
