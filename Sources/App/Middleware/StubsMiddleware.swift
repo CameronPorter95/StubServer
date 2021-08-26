@@ -13,17 +13,26 @@ public final class StubsMiddleware: Middleware {
   /// - note: Must end with a slash.
   private let stubsDirectory: String
   private let resourcesDirectory: String
+  private let logsDirectory: String
 
   /// Creates a new `FileMiddleware`.
-  public init(publicDirectory: String) {
-    self.stubsDirectory = (publicDirectory.hasSuffix("/") ? publicDirectory : publicDirectory + "/").appending("Stubs/")
-    self.resourcesDirectory = (publicDirectory.hasSuffix("/") ? publicDirectory : publicDirectory + "/").appending("Resources/")
+  public init(directory: DirectoryConfiguration) {
+    self.stubsDirectory = directory.publicDirectory.appending("Stubs/")
+    self.resourcesDirectory = directory.resourcesDirectory
+    self.logsDirectory = directory.resourcesDirectory.appending("Logs/")
   }
 
   public func respond(to request: Request, chainingTo next: Responder) -> EventLoopFuture<Response> {
     let method = request.method
     let path = request.url.path.dropFirst().replacingOccurrences(of: "/", with: ".").replacingOccurrences(of: ":", with: ".")
     let query = request.url.query
+    
+    if request.method == .POST {
+      logToFile(request: request, message: """
+        \(request.description)
+        \(request.body.string ?? "")
+        """)
+    }
     
     if request.method == .POST,
     let postPath = try? getPOSTResponsePath(for: request, path: path, method: method, query: query) {
@@ -90,6 +99,27 @@ public final class StubsMiddleware: Middleware {
   func log(request: Request, message: String, level: Logger.Level = .info) {
     let log = Logger.Message.init(stringLiteral: message)
     request.logger.log(level: level, log)
+  }
+  
+  func logToFile(request: Request, message: String, level: Logger.Level = .info) {
+    let dateFormatter = DateFormatter()
+    dateFormatter.dateFormat = "yyyy-MM-DD"
+    let dateString = dateFormatter.string(from: Date())
+    let path = logsDirectory.appending("\(dateString).log")
+    
+    var isDir: ObjCBool = false
+    if FileManager.default.fileExists(atPath: path, isDirectory: &isDir) {
+      log(request: request, message: "log file exists, writing to \(path)")
+      let content = request.fileio.streamFile(at: path)
+      request.fileio.writeFile(ByteBuffer(string: """
+        \(content)
+        \(message)
+        
+        """), at: path)
+    } else {
+      log(request: request, message: "log file doesn't exist, creating at \(path)")
+      FileManager.default.createFile(atPath: path, contents: message.data(using: .utf8))
+    }
   }
 }
 
