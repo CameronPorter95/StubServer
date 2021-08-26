@@ -1,0 +1,17 @@
+{
+  "data": {
+    "type": "estimates",
+    "id": "5ac8c3c8-2daf-429f-b0e6-7002eabdbccd",
+    "attributes": {
+      "payout_currency": "AUD",
+      "send_amount": "1000.00",
+      "send_currency": "NZD",
+      "created_at": "2021-08-24 02:07:39",
+      "expires_at": "2050-08-09 04:24:35",
+      "base_currency": "NZD",
+      "payout_amount": "948.20",
+      "rate": "0.94820",
+      "x-estimate-token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Im9ybjprZXk6dHJhbnNmZXItcXVvdGUtc2VydmljZSJ9.eyJqdGkiOiJjMGZmYTYzYS1jNDVmLTQxZDktYjRiZi0xNGNjYjVlMDE5NWYiLCJzdWIiOiJvcm46c2VydmljZTp0cmFuc2Zlci1xdW90ZTplc3RpbWF0ZXNcLzVhYzhjM2M4LTJkYWYtNDI5Zi1iMGU2LTcwMDJlYWJkYmNjZCIsImV4cCI6MTYyOTc3MTQ1OSwiZGF0YSI6eyJwYXlvdXRfY3VycmVuY3kiOiJBVUQiLCJzZW5kX2Ftb3VudCI6IjEwMDAuMDAiLCJzZW5kX2N1cnJlbmN5IjoiTlpEIiwiYmFzZV9jdXJyZW5jeSI6Ik5aRCIsInBheW91dF9hbW91bnQiOiI5NDguMjAiLCJyYXRlIjoiMC45NDgyMCJ9fQ.CrKEQzpFfrGf3e_1ixQ8L4ujNZVTYn2MMPD_0X6H4795SWF0cNinapD_vWjtasfjfB1Yl3ukGIeAhBgB-2bBn4_9cNvYyzBe0ruXJ-mAmoPd3xRPkQSJfkqiyEroKT8q8X6buvQBjwqGmkIw2PnQsbfFjcQTqyuKfn6CPkG8dQzJivKK5QXaqt1c0fTVBkTbdOtI5goiM1DXJSgshW_8m-mHCqKTkYqtFUor5QixwEKiyY3QM-i3pI2h-CAlKTle3PTI06vuAwH_28_OPYCF19uHpPL-Pfv9DXbTZO-MAmiP0IhdkWkT5X_wEkEOw-hfaPuCSNhVUZHzeJAuL5yZ5A"
+    }
+  }
+}

@@ -20,7 +20,10 @@
     "PROFILE.FORCECREATE.REFRESH": ",,,,,,,1:::::::::::DHNPPZ______aaaaaaaabbbccccccccdddeeeeeeeeeeeeeeeffffffhiiiiiiillmmmnnnnnnnnoooooooooppprrrrrrrrrrrrrrrssssssssssssttttttttttttuuuuuuuvvyyyyyz{{{{}}}}",
     "PROFILE.FORCECREATE.AUD.USD": ",,,,,,1:::::::::ADDSUU____aaaaaaabbccccccddeeeeeeeeeeefffffiiiiiillmmmnnnnnnoooooooppprrrrrrrrrrrssssssssssttttttttuuuuuvvyyyy{{{}}}",
     "PROFILE.FORCECREATE.REFRESH.AUD.USD": ",,,,,,,1:::::::::::ADDSUU______aaaaaaaabbbccccccccdddeeeeeeeeeeeeeeeffffffhiiiiiiillmmmnnnnnnnnoooooooooppprrrrrrrrrrrrrrrssssssssssssttttttttttttuuuuuuuvvyyyyyz{{{{}}}}",
+    "PROFILE.FORCECREATE.NZD.AUD": ",,,,,,1:::::::::ADDNUZ____aaaaaaabbccccccddeeeeeeeeeeefffffiiiiiillmmmnnnnnnoooooooppprrrrrrrrrrrssssssssssttttttttuuuuuvvyyyy{{{}}}",
+    "PROFILE.FORCECREATE.REFRESH.NZD.AUD": ",,,,,,,1:::::::::::ADDNUZ______aaaaaaaabbbccccccccdddeeeeeeeeeeeeeeeffffffhiiiiiiillmmmnnnnnnnnoooooooooppprrrrrrrrrrrrrrrssssssssssssttttttttttttuuuuuuuvvyyyyyz{{{{}}}}",
     "ESTIMATE.HIGHVALUE": ",,,,.000000001233667:::::::DHNPPZ____aaaaaabcccccddddeeeeeeeeeiiimmmnnnnnooopprrrrrrssssssttttttttttuuuuuuyyyy{{{}}}",
-    "ESTIMATE.AUD.USD": ",,,,.000001233667:::::::ADDSUU____aaaaaabcccccddddeeeeeeeeeiiimmmnnnnnooopprrrrrrssssssttttttttttuuuuuuyyyy{{{}}}"
+    "ESTIMATE.AUD.USD": ",,,,.000001233667:::::::ADDSUU____aaaaaabcccccddddeeeeeeeeeiiimmmnnnnnooopprrrrrrssssssttttttttttuuuuuuyyyy{{{}}}",
+    "ESTIMATE.NZD.AUD": ",,,,.000001233667:::::::ADDNUZ____aaaaaabcccccddddeeeeeeeeeiiimmmnnnnnooopprrrrrrssssssttttttttttuuuuuuyyyy{{{}}}"
   }
 }

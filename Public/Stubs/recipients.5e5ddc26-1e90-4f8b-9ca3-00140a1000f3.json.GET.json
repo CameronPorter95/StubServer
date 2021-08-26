@@ -12,6 +12,8 @@
       "currency_code": "AUD"
     },
     "reason": "Im supporting family or friends",
+    "invalidated_at": "2021-08-08 03:21:56",
+    "invalidated_reason": "Test to invalidate a recipient.",
     "details": {
       "account_number": "123762-48832812",
       "account_type": "personal",
