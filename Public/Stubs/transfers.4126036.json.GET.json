@@ -66,13 +66,18 @@
     "bank_line_type": null,
     "payment_supplement": [],
     "progress": [{
-        "action": "created",
-        "created": "2020-03-03 04:37:53"
-      }, {
-        "action": "settled",
-        "created": "2021-02-18 21:22:31"
-      },
-    ],
+      "action": "created",
+      "created": "2020-03-03 04:37:53"
+    }, {
+      "action": "processing",
+      "created": "2020-11-06 00:29:46"
+    }, {
+      "action": "settled",
+      "created": "2020-11-06 00:29:46"
+    }, {
+      "action": "released",
+      "created": "2020-11-06 00:29:46"
+    }],
     "deposit_account": {
       "account_name": "OrbitRemit",
       "bsb": "659000",
